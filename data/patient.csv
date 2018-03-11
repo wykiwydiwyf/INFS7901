@@ -1,0 +1,1001 @@
+name,age,gender,address,pa_id,symptom,dur_in_hos(day)
+Ronnie Adamsen,80,Male,78 Ronald Regan Alley,1,Hirschsprung Disease,
+Marlyn Bloys,34,Female,43381 Meadow Vale Center,2,Pulmonary Valve Stenosis,
+Darell Cabell,75,Female,947 Springs Plaza,3,"¡Ý1 Mental, Emotional, Behavioral Disorder",
+Cornie Brewood,82,Male,31314 Basil Lane,4,Truncus Arteriosus,
+Barth Gullifant,76,Male,63257 Sunbrook Crossing,5,Pulmonary Valve Stenosis,
+Xerxes Vettore,59,Male,400 Granby Plaza,6,Anophthalmia/Microphthalmia,
+Justus Isacoff,56,Male,38069 Cottonwood Street,7,Rett Syndrome,
+Lu Polotti,46,,43170 Arrowood Parkway,8,Premature Infant (<27 weeks),
+Steffen Beat,60,Male,2 Mifflin Court,9,Neural Tube Defects,
+Nickie Yakunikov,52,Male,529 Meadow Vale Drive,10,"Hearing Loss, Serious (>40 db, bilat.)",
+Cathrine Mirralls,45,Female,63498 Merchant Park,11,Leukodystrophies,
+Alan Buske,59,Male,13764 Caliangt Avenue,12,Coarctation of the Aorta,
+Fern Hayball,2,Female,48860 Moland Trail,13,Hemophilia (A & B),
+Rorke Hehnke,65,Male,186 Anniversary Plaza,14,Leukodystrophies,7
+Shirl Gyngyll,74,,6653 Commercial Junction,15,Total Anomalous Pulmonary Venous Return,12
+Elliot Lindores,68,Male,39913 International Drive,16,Congenital Hypothyroidism,
+Illa Gilhouley,66,Female,62736 Hanover Alley,17,"Neurofibromatosis, Type I",
+Lyndell Furby,34,Female,46731 Fordem Terrace,18,Spinal Muscular Atrophy (SMA),
+Ogdon Harradence,10,Male,4 Atwood Pass,19,Celiac Disease (all ages),
+Alameda Lang,27,Female,752 Boyd Court,20,Rectal & Large Intestinal Atresia/Stenosis,
+Mair Holde,14,Female,659 Dunning Crossing,21,Hemophilia (A & B),
+Noellyn Melia,35,Female,18921 Northview Parkway,22,Single Ventricle,
+Tobye Chapell,63,Female,83807 Dunning Street,23,"Transgender (adults, US)",
+Grange Lyttle,84,Male,51 Canary Park,24,Single Ventricle,4
+Shermy Abbotts,2,Male,51281 Morrow Drive,25,"Neurofibromatosis, Type I",
+Ingelbert Deverick,9,Male,47 Claremont Drive,26,Total Anomalous Pulmonary Venous Return,7
+Katherina Bellin,11,Female,9756 Riverside Junction,27,Juvenile Arthritis,11
+Sigmund Ilieve,41,Male,583 Pleasure Alley,28,Down Syndrome,13
+Storm Pedrazzi,57,Female,9864 Holmberg Alley,29,Deafness,
+Sandor Delamaine,34,Male,71771 Westend Plaza,30,Idiopathic Thrombocytopenic Purpura (cum. incidence),
+Wald Reddan,16,Male,89396 Nobel Road,31,Trisomy 13,
+Layney Kinavan,23,,420 Packers Junction,32,"Reduction defects, lower limbs",
+Rey Boydell,16,Male,4 Corben Parkway,33,Depression,12
+Pearce Martusov,25,Male,02107 Holy Cross Alley,34,Aortic Valve Stenosis,
+Manolo McMeekin,29,Male,23134 Mockingbird Alley,35,"Cleft Lip, with or without cleft palate",
+Emmit Bloxham,32,Male,80 Waubesa Terrace,36,"Cancer (all types, includes survivors)",
+Fair Speares,81,Male,8 Arizona Terrace,37,"Congenital Heart Defects, all",
+Burgess Mazin,47,Male,1508 Vahlen Crossing,38,Gastroschisis,
+Genovera Ratt,2,,82 Hoepker Plaza,39,Club Foot,
+Zacharias Ianittello,68,Male,1254 Forest Run Junction,40,Visual Impairment (worse than 20/70),
+Dayna Daniau,51,Female,053 Sunfield Park,41,"Cancer (all types, includes survivors)",
+August Slator,84,Male,6345 Shopko Terrace,42,Sickle Cell Anemia,
+Wylma Martinyuk,9,Female,75 Gina Trail,43,Aortic Valve Stenosis,
+Gael Marris,58,Female,234 Cody Center,44,Substance Use Disorders,
+Hubey Grishankov,81,Male,0 Shoshone Place,45,Hemophilia (A & B),
+Genia Gravie,67,Female,663 Paget Drive,46,Hypertension,11
+Maje Greated,15,Male,951 Reindahl Point,47,HPV Infection (18% of girls 14-19),
+Stella Tweed,27,Female,6063 Shoshone Drive,48,HPV Infection (18% of girls 14-19),
+Quintilla MacCurley,31,Female,256 Jenifer Road,49,Growth Hormone Deficiency,
+Chance Saunton,12,Male,33 Clarendon Center,50,Rectal & Large Intestinal Atresia/Stenosis,
+Phillipp Quantrell,26,Male,6 West Hill,51,Premature Infant (<27 weeks),
+Gauthier Molines,14,Male,3 Mallory Court,52,Congenital Hypothyroidism,
+Sutherlan Rimbault,39,Male,1151 Riverside Circle,53,HPV Infection (18% of girls 14-19),
+Brooke MacLaren,5,Male,18 Stephen Alley,54,Trisomy 13,
+Emmanuel Wedmore,25,Male,377 Golf Course Junction,55,Spinal Cord Injury,
+Leda Byrd,33,Female,48138 Badeau Point,56,Turner Syndrome,
+Suzi Alton,78,Female,54 Carpenter Terrace,57,Speech Defects,
+Vic Hansana,45,Male,4803 Goodland Hill,58,Osteogenesis Imperfecta,
+Cornie Penton,43,Male,218 Coleman Terrace,59,Attention Deficit Hyperactivity Disorder (1/11.5 of 8-15 year olds),10
+Cahra Sandeland,75,Female,0048 Florence Circle,60,Patent Ductus Arteriosus,
+Lea Collingworth,74,Female,897 Debra Crossing,61,Amino Acid Disorders - total,
+Ignaz Boule,63,Male,3 Susan Parkway,62,Depression,
+Abrahan Gier,56,Male,90284 Pennsylvania Parkway,63,Diaphragmatic Hernia,
+Keven D'Alessio,12,Male,830 Kim Center,64,Constipation,
+Leila Wishkar,58,Female,2456 Prentice Street,65,"Hearing Loss, Serious (>40 db, bilat.)",
+Micah Iacobassi,49,Male,6431 Weeping Birch Point,66,Infantile Spasms,
+Noreen Offin,12,Female,9 East Parkway,67,Anophthalmia/Microphthalmia,
+Gardner Richfield,17,Male,51231 Arkansas Point,68,Organic Acidurias - total,12
+Trenna Ulrik,13,Female,14 Mockingbird Point,69,Sickle Cell Disease,
+Sallyanne Deverick,50,Female,4 Schlimgen Point,70,Club Foot,8
+Vito Ashenhurst,42,Male,9138 Park Meadow Parkway,71,Inflammatory Bowel Disease,
+Correy Bevar,79,Female,5 Brown Crossing,72,Total Anomalous Pulmonary Venous Return,
+Nita Strowthers,1,Female,8584 Cardinal Junction,73,Charcot-Marie-Tooth Disease,
+Mireille Plenty,41,Female,324 Starling Lane,74,Coarctation of the Aorta,4
+Booth Winley,8,Male,609 Park Meadow Drive,75,Neural Tube Defects,14
+Mellie Glenn,55,Female,02 Continental Place,76,Aortic Valve Stenosis,
+Killie Penwarden,31,Male,02 West Avenue,77,"Hearing Loss, Serious (>40 db, bilat.)",11
+Aindrea Goodbur,29,Female,32 Rusk Place,78,Tourette Syndrome,
+Deedee Leakner,89,Female,67181 Kipling Junction,79,Autism Spectrum Disorder,
+Frasier Malkin,52,Male,53219 Longview Junction,80,Patent Ductus Arteriosus,
+Aggie McGeachie,3,Female,13 Ruskin Terrace,81,Coarctation of the Aorta,
+Kitty Faircley,24,Female,46 Scoville Terrace,82,Pulmonary Valve Stenosis,
+Glen McDaid,8,Female,2271 Myrtle Trail,83,Hypoplastic Left Heart Syndrome,
+Boycie Yurevich,84,Male,1 Acker Court,84,Premature Infant (<27 weeks),
+Jere MacTeague,75,Female,8 Everett Way,85,Lennox-Gastaut syndrome,9
+Adelheid Rittmeier,59,Female,5 Dexter Circle,86,Congenital Hypothyroidism,
+Trenton Mullaney,64,Male,57 Roxbury Trail,87,Hearing Loss,
+Georgena Joris,6,Female,3223 Scott Parkway,88,"Diabetes Mellitus, Type I, in children",
+Windy Blowin,90,,256 Banding Point,89,Romano-Ward Syndrome,
+Jannel Nutty,8,Female,23 Melby Trail,90,Single Ventricle,
+Boyce Pinilla,40,Male,509 Declaration Lane,91,Turner Syndrome,
+Verene Binks,39,Female,44998 Kennedy Terrace,92,Deafness,
+Kain McMeekan,73,Male,451 Manitowish Avenue,93,Single Ventricle,
+Jennilee Rableau,53,Female,97803 Elgar Hill,94,Hearing Loss,
+Gare Rainon,4,Male,63 Nelson Junction,95,Attention Deficit Hyperactivity Disorder (1/11.5 of 8-15 year olds),
+Blancha Imbrey,27,Female,479 Heath Parkway,96,Celiac Disease (all ages),
+Lanie Emons,74,Male,6401 Crownhardt Alley,97,Romano-Ward Syndrome,
+Oona Todhunter,56,Female,463 Emmet Crossing,98,Infantile Spasms,
+Polly Saffran,82,Female,21 Village Green Alley,99,Fragile X Syndrome,
+Jeanette Pawellek,71,Female,4 Grover Alley,100,Deafness,
+Everett Francey,65,Male,07282 Sunfield Park,101,Growth Hormone Deficiency,
+Chan Woolner,53,Male,4672 Summer Ridge Alley,102,Seizure Disorder,
+Jody Iggulden,46,Male,8 Manitowish Trail,103,Aortic Valve Stenosis,14
+Alyda Blaw,60,Female,62843 Artisan Alley,104,Romano-Ward Syndrome,
+Susette Dauncey,57,Female,979 Springview Court,105,Fatty Acid Oxidation Disorders - total,
+Leeland Ilyas,9,Male,705 Kingsford Street,106,"Congenital Heart Defects, all",6
+Sibbie Ferrarin,44,Female,5073 Ohio Trail,107,Fetal Alcohol Spectrum Disorders,10
+Windham Baumer,85,Male,4 Morningstar Way,108,Attention Deficit Hyperactivity Disorder (1/11.5 of 8-15 year olds),
+Fletcher Lippiello,53,Male,77 Reinke Circle,109,Duchenne Muscular Dystrophy,9
+Ophelie Meriet,30,Female,22 Elgar Park,110,"Cleft palate, without cleft lip",
+Niven Corston,34,Male,414 Elmside Court,111,Atrial Septal Defect,
+Shelton Pawelczyk,38,Male,762 Truax Pass,112,Cerebral Palsy,13
+Min Tonsley,63,Female,8173 Truax Pass,113,Premature Infant (<27 weeks),
+Candida Goter,73,Female,55666 Ilene Drive,114,In Foster Care (national estimate),
+Orel Pawelczyk,37,Female,31 Portage Place,115,Patent Ductus Arteriosus,
+Effie Phelipeau,89,Female,22418 Division Court,116,"Cancer (all types, includes survivors)",14
+Nicolis Judson,35,Male,37728 Buena Vista Avenue,117,Hypertension,10
+Cullin Wilden,26,Male,4 Aberg Plaza,118,Tourette Syndrome,
+Piotr Woolbrook,67,Male,84680 Melvin Avenue,119,Traumatic Brain Injury w/ persistent disability,
+Brigit Mash,25,Female,46 Hovde Lane,120,Hirschsprung Disease,
+Lee Sedgman,12,Female,60947 Roxbury Point,121,Spinal Cord Injury,
+Lynnet Fouldes,79,Female,6280 Merrick Park,122,Inflammatory Bowel Disease,1
+Jorrie Morford,12,Female,76 Swallow Alley,123,All Tandem Mass-Screened Conditions,9
+Franklyn Knappitt,49,Male,04 Dawn Hill,124,"Cleft palate, without cleft lip",
+Tommie Somerton,28,Male,4881 Upham Center,125,"¡Ý1 Mental, Emotional, Behavioral Disorder",
+Caril Loomes,73,Female,18605 Sugar Place,126,Rectal & Large Intestinal Atresia/Stenosis,
+Burtie Humphris,22,Male,5851 Hoepker Pass,127,In Foster Care (national estimate),
+Maurice Alwin,67,Male,9056 Surrey Pass,128,Organic Acidurias - total,
+Gaelan Mustoe,12,Male,73462 Mockingbird Place,129,Hypertension,
+Moore Szymanzyk,65,Male,97731 Iowa Street,130,Fatty Acid Oxidation Disorders - total,
+Osbert Wherrit,5,Male,2 Springs Court,131,Substance Use Disorders,
+Donnamarie Haizelden,3,Female,6 Arizona Parkway,132,"Hearing Loss, Serious (>40 db, bilat.)",
+Angie Hooban,51,Female,89 2nd Park,133,All Tandem Mass-Screened Conditions,
+Susanna Basnall,43,Female,2813 Rusk Street,134,"Cleft Lip, with or without cleft palate",
+Misha Fatkin,51,Female,78090 Lukken Point,135,Intellectual Disability,
+Tessi Noddle,55,Female,9 Buena Vista Terrace,136,Childhood Absence Epilepsy,
+Ynes Jado,52,Female,87165 Porter Lane,137,Diaphragmatic Hernia,
+Fabien Mager,41,Male,9 Maple Wood Court,138,Fatty Acid Oxidation Disorders - total,
+Tammi Chree,73,Female,3231 Katie Park,139,"Stroke (>6/100,000/yr. x 16 yr.)",13
+Enos Sommerton,25,Male,76 Utah Pass,140,Rett Syndrome,
+Lita Ginsie,3,Female,8 Jana Junction,141,Growth Hormone Deficiency,
+Bourke Ferencowicz,5,Male,077 Jay Avenue,142,Substance Use Disorders,2
+Almeda Henningham,4,Female,46280 Armistice Trail,143,Infantile Spasms,
+Ardyth Skoughman,70,Female,0 Twin Pines Pass,144,Intellectual Disability,
+Gennie Beaford,7,Female,1 Mendota Street,145,Gastroschisis,3
+Selby Paige,18,,0770 Carey Circle,146,Hypoplastic Left Heart Syndrome,
+Paulita MacNeachtain,49,Female,10 Fremont Parkway,147,Crohn's Disease,
+Devi Fylan,14,Female,3 Clarendon Lane,148,Charcot-Marie-Tooth Disease,
+Wendye Pothbury,90,Female,694 Lakewood Gardens Lane,149,Spinal Muscular Atrophy (SMA),
+Lorry Oldcote,69,Female,4 Coolidge Circle,150,XXY (Klinefelter) Syndrome,
+Sandy Snoxell,85,Male,74492 North Alley,151,In Foster Care (national estimate),12
+Nissy McLauchlin,37,Female,42697 Esch Parkway,152,Visual Impairment (worse than 20/70),
+Gussie Blaza,85,Female,7173 Grover Court,153,"Transgender (adults, US)",
+Aldous Lampkin,30,Male,6 Golf Course Crossing,154,Rectal & Large Intestinal Atresia/Stenosis,
+Bernetta Dowsey,14,Female,8678 Continental Parkway,155,Charcot-Marie-Tooth Disease,
+Dara Brownhall,38,Female,36 Calypso Circle,156,Hearing Loss,
+Igor Bartrum,42,Male,4 Gateway Court,157,Esophageal/Tracheoesophageal Atresia,
+Zechariah Phillimore,54,Male,358 Dovetail Court,158,Food Allergy,
+Veronike Laffoley-Lane,10,Female,22 Heath Pass,159,Infantile Spasms,
+Brody Learned,65,Male,8 International Terrace,160,Tourette Syndrome,
+Shana Ryley,58,Female,1018 Reindahl Park,161,Anophthalmia/Microphthalmia,
+Rhoda Beades,73,Female,6747 Saint Paul Hill,162,Anophthalmia/Microphthalmia,
+Ardene Onraet,8,,81 Ilene Park,163,Cerebral Palsy,
+Carlee Hargroves,7,Female,18 Redwing Hill,164,"Headache, Migraine",
+Lita Paskerful,54,Female,94799 Pine View Plaza,165,All Tandem Mass-Screened Conditions,8
+Wolf Keener,2,Male,507 Fisk Trail,166,Visual Impairment (worse than 20/70),
+Vale Isenor,42,Female,83 South Parkway,167,Autism Spectrum Disorder,
+Zara Banishevitz,11,Female,71363 Morrow Way,168,"Neurofibromatosis, Type I",
+Lucita Hens,81,Female,53 Blaine Court,169,Spinal Muscular Atrophy (SMA),
+Rodge Gascard,41,Male,032 Brickson Park Lane,170,Charcot-Marie-Tooth Disease,
+Alecia Bent,69,Female,6179 Buena Vista Place,171,Ventricular Septal Defect,2
+Edeline Harrold,34,Female,43270 Cody Court,172,"Hearing Loss or Deafness, Congenital",
+Pearline Schorah,89,Female,81612 Rusk Junction,173,Leukodystrophies,
+Aileen Fergie,85,Female,173 Lake View Place,174,"Reduction defects, lower limbs",
+Nils Melmar,37,Male,6 Blue Bill Park Terrace,175,"Headache, Chronic Daily",6
+Hamlen O'Carmody,4,Male,14 Sutherland Alley,176,"Cleft palate, without cleft lip",9
+Zelig Highwood,35,Male,39049 Packers Road,177,"¡Ý1 Mental, Emotional, Behavioral Disorder",
+Colet Satterfitt,31,Male,3 Hauk Lane,178,Turner Syndrome,
+Sloane Espinay,67,Male,344 Kropf Drive,179,"Cleft palate, without cleft lip",
+Dew Megainey,38,Male,57 Walton Avenue,180,Speech Defects,
+Dawn Balsdon,12,Female,971 Dennis Plaza,181,Club Foot,
+Lewie Depport,75,,244 Lindbergh Junction,182,Patent Ductus Arteriosus,
+Tatum Seaward,49,Female,418 Tony Road,183,Substance Use Disorders,
+Sylvan Meadley,44,Male,4 Pankratz Center,184,Food Allergy,
+Darcy Fancutt,25,Female,91804 Stang Center,185,Familial Hypercholesterolemia (heterozygote),
+Shurlocke Lamborn,56,Male,13962 Chive Road,186,Rett Syndrome,7
+Antonio Tallman,4,Male,62 Mitchell Crossing,187,22q11.2 deletion syndrome,8
+Simon Angier,85,Male,792 Bartelt Terrace,188,Tourette Syndrome,
+Everett Badcock,51,Male,12267 Melby Park,189,Hypertension,13
+Maddy Pedlar,4,Female,348 Londonderry Circle,190,Intellectual Disability,
+Lou Kellaway,69,Female,96068 American Point,191,Spinal Muscular Atrophy (SMA),
+Saxe O'Kennavain,17,Male,18557 Pawling Place,192,Ventricular Septal Defect,5
+Robina Spat,33,Female,59319 Kinsman Pass,193,Asthma (Pediatric),8
+Delbert Kristof,20,Male,2842 Arkansas Avenue,194,Coarctation of the Aorta,
+Cob Antoni,18,Male,5 Transport Parkway,195,"Neurofibromatosis, Type I",2
+Barnett Grube,82,Male,5509 Kedzie Road,196,"Diabetes Mellitus, Type I, in children",
+Judie Farrow,89,Female,6 Comanche Place,197,Growth Hormone Deficiency,4
+Britta Power,54,Female,5143 Vera Crossing,198,"LGBT (adults, US)",5
+Beltran Sutton,52,Male,89745 Kedzie Center,199,Cystic Fibrosis,8
+Oates McIllrick,76,Male,3 Crownhardt Street,200,Intellectual Disability,
+Frederick Ugolini,30,Male,68398 Memorial Road,201,Asthma (Pediatric),
+Cate Seawell,89,Female,38 Lukken Street,202,Hypoplastic Right Ventricle,
+Odell Glassman,86,Male,155 Northridge Way,203,Pulmonary Valve Stenosis,
+Avivah Ockland,60,Female,55 Armistice Lane,204,Duchenne Muscular Dystrophy,2
+Elias Rumens,84,Male,06646 Dawn Pass,205,d-Transposition of the Great Arteries,
+Emelen Maskrey,8,Male,38163 Monument Drive,206,Cystic Fibrosis,11
+Corabella Gant,76,Female,608 Veith Court,207,HPV Infection (18% of girls 14-19),
+Celestyn Huntriss,49,Female,10 Chinook Street,208,Duchenne Muscular Dystrophy,
+Upton Lardez,13,Male,96 Rutledge Center,209,Trisomy 13,6
+Shaylah Hughman,52,,7 Warbler Terrace,210,Esophageal/Tracheoesophageal Atresia,3
+Sandye Peggs,73,Female,8880 Kings Pass,211,Hydrocephalus,
+Gill Blackston,73,Male,801 Delaware Pass,212,Food Allergy,
+Maxy Collingridge,83,Female,25449 Jenifer Circle,213,"Headache, Chronic Daily",
+Cacilia Ashfield,38,Female,00840 Hoffman Point,214,Anxiety Disorder (cumulative by age 16; adj.),
+Klaus Phant,65,Male,63 Pennsylvania Center,215,Familial Hypercholesterolemia (heterozygote),
+Kippy Moncreif,53,Male,0 Pine View Street,216,Anophthalmia/Microphthalmia,
+Amie Menier,59,Female,30790 Monument Parkway,217,"Cleft Lip, with or without cleft palate",8
+Katherina Lamps,63,Female,1 Sauthoff Place,218,Osteogenesis Imperfecta,
+Lynelle Dunsire,46,Female,973 Evergreen Parkway,219,Autism Spectrum Disorder,
+Maressa Quinlan,46,Female,09 Ridgeview Way,220,Spinal Muscular Atrophy (SMA),
+Veronika Filtness,81,Female,69 Arapahoe Junction,221,Trisomy 13,
+Egon Snookes,33,Male,033 Dexter Alley,222,Idiopathic Thrombocytopenic Purpura (cum. incidence),
+Jose Cruess,56,Male,8 Cascade Street,223,Charcot-Marie-Tooth Disease,7
+Moore Ajsik,80,Male,53 Tennessee Drive,224,Deafness,
+Kaye Enevold,75,Female,6887 Meadow Vale Circle,225,Traumatic Brain Injury w/ persistent disability,
+Arda Frayling,54,Female,6773 Sachtjen Terrace,226,Amino Acid Disorders - total,12
+Norby Camlin,90,Male,80402 Sachs Park,227,"Diabetes Mellitus, Type I, in children",10
+Vasily Heads,78,,19 Rusk Drive,228,"Neurofibromatosis, Type I",
+Cahra Towriss,46,Female,79 Dovetail Circle,229,Childhood Absence Epilepsy,
+Pattie Saunper,22,Female,6 Tennyson Plaza,230,Tetralogy of Fallot,
+Dirk Jorck,13,Male,92 Parkside Lane,231,Autism Spectrum Disorder,
+Faith Arnald,69,Female,56869 Springs Plaza,232,"Neurofibromatosis, Type I",10
+Vanya Petrozzi,55,Female,6174 Ilene Center,233,Idiopathic Thrombocytopenic Purpura (cum. incidence),
+Cos Yoseloff,79,Male,88458 Sage Plaza,234,HPV Infection (18% of girls 14-19),
+Isahella Dunkerton,1,Female,64182 Leroy Hill,235,"Stroke (>6/100,000/yr. x 16 yr.)",8
+Vanya Wycliff,58,Male,095 Elgar Avenue,236,Organic Acidurias - total,6
+Albertine Korous,25,Female,8302 Macpherson Crossing,237,Sickle Cell Disease,
+Frankie Lettley,2,Female,52 Badeau Place,238,Intellectual Disability,
+Jim Fieldhouse,43,Male,8 Novick Hill,239,Lennox-Gastaut syndrome,5
+Conn Rolstone,22,Male,837 Fulton Parkway,240,Trisomy 18,
+Andie Llorens,61,Female,14798 Bobwhite Plaza,241,Neural Tube Defects,
+Timi Moseley,22,Female,3357 Pennsylvania Lane,242,Hypoplastic Left Heart Syndrome,6
+Ailbert Whelpdale,9,Male,110 Mockingbird Point,243,Crohn's Disease,
+Briggs Haryngton,31,Male,17 Towne Road,244,"Reduction Defects, upper limbs",
+Betty Babbage,33,,63193 Ryan Terrace,245,Traumatic Brain Injury w/ persistent disability,
+Hans McRitchie,28,Male,938 Kropf Drive,246,Childhood Absence Epilepsy,
+Allyson Thompsett,89,Female,6 Gina Lane,247,Amino Acid Disorders - total,
+Loreen Molian,66,Female,784 Sheridan Court,248,Premature Infant (<27 weeks),
+Anitra Snoxill,12,Female,3 Oneill Plaza,249,Osteogenesis Imperfecta,
+Mitch Bohlje,18,Male,000 Killdeer Alley,250,Trisomy 18,
+Ebenezer MacColl,89,Male,91971 Macpherson Alley,251,Hearing Loss,
+Briano Luciano,29,,948 Upham Court,252,Hemophilia (A & B),
+Garner Celler,61,Male,0763 Bayside Road,253,Coarctation of the Aorta,
+Cecil Keefe,31,Male,92595 8th Road,254,Asthma (Pediatric),
+Vite Harnes,78,,989 Toban Road,255,Patent Ductus Arteriosus,
+Fair Charle,20,Male,5 Sheridan Center,256,"Hearing Loss, Serious (>40 db, bilat.)",
+Nerita Thrush,50,Female,4 Memorial Plaza,257,Turner Syndrome,
+Faunie Sneezem,26,Female,28 Carpenter Parkway,258,Hydrocephalus,
+Glory Renner,12,Female,51 Carpenter Lane,259,Rett Syndrome,10
+Lonnie Elis,52,Female,288 Bartillon Point,260,Speech Defects,
+Garvy Housbey,15,Male,67 Daystar Street,261,Rheumatic Heart Disease,
+Care Gori,53,Male,2052 Colorado Road,262,d-Transposition of the Great Arteries,
+Luci Purvis,18,Female,53675 Sutherland Pass,263,Duchenne Muscular Dystrophy,
+Jan Fumagallo,77,Male,98 Hauk Circle,264,Patent Ductus Arteriosus,
+Dud Annakin,25,Male,7897 John Wall Circle,265,Growth Hormone Deficiency,
+Valentine Roll,12,Female,3264 Scoville Park,266,Single Ventricle,
+Ianthe Sadlier,49,,78070 Lotheville Court,267,Visual Impairment (worse than 20/70),
+Bowie Midlane,12,Male,22487 Grover Place,268,"Hearing Loss or Deafness, Congenital",
+Sherlock Maltby,4,Male,4633 Calypso Point,269,Fetal Alcohol Spectrum Disorders,
+Bee Marney,84,Female,56 Mockingbird Parkway,270,Hypoplastic Right Ventricle,
+Dionne Mattioli,85,Female,67 Carberry Avenue,271,Fragile X Syndrome,
+Tommi Ketteridge,63,Female,4 Anzinger Alley,272,Hydrocephalus,
+Gabriello Densumbe,88,Male,84165 Lien Junction,273,Hypoplastic Right Ventricle,
+Clarence Kopmann,29,Male,44 Wayridge Center,274,Chronic Renal Failure,
+Tobiah Clawley,55,Male,4 Warner Pass,275,Neural Tube Defects,
+Athene Longega,64,Female,1 Coolidge Drive,276,Juvenile Arthritis,
+Kittie Hansod,25,Female,4 Vera Alley,277,Hirschsprung Disease,
+Rusty Levey,38,Male,10310 Kennedy Way,278,"Congenital Heart Defects, all",3
+Josi Lenney,16,Female,87939 Grasskamp Avenue,279,Asthma (Pediatric),
+Rafaela Prati,44,Female,726 Old Shore Road,280,Constipation,
+Vernon Biddlecombe,49,Male,5 Hauk Parkway,281,Cerebral Palsy,
+Kyle Conrath,68,Male,2610 Delaware Hill,282,In Foster Care (national estimate),
+Violante Andrusov,8,Female,7248 Meadow Ridge Pass,283,Traumatic Brain Injury w/ persistent disability,
+Ingmar Le Batteur,66,Male,44056 Cherokee Court,284,Constipation,
+Devonne Limb,72,Female,259 Dapin Circle,285,"Reduction defects, lower limbs",
+Evangeline Siddens,29,Female,60408 Scott Hill,286,All Tandem Mass-Screened Conditions,
+Erie Walczak,62,Male,722 Ryan Point,287,"LGBT (adults, US)",
+Saxe Dysert,28,Male,54399 Miller Alley,288,Lennox-Gastaut syndrome,7
+Araldo Katzmann,26,Male,6211 Larry Alley,289,"Diabetes Mellitus, Type I, in children",
+Dody Romero,49,Female,249 Arkansas Plaza,290,Sickle Cell Disease,
+Emmalee Romaines,34,Female,19 Arrowood Avenue,291,Sickle Cell Disease,2
+Junie McClaurie,48,Female,6 Tennyson Court,292,Spinal Cord Injury,
+Cristine Marunchak,6,Female,4364 Manufacturers Circle,293,Cerebral Palsy,
+Annabela Dufour,16,Female,758 Debra Lane,294,"Transgender (adults, US)",
+Ario Twizell,45,Male,97 Sauthoff Parkway,295,Hemophilia (A & B),
+Trina Cordell,17,Female,9420 Amoth Court,296,Infantile Spasms,
+Amaleta Stickney,10,Female,28 Hoepker Way,297,Childhood Absence Epilepsy,12
+Denis Element,1,Male,16 Old Gate Trail,298,Sickle Cell Anemia,
+Chloette Folger,53,Female,93074 Oriole Trail,299,All Tandem Mass-Screened Conditions,7
+Cindie Adds,81,Female,86812 Esker Plaza,300,Sickle Cell Disease,
+Pavel Berget,56,Male,64 Granby Point,301,Depression,14
+Flossie Muzzillo,20,Female,291 Amoth Center,302,Rheumatic Heart Disease,
+Ransell Bumphries,51,Male,192 Maywood Lane,303,Diaphragmatic Hernia,
+Sasha Mathelin,58,Female,083 School Terrace,304,Tourette Syndrome,14
+Claudette Brookwood,49,Female,497 Elgar Drive,305,Depression,
+Rocky Heisham,28,Male,79 Prairieview Parkway,306,Seizure Disorder,2
+Gard Rosenbusch,57,Male,14070 Carioca Center,307,"Headache, Migraine",
+Bibbie Naire,1,Female,7 3rd Place,308,Hearing Loss,
+Ulick Roaf,69,Male,7985 Bellgrove Alley,309,Anxiety Disorder (cumulative by age 16; adj.),
+Winny Eefting,36,Female,316 Gateway Circle,310,Sickle Cell Disease,13
+Kelsi Schwieso,59,Female,8 Goodland Circle,311,Traumatic Brain Injury w/ persistent disability,
+Reynolds De Bischop,89,Male,48637 Novick Terrace,312,Down Syndrome,
+Sigfried Lambert-Ciorwyn,28,Male,82 Washington Court,313,Fetal Alcohol Spectrum Disorders,
+Ricki Ollie,32,Female,6 Grayhawk Parkway,314,Premature Infant (<27 weeks),
+Cull Hue,73,Male,4340 Fuller Terrace,315,"Cleft palate, without cleft lip",
+Marja MacCostye,70,Female,444 Grover Parkway,316,Ventricular Septal Defect,
+Lizabeth Springell,33,,6955 Lukken Place,317,Intellectual Disability,
+Leonidas Hawgood,5,Male,4 Marcy Avenue,318,Rheumatic Heart Disease,
+Ashlen Cyseley,69,Female,9 Old Gate Court,319,Visual Impairment (worse than 20/70),
+Dicky McKaile,82,Male,14250 Rockefeller Point,320,Seizure Disorder,
+Whitaker Vayne,28,Male,286 Macpherson Center,321,All Tandem Mass-Screened Conditions,
+Ermentrude Gounin,29,Female,032 Porter Parkway,322,Amino Acid Disorders - total,
+Anastassia Stoppard,53,Female,10 Melody Hill,323,Childhood Absence Epilepsy,
+Ranique O'Beirne,32,Female,59 Loomis Street,324,Anophthalmia/Microphthalmia,
+Ezechiel Bithany,71,,022 Eagle Crest Alley,325,"Transgender (adults, US)",9
+Mervin Byars,20,Male,08817 Walton Circle,326,Duchenne Muscular Dystrophy,
+Chas Castilljo,21,Male,4504 Tomscot Park,327,"Neurofibromatosis, Type I",
+Bond Obal,21,Male,61 Del Sol Junction,328,Total Anomalous Pulmonary Venous Return,
+Fields Boays,8,Male,19630 Parkside Circle,329,Ventricular Septal Defect,
+Stavros Tetlow,32,Male,9982 Spaight Circle,330,Hypoplastic Right Ventricle,
+Brad MacAlister,56,Male,4261 Loeprich Center,331,Visual Impairment (worse than 20/70),
+Prent Erie,6,Male,592 Maple Road,332,"Diabetes Mellitus, Type I, in children",
+Arlin Kildea,47,Male,4 Ilene Alley,333,Coarctation of the Aorta,
+Mignon Carless,59,Female,3 Melrose Court,334,Gastroschisis,
+Arly Cahan,87,Female,7029 Sutteridge Lane,335,Anxiety Disorder (cumulative by age 16; adj.),
+Paquito Ramalho,10,Male,615 Rutledge Trail,336,Premature Infant (<27 weeks),
+Francis Sherrington,6,Male,3710 Pond Park,337,Aortic Valve Stenosis,14
+Jard Gregine,19,Male,74269 Helena Way,338,Chronic Renal Failure,
+Nessy Clouter,67,Female,719 Merry Drive,339,All Tandem Mass-Screened Conditions,13
+Jackson Rickeard,28,Male,5317 Schmedeman Terrace,340,Rectal & Large Intestinal Atresia/Stenosis,
+Jsandye Barthorpe,34,Female,31 Sundown Junction,341,Rheumatic Heart Disease,
+Yoshiko Sempill,15,Female,476 Upham Junction,342,Patent Ductus Arteriosus,7
+Avigdor Curphey,47,Male,1 Hudson Parkway,343,Constipation,
+Quillan Denisovo,29,Male,988 Morrow Drive,344,"¡Ý1 Mental, Emotional, Behavioral Disorder",
+Nananne Joanic,10,Female,27615 Old Gate Hill,345,Tourette Syndrome,
+Hazel Toleman,38,Male,94 Green Trail,346,Tetralogy of Fallot,
+Olivette Weitzel,38,Female,858 Macpherson Avenue,347,Trisomy 13,3
+Talbert Mungham,42,Male,3814 Badeau Court,348,d-Transposition of the Great Arteries,
+Kelly Silvers,77,,2 Clarendon Court,349,Rheumatic Heart Disease,
+Matthus Payton,42,Male,0469 Grim Terrace,350,Speech Defects,
+Philipa Duddan,7,Female,76 Kensington Parkway,351,Amino Acid Disorders - total,
+Antin Grinyov,67,Male,86 Pennsylvania Trail,352,Hirschsprung Disease,
+Romain MacGarrity,48,Male,17 Acker Avenue,353,All Tandem Mass-Screened Conditions,
+Kayne Peinke,26,Male,420 Dahle Hill,354,Intellectual Disability,6
+Erhart Robbeke,88,Male,024 Miller Drive,355,Constipation,4
+Nadean De Blase,8,Female,56 Welch Park,356,Patent Ductus Arteriosus,
+Ricky Tinto,67,Male,781 Arrowood Street,357,Hirschsprung Disease,
+Bobby Bredee,76,,47 Eagle Crest Park,358,Amino Acid Disorders - total,
+Gerrie Langelay,47,Female,30264 Bunker Hill Park,359,HPV Infection (18% of girls 14-19),5
+Marian Heelis,44,Female,1 Dexter Center,360,Neural Tube Defects,
+Tomasine Pountain,6,Female,3213 Corscot Alley,361,Hemophilia (A & B),
+Trudi Gooley,38,,6 4th Center,362,"LGBT (adults, US)",
+Eran Fackrell,48,Female,7 8th Terrace,363,Speech Defects,9
+Andrea Cavy,56,,24336 Clemons Court,364,Trisomy 13,
+Robers Drillingcourt,60,Male,24 Division Drive,365,Atrial Septal Defect,14
+Austen Travers,67,Male,4735 Corscot Road,366,Attention Deficit Hyperactivity Disorder (1/11.5 of 8-15 year olds),
+Maje Bedminster,19,Male,110 School Hill,367,Truncus Arteriosus,5
+Damita Loddy,26,Female,85 Bayside Road,368,Tetralogy of Fallot,
+Florian Hugo,76,Male,55 Clemons Hill,369,Celiac Disease (all ages),
+Levey Goodhall,56,Male,680 Eagle Crest Lane,370,Osteogenesis Imperfecta,
+Delmor McKag,29,Male,754 Montana Place,371,Familial Hypercholesterolemia (heterozygote),6
+Ernie Arndt,73,Male,31298 Weeping Birch Place,372,Omphalocele,
+Boony Rapps,46,,0720 Aberg Junction,373,Juvenile Arthritis,
+Garret MacAlpine,12,Male,4779 Pleasure Parkway,374,Trisomy 13,
+Cal Absolom,21,Male,96 Debs Road,375,Crohn's Disease,
+Fletch Crighton,86,Male,82689 Judy Road,376,Traumatic Brain Injury w/ persistent disability,
+Hildagard Huddart,58,Female,575 Graceland Court,377,Turner Syndrome,14
+Skipp Clutterbuck,16,Male,45681 High Crossing Court,378,Sickle Cell Disease,
+Oby Bannell,55,Male,207 Nova Terrace,379,"Diabetes Mellitus, Type I, in children",
+Selma Darter,78,Female,78 Artisan Drive,380,Anophthalmia/Microphthalmia,
+Gae Cardillo,62,Female,5 Becker Lane,381,Atrial Septal Defect,
+Shandy Kadar,83,Female,930 Vernon Junction,382,Hypoplastic Left Heart Syndrome,
+Dinny Wilmott,74,Female,7368 Nova Court,383,Infantile Spasms,1
+Benny MacShane,88,,52 Upham Hill,384,"Stroke (>6/100,000/yr. x 16 yr.)",
+Hilton Pitford,18,Male,12518 Pawling Place,385,"Hearing Loss or Deafness, Congenital",
+Natala Tesoe,65,Female,48660 Gerald Road,386,Organic Acidurias - total,
+Luce Switsur,42,Female,260 Sachtjen Alley,387,"Transgender (adults, US)",
+Rene Corke,41,Female,7 Scoville Point,388,Premature Infant (<27 weeks),
+Floria Charleston,59,Female,7947 Reindahl Way,389,Inflammatory Bowel Disease,
+Conrad Farthing,32,Male,8 7th Avenue,390,Patent Ductus Arteriosus,13
+Lynnelle Churchley,25,Female,8785 Summerview Court,391,Gastroschisis,
+Bria Dewhurst,20,Female,70 Homewood Alley,392,Hemophilia (A & B),15
+Eugenio Fendlen,65,Male,6859 Roth Plaza,393,Rheumatic Heart Disease,
+Liesa Longrigg,40,Female,5596 Burrows Park,394,Cystic Fibrosis,12
+Bald Jacquemet,53,Male,6 Shopko Street,395,Hypoplastic Left Heart Syndrome,
+Cort Fasler,71,Male,54 Annamark Alley,396,Rett Syndrome,
+Norry Kenrick,7,,57 Arizona Place,397,"¡Ý1 Mental, Emotional, Behavioral Disorder",4
+Ham Slimm,12,Male,2 Chinook Terrace,398,Truncus Arteriosus,
+Berty Dubois,76,Male,75766 Scott Drive,399,Attention Deficit Hyperactivity Disorder (1/11.5 of 8-15 year olds),
+Adrianna Korpolak,12,Female,1424 Surrey Hill,400,"Reduction defects, lower limbs",
+Brenna Pinsent,43,Female,64234 Novick Crossing,401,Trisomy 13,4
+Vivia Gregs,30,Female,5510 Washington Drive,402,Osteogenesis Imperfecta,
+Zachery MacKettrick,88,Male,7925 Hermina Point,403,Hearing Loss,
+Iona Rawle,83,Female,060 Division Way,404,Intellectual Disability,15
+Janifer Elvins,12,Female,02596 Esker Alley,405,Cystic Fibrosis,
+Forster Sherred,90,Male,72560 Stone Corner Plaza,406,Trisomy 18,
+Miguela Docker,75,Female,33977 Charing Cross Trail,407,"Cleft Lip, with or without cleft palate",
+Blancha Pelman,11,Female,4251 Northport Street,408,Congenital Hypothyroidism,13
+Wynn Jack,67,Female,4652 Hovde Drive,409,Premature Infant (<27 weeks),
+Lizzie Feyer,42,Female,0 Roth Point,410,Asthma (Pediatric),
+Herbert Konzel,82,Male,780 Shopko Circle,411,d-Transposition of the Great Arteries,
+Kristos Andren,51,Male,168 Macpherson Lane,412,Hemophilia (A & B),4
+Arlene Broggelli,75,Female,65 Hallows Pass,413,Down Syndrome,
+Inesita Grzelewski,31,Female,36 Sutherland Junction,414,d-Transposition of the Great Arteries,
+Cristi Munning,15,Female,39 Hintze Park,415,Sickle Cell Disease,
+Sean Ilyinykh,72,Female,84111 Coleman Road,416,"Hearing Loss, Serious (>40 db, bilat.)",
+Cyndie Halsey,8,Female,8 Straubel Drive,417,In Foster Care (national estimate),
+Abdel Lambole,63,Male,4307 Bobwhite Circle,418,"Transgender (adults, US)",13
+Noby Standage,58,Male,8 Jay Road,419,"Hearing Loss, Serious (>40 db, bilat.)",
+Jorge Nigh,17,Male,41195 Westend Parkway,420,"Cancer (all types, includes survivors)",
+Jobey Smorfit,31,Female,51752 Tomscot Plaza,421,Hypoplastic Left Heart Syndrome,
+Vi Roman,28,Female,36 Tennyson Park,422,Attention Deficit Hyperactivity Disorder (1/11.5 of 8-15 year olds),
+Bobette McQuorkell,3,Female,7 Sage Hill,423,XXY (Klinefelter) Syndrome,
+Charisse Chander,4,Female,083 Fremont Pass,424,Ventricular Septal Defect,
+Meriel Brantzen,36,Female,3764 Bultman Trail,425,Sickle Cell Anemia,9
+Kimmi Attwool,22,Female,64985 Eliot Park,426,Celiac Disease (all ages),8
+Anni Tolomei,20,Female,740 Warbler Center,427,Charcot-Marie-Tooth Disease,
+Freeman Sambells,30,Male,328 Shopko Way,428,Trisomy 13,
+Alysia Leak,56,Female,97 Hauk Plaza,429,Traumatic Brain Injury (cum. hospitalized),
+Isadora Cartwight,87,Female,78 Killdeer Trail,430,Premature Infant (<27 weeks),
+Ross Hackin,61,Male,45 Lyons Street,431,Substance Use Disorders,
+Charita Camous,30,Female,67758 Blue Bill Park Alley,432,"Stroke (>6/100,000/yr. x 16 yr.)",
+Artemis Giannazzo,23,Male,6572 Center Terrace,433,Traumatic Brain Injury (cum. hospitalized),
+Chrissy Vernau,81,Female,14987 Dixon Avenue,434,Omphalocele,
+Trace Foxall,85,Male,0908 Shopko Plaza,435,Pulmonary Valve Stenosis,3
+Isadore Kubista,38,Male,64 Granby Circle,436,Autism Spectrum Disorder,
+Sylvester Moyle,39,Male,2278 Nova Trail,437,Truncus Arteriosus,9
+Celia Monte,55,Female,856 Burrows Way,438,Sickle Cell Anemia,
+Derrik Mogie,57,Male,8 Crownhardt Parkway,439,Visual Impairment (worse than 20/70),
+Alexandre Davydenko,31,Male,710 Twin Pines Plaza,440,"Congenital Heart Defects, all",13
+Zarah Nobriga,57,Female,80975 Stephen Parkway,441,Attention Deficit Hyperactivity Disorder (1/11.5 of 8-15 year olds),8
+Lil Lauder,88,Female,15998 Hayes Way,442,Neural Tube Defects,
+Godfree Vaar,83,Male,72 Portage Hill,443,Spinal Cord Injury,
+Morissa Pretti,17,Female,98 Park Meadow Alley,444,Hypoplastic Left Heart Syndrome,
+Artemis Fulcher,13,Male,9 Straubel Street,445,Spinal Muscular Atrophy (SMA),
+Druci Altoft,23,Female,9 Nelson Terrace,446,Idiopathic Thrombocytopenic Purpura (cum. incidence),15
+Garek Everitt,34,Male,4530 New Castle Alley,447,Rheumatic Heart Disease,
+Annette Shovelbottom,26,Female,1017 Hazelcrest Lane,448,Familial Hypercholesterolemia (heterozygote),13
+Frasco Hardson,27,Male,7747 Shelley Terrace,449,"Transgender (adults, US)",
+Delcine Stovell,15,Female,4739 Hayes Parkway,450,Traumatic Brain Injury (cum. hospitalized),
+Kathryne Elliker,83,Female,8 Calypso Terrace,451,Amino Acid Disorders - total,
+Danny Bottle,59,Male,4 Oneill Way,452,Infantile Spasms,
+Terry Wakeling,85,Male,62414 Dixon Circle,453,"Congenital Heart Defects, all",
+Gail Whyborn,52,Female,576 Mayfield Park,454,Hydrocephalus,11
+Hilario Elmhurst,78,Male,87 Tennessee Street,455,Hemophilia (A & B),
+Salvatore Haugeh,58,Male,1324 Comanche Road,456,Anophthalmia/Microphthalmia,
+Stevy Venes,11,Male,965 Thackeray Pass,457,Depression,
+Gay Blare,46,Female,1 Express Trail,458,Infantile Spasms,
+Niall Dorrington,34,Male,800 Jackson Terrace,459,Hypertension,11
+Tad Bolding,77,Male,52 5th Park,460,"Cleft palate, without cleft lip",
+Sabrina Decruse,17,Female,76 Buena Vista Street,461,Leukodystrophies,
+Barthel Bamlett,66,Male,56 Warrior Hill,462,Diaphragmatic Hernia,
+Vinnie Jolliff,65,Female,85 Sheridan Hill,463,Constipation,
+Muffin Scarf,19,Male,943 Loeprich Parkway,464,Romano-Ward Syndrome,
+Willdon Drowsfield,52,Male,4 Gina Alley,465,XXY (Klinefelter) Syndrome,
+Daisy Hagger,6,Female,2 Montana Drive,466,Coarctation of the Aorta,2
+Nathan Giddins,64,Male,50918 Ohio Parkway,467,Omphalocele,5
+Shelagh Maydwell,26,Female,643 Summit Court,468,Growth Hormone Deficiency,
+Tobiah Dibling,84,Male,03560 Alpine Crossing,469,d-Transposition of the Great Arteries,
+Grover McIlwraith,18,Male,9011 Badeau Circle,470,"Hearing Loss, Serious (>40 db, bilat.)",
+Mitchael Gillis,24,Male,03450 Dorton Pass,471,Infantile Spasms,
+Reidar Lampens,29,Male,77 Waubesa Alley,472,"Reduction Defects, upper limbs",
+Mariana Parsley,84,,79838 Reindahl Road,473,Lennox-Gastaut syndrome,5
+Courtenay Witherow,21,Female,49 Talisman Way,474,HPV Infection (18% of girls 14-19),
+Danny Toulmin,84,Female,1 Chive Hill,475,"LGBT (adults, US)",
+Nicky Ammer,62,,2 Garrison Court,476,Charcot-Marie-Tooth Disease,
+Dee Ghilardini,76,Female,34950 Pankratz Drive,477,Duchenne Muscular Dystrophy,
+Reine Lyptrit,19,Female,845 Vernon Court,478,Childhood Absence Epilepsy,13
+Brandie Tomaskov,10,Female,1528 Killdeer Place,479,Intellectual Disability,
+Kameko Blowfield,60,Female,0154 Porter Circle,480,Sickle Cell Anemia,
+Hugues Roseveare,37,Male,0077 Harbort Point,481,Omphalocele,13
+Mirelle Yurivtsev,80,Female,06710 Caliangt Avenue,482,Neural Tube Defects,
+Freddie Traise,49,Male,0 Arizona Lane,483,Organic Acidurias - total,
+Crystal Nickless,34,Female,8325 Reinke Terrace,484,Trisomy 13,
+Veronica Pollok,84,Female,3 Golf Parkway,485,Gastroschisis,
+Chevy Horsey,20,Male,179 Blackbird Center,486,Spinal Muscular Atrophy (SMA),
+Nicko Dei,80,Male,452 Garrison Alley,487,HPV Infection (18% of girls 14-19),
+Jermayne Radley,79,,7 Lyons Court,488,Charcot-Marie-Tooth Disease,
+Cullie Cescotti,73,Male,26198 Golden Leaf Plaza,489,Charcot-Marie-Tooth Disease,
+Charmion Bartoszewicz,45,Female,7318 Graedel Drive,490,Club Foot,
+Sheff Canwell,36,Male,6 Northport Center,491,"Hearing Loss, Serious (>40 db, bilat.)",
+Welbie Bell,68,Male,68230 Stoughton Hill,492,Leukodystrophies,
+Tandie Powelee,50,Female,49938 Westerfield Terrace,493,"Hearing Loss or Deafness, Congenital",
+Gilli Culmer,20,Female,7163 Ilene Center,494,Esophageal/Tracheoesophageal Atresia,
+Darnell Bracco,21,Male,5276 Russell Way,495,Familial Hypercholesterolemia (heterozygote),
+Jerrie Simonnot,2,,1110 Nova Circle,496,Growth Hormone Deficiency,
+Ania Capaldo,82,Female,2 Grim Avenue,497,"Reduction Defects, upper limbs",
+Ely Hegge,57,Male,192 Mayer Center,498,Phenylketonuria,
+Kimbell Giovannardi,83,Male,4 Texas Trail,499,Hypoplastic Right Ventricle,
+Bellina Roycroft,23,Female,9817 Canary Center,500,Duchenne Muscular Dystrophy,
+Pattie Clues,34,Female,356 Algoma Parkway,501,Duchenne Muscular Dystrophy,
+Hillie Lots,79,Male,295 Jana Park,502,"Headache, Chronic Daily",1
+Gayla Fanthom,26,,1 Esker Drive,503,Inflammatory Bowel Disease,
+Grant Nancarrow,63,Male,58 Fair Oaks Lane,504,Phenylketonuria,
+Loraine McSherry,50,Female,134 Autumn Leaf Lane,505,"LGBT (adults, US)",
+Arvy Pedwell,2,Male,4531 Pennsylvania Trail,506,"Hearing Loss or Deafness, Congenital",
+Cayla Dacres,65,Female,00 Chinook Crossing,507,Deafness,
+Ramon Abadam,31,,25 Sundown Plaza,508,Fragile X Syndrome,
+Monte Sedwick,39,Male,022 Schurz Point,509,Inflammatory Bowel Disease,2
+Krissie Hamsley,58,,86992 Dennis Place,510,Speech Defects,
+Darcy Cherrison,5,Male,09 Ronald Regan Drive,511,Rett Syndrome,
+Abey Maltby,8,Male,186 Spohn Crossing,512,Romano-Ward Syndrome,
+Chicky Belsham,1,Male,4984 Hintze Avenue,513,Cystic Fibrosis,7
+Roland Etherton,13,Male,4931 Raven Plaza,514,Celiac Disease (all ages),2
+Saloma Ions,24,Female,2825 Thackeray Terrace,515,Spinal Cord Injury,
+Felicdad Troyes,2,Female,5047 Westend Alley,516,Trisomy 13,3
+Care Rymour,42,,3 Merrick Circle,517,Rectal & Large Intestinal Atresia/Stenosis,
+Daffy Warret,4,,20 Laurel Circle,518,Congenital Hypothyroidism,
+Etan Habert,75,Male,59 Stone Corner Park,519,Premature Infant (<27 weeks),
+Prentice Cescon,59,Male,93030 Holmberg Terrace,520,"Diabetes Mellitus, Type I, in children",
+Alonzo O'Hengerty,55,Male,146 Dayton Hill,521,Organic Acidurias - total,
+Zola Rigglesford,5,Female,4105 Bartelt Point,522,Hirschsprung Disease,
+Lynne Mattaus,23,Female,75066 2nd Point,523,"Diabetes Mellitus, Type I, in children",
+Lukas McCallum,39,Male,52 Killdeer Alley,524,In Foster Care (national estimate),
+Torrin Matskevich,81,Male,7 Almo Junction,525,Rett Syndrome,
+Reine Mell,19,Female,01101 Golf View Point,526,"Neurofibromatosis, Type I",
+Charlot Cowie,35,Female,41538 Myrtle Pass,527,Congenital Hypothyroidism,12
+Moishe Ville,62,Male,52576 Clove Street,528,Depression,
+Wernher Lucks,8,Male,28 Linden Lane,529,Fetal Alcohol Spectrum Disorders,
+Noel Buckleigh,15,Female,36 American Ash Court,530,Duchenne Muscular Dystrophy,
+Markos Donkersley,78,Male,908 Fremont Parkway,531,Patent Ductus Arteriosus,
+Bastian Dunstan,36,Male,62522 Forster Court,532,Trisomy 18,
+Annadiana Buncher,79,Female,985 Sauthoff Terrace,533,Hirschsprung Disease,1
+Dimitry Brierton,77,Male,70302 Emmet Drive,534,Sickle Cell Disease,
+Hubey Rolance,51,Male,55 Hauk Center,535,Aortic Valve Stenosis,
+Nickolai Meneyer,24,Male,7 Burrows Place,536,Romano-Ward Syndrome,
+Duff Kopje,39,Male,6679 Blue Bill Park Court,537,Turner Syndrome,
+Star Shoebottom,84,Female,7 Scoville Alley,538,Atrial Septal Defect,12
+Giulietta Pingston,62,Female,30 Transport Terrace,539,HPV Infection (18% of girls 14-19),15
+Falkner Iianon,90,Male,37 Petterle Crossing,540,d-Transposition of the Great Arteries,
+Brier Randalston,77,Female,3160 Buell Point,541,Speech Defects,14
+Armando Erasmus,78,,3 Tennyson Drive,542,Sickle Cell Disease,
+Rice Lofting,26,Male,47 Hazelcrest Circle,543,Hydrocephalus,
+Margie Goodricke,58,Female,25 Meadow Valley Center,544,Lennox-Gastaut syndrome,7
+Elli Torrans,38,Female,55 Grim Circle,545,Deafness,
+Ninnetta Sirrell,66,Female,6 Russell Point,546,Traumatic Brain Injury w/ persistent disability,
+Waly Spender,46,Female,9058 Granby Avenue,547,All Tandem Mass-Screened Conditions,
+Donny Joly,69,Male,22 Jay Lane,548,"Diabetes Mellitus, Type I, in children",
+Vite Filippi,8,Male,222 Shelley Park,549,Familial Hypercholesterolemia (heterozygote),
+Belita Finey,11,Female,25599 Vermont Parkway,550,Single Ventricle,
+Ezri McCotter,30,Male,1861 Linden Street,551,HPV Infection (18% of girls 14-19),
+Rhodia Dyhouse,67,,1 Briar Crest Pass,552,Cystic Fibrosis,
+Nanci Monteath,36,Female,867 Sundown Place,553,Organic Acidurias - total,
+Fritz Skurray,71,Male,535 Lakewood Gardens Park,554,Neural Tube Defects,
+Levey Uzelli,46,,3795 Fulton Street,555,Cystic Fibrosis,
+Heloise D'Antoni,32,Female,63 Lakewood Gardens Parkway,556,Crohn's Disease,
+Hayley Essame,74,Female,9 North Point,557,Hydrocephalus,11
+Robby Taffie,82,,2090 Muir Road,558,Autism Spectrum Disorder,4
+Garth Domingues,28,Male,0918 Jenna Place,559,Celiac Disease (all ages),3
+Tomaso Cheel,24,Male,592 Oak Valley Circle,560,Total Anomalous Pulmonary Venous Return,
+Pavel Illesley,20,Male,19606 Scoville Place,561,Premature Infant (<27 weeks),
+Iolande Skittle,43,Female,2 Sherman Alley,562,Duchenne Muscular Dystrophy,
+Louisette Guidetti,82,Female,57 Ryan Place,563,Duchenne Muscular Dystrophy,
+Adler Stitcher,31,Male,72 Badeau Junction,564,Inflammatory Bowel Disease,6
+Gail Hardes,52,Male,6 Northridge Lane,565,Rheumatic Heart Disease,
+Agace Pouck,80,Female,36 Bay Road,566,Substance Use Disorders,
+Fletcher Dasent,82,Male,4 Crest Line Junction,567,Fetal Alcohol Spectrum Disorders,
+Nanni Meltetal,23,Female,29254 Spaight Park,568,Infantile Spasms,
+Jordanna Solon,72,Female,8504 1st Center,569,Hypoplastic Left Heart Syndrome,
+Ed Reef,49,Male,8442 Blue Bill Park Crossing,570,"Cancer (all types, includes survivors)",
+Kellia Daughton,12,Female,2472 Kim Parkway,571,XXY (Klinefelter) Syndrome,
+Colet Oldacres,24,Male,293 Truax Plaza,572,d-Transposition of the Great Arteries,
+Babette Thomerson,23,Female,9747 Lighthouse Bay Hill,573,Tourette Syndrome,
+Clem Gillebride,76,Male,98 Green Ridge Crossing,574,Hypoplastic Left Heart Syndrome,
+Meggy Brownlie,68,Female,058 Hansons Avenue,575,Seizure Disorder,
+Barclay Berndt,14,Male,34 Gale Court,576,"Cancer (all types, includes survivors)",
+Ekaterina Hubbock,20,Female,11035 Garrison Terrace,577,Inflammatory Bowel Disease,2
+Nevile Teasell,63,Male,94215 1st Street,578,Sickle Cell Anemia,1
+Edita Brumwell,74,Female,3391 Fair Oaks Avenue,579,Romano-Ward Syndrome,4
+Kip O'Doghesty,48,Male,4622 Bunting Alley,580,Hirschsprung Disease,
+Dara Clutton,32,Female,87145 Pearson Court,581,Juvenile Arthritis,
+Eldon Misk,69,Male,34 Londonderry Center,582,Trisomy 13,
+Vinson Hussell,77,Male,0 Sherman Alley,583,Hirschsprung Disease,13
+Teirtza Stean,39,Female,373 Muir Terrace,584,Pulmonary Valve Stenosis,13
+Murray Arlow,77,Male,7 Brickson Park Drive,585,"Cleft palate, without cleft lip",
+Alexi Illing,9,Female,55827 Marquette Center,586,Spinal Muscular Atrophy (SMA),
+Davie Runnacles,22,Male,1 Linden Point,587,Osteogenesis Imperfecta,
+Charmain Pellew,16,Female,74 Gale Lane,588,Seizure Disorder,
+Filide Lifton,89,Female,2 Amoth Point,589,Neural Tube Defects,7
+Fayre Dobbins,42,Female,134 Dottie Hill,590,Leukodystrophies,
+Saraann Clendinning,47,Female,2100 Ilene Court,591,Atrial Septal Defect,
+Jeane Spalls,76,Female,94 Mockingbird Circle,592,Rheumatic Heart Disease,
+Nicola Hagan,64,,7916 Fuller Plaza,593,"Reduction Defects, upper limbs",
+Wren McDyer,80,Female,51 Russell Road,594,Leukodystrophies,
+Fritz Oatley,68,Male,4 Sauthoff Park,595,Turner Syndrome,
+Denys Crowne,23,Female,4 Twin Pines Pass,596,Spinal Muscular Atrophy (SMA),
+Manfred Cuncliffe,63,Male,67115 Cody Point,597,Neural Tube Defects,
+Shea Saing,73,Female,7295 Atwood Trail,598,Total Anomalous Pulmonary Venous Return,
+Johanna Quadri,60,Female,2971 Express Place,599,Phenylketonuria,
+Leeland Yemm,70,Male,5577 Muir Trail,600,Anophthalmia/Microphthalmia,6
+Con Lathbury,12,Male,52812 Randy Park,601,Spinal Cord Injury,
+Mill Kalberer,13,Male,94 Pierstorff Pass,602,Tourette Syndrome,
+Brad Fearns,77,Male,37 Artisan Drive,603,Hypoplastic Left Heart Syndrome,4
+Millie Mulkerrins,76,Female,14 Starling Center,604,"Transgender (adults, US)",
+Paolina Ciccetti,14,,0 Delladonna Avenue,605,Atrial Septal Defect,
+Junina Edmead,45,Female,69192 Steensland Point,606,Hypoplastic Left Heart Syndrome,
+Mariette Mayou,43,Female,5 Hudson Way,607,Coarctation of the Aorta,2
+Constantin Joskovitch,45,Male,59498 Superior Parkway,608,Constipation,10
+Geno Tabourel,79,Male,281 Ruskin Center,609,Leukodystrophies,3
+Jone Hathwood,73,Male,739 Forest Dale Way,610,Familial Hypercholesterolemia (heterozygote),
+Theadora Romeril,81,,87 Lakewood Gardens Junction,611,Deafness,
+Olva Wallman,62,Female,7381 Melby Parkway,612,Phenylketonuria,
+Nedda Randals,63,Female,844 Magdeline Terrace,613,Fetal Alcohol Spectrum Disorders,
+Thibaud Fleote,54,Male,6147 Debra Trail,614,Chronic Renal Failure,
+Nicoli Faltskog,2,Female,57799 Lukken Avenue,615,Neural Tube Defects,
+Brantley Everson,10,Male,2 Nova Point,616,Infantile Spasms,
+Evangelin Setterington,46,Female,44620 Westend Pass,617,Truncus Arteriosus,10
+Domenic Muldowney,78,Male,994 Bayside Plaza,618,"Cleft palate, without cleft lip",
+Margareta Puve,74,Female,61 Bonner Parkway,619,Cerebral Palsy,
+Morgana Joret,28,Female,30 Amoth Avenue,620,Traumatic Brain Injury w/ persistent disability,7
+Lilllie Kilban,62,Female,83 Fordem Trail,621,Asthma (Pediatric),7
+Hetti MacKellar,72,,88440 Sauthoff Point,622,Cerebral Palsy,13
+Tarrance McTrustie,43,Male,51943 Veith Alley,623,Seizure Disorder,
+Minetta Pulhoster,2,Female,3 Onsgard Circle,624,Asthma (Pediatric),
+Rosemarie Kilbride,76,Female,8221 Linden Park,625,Asthma (Pediatric),
+Hunt Cargen,77,Male,13608 Armistice Alley,626,Spinal Muscular Atrophy (SMA),
+Krispin Tantrum,62,Male,2694 Leroy Lane,627,Chronic Renal Failure,
+Kassey Hunn,6,Female,397 Summerview Terrace,628,"Congenital Heart Defects, all",
+Anne Brodbin,20,Female,644 Merchant Junction,629,Esophageal/Tracheoesophageal Atresia,
+Datha Fulstow,48,Female,083 Beilfuss Trail,630,"Cancer (all types, includes survivors)",
+Cary Lobbe,46,Female,12 Sauthoff Court,631,All Tandem Mass-Screened Conditions,7
+Munroe Jorin,15,Male,7 1st Drive,632,Childhood Absence Epilepsy,
+Salli Brownlea,36,Female,8 Larry Hill,633,Rectal & Large Intestinal Atresia/Stenosis,
+Tandie Ashburne,17,Female,07 1st Drive,634,Fatty Acid Oxidation Disorders - total,3
+Rustie Stainton - Skinn,53,Male,9235 Anniversary Street,635,Cystic Fibrosis,
+Lindie Fey,69,Female,980 Melrose Alley,636,"Transgender (adults, US)",
+Bard Donahue,11,Male,5022 Parkside Parkway,637,Down Syndrome,
+Cassandre Rubinovici,31,Female,44 Barnett Lane,638,Visual Impairment (worse than 20/70),4
+Melisande Burlingham,51,Female,936 Paget Court,639,Duchenne Muscular Dystrophy,9
+Wilmar Di Carlo,68,Male,1201 Fuller Crossing,640,Trisomy 18,
+Garvy Durram,51,Male,6066 Old Shore Park,641,Intellectual Disability,
+Hamil Ludewig,57,Male,5 Brown Point,642,Hydrocephalus,
+Grant Kellaway,49,Male,176 Bunker Hill Place,643,Trisomy 18,7
+Nicolis Bradnock,15,Male,2697 Fremont Street,644,Fatty Acid Oxidation Disorders - total,
+Allyce Yukhnov,50,Female,68 Hooker Place,645,XXY (Klinefelter) Syndrome,
+Rania Culcheth,46,Female,85880 Havey Alley,646,Fatty Acid Oxidation Disorders - total,
+Ezra Norheny,37,,3892 Havey Point,647,"Cleft Lip, with or without cleft palate",12
+Teddie Laven,55,Male,9 Grover Plaza,648,Sickle Cell Disease,
+Evin Leavy,31,Male,623 Reinke Hill,649,Food Allergy,
+Frankie Elies,21,Female,21440 Hintze Terrace,650,Rectal & Large Intestinal Atresia/Stenosis,12
+Christal Pollie,44,,1 Onsgard Crossing,651,Attention Deficit Hyperactivity Disorder (1/11.5 of 8-15 year olds),
+Page Staddom,20,Male,6831 La Follette Terrace,652,Food Allergy,
+Lockwood Maletratt,74,Male,079 Autumn Leaf Center,653,"Cancer (all types, includes survivors)",
+Dougie Bethel,11,Male,494 Pennsylvania Street,654,Idiopathic Thrombocytopenic Purpura (cum. incidence),
+Felicdad Buxcey,20,Female,85485 Daystar Terrace,655,Spinal Cord Injury,
+Ken Bridson,15,Male,2 Manufacturers Point,656,"Cleft Lip, with or without cleft palate",
+Hakim Baiden,14,Male,93949 Eliot Plaza,657,Crohn's Disease,3
+Ofelia Heatherington,18,Female,0576 New Castle Junction,658,XXY (Klinefelter) Syndrome,12
+Karlen Pawlata,70,Female,30413 Harper Junction,659,"Congenital Heart Defects, all",
+Crysta Kitley,50,Female,96813 Roth Center,660,Autism Spectrum Disorder,
+Rhetta Broomhall,87,Female,70314 Vidon Park,661,Rett Syndrome,
+Munroe Morillas,5,Male,70 Garrison Lane,662,Traumatic Brain Injury w/ persistent disability,5
+Francoise Willeson,62,,9212 Steensland Pass,663,Visual Impairment (worse than 20/70),
+Hewe McKinney,56,Male,1 Nevada Pass,664,Fragile X Syndrome,
+Eal Grafham,35,Male,72384 Mifflin Junction,665,Pulmonary Valve Stenosis,
+Abagael Seleway,87,Female,946 Bartillon Alley,666,Growth Hormone Deficiency,
+Gretchen Kesterton,36,Female,0063 Mendota Plaza,667,"Congenital Heart Defects, all",8
+Estel Steinham,3,Female,05 Jenifer Avenue,668,Premature Infant (<27 weeks),
+Wally Feander,42,Male,1946 Sunbrook Way,669,Esophageal/Tracheoesophageal Atresia,
+Ellery Eller,72,Male,53 Prairie Rose Trail,670,"Headache, Migraine",4
+Samson Gunthorp,68,Male,90 Bunker Hill Drive,671,Sickle Cell Disease,
+Nancy Malham,82,Female,3963 South Pass,672,"Transgender (adults, US)",
+Abbi Maddock,76,Female,8914 Lien Terrace,673,Food Allergy,5
+Hillary Gadsby,41,Female,58 Elmside Place,674,"Cancer (all types, includes survivors)",2
+Kyle Barff,1,Male,56230 Doe Crossing Pass,675,"Stroke (>6/100,000/yr. x 16 yr.)",
+Nevins Copeland,40,Male,4 Cordelia Terrace,676,Chronic Renal Failure,
+Orville Heitz,21,Male,61374 Orin Parkway,677,Gastroschisis,
+Elwira Ashurst,44,Female,36 Longview Trail,678,Osteogenesis Imperfecta,
+Lilyan Dunbar,82,Female,5711 Killdeer Plaza,679,Esophageal/Tracheoesophageal Atresia,
+Christy covino,20,Male,4114 Sage Street,680,Rheumatic Heart Disease,
+Margaretha Purbrick,6,Female,7842 Maple Avenue,681,"Congenital Heart Defects, all",
+Benedicto Tuddenham,62,Male,0786 Butternut Road,682,Asthma (Pediatric),
+Lari Vispo,35,Female,54 Manufacturers Court,683,Hearing Loss,
+Carolyne Maddrah,72,,5960 Mockingbird Terrace,684,Chronic Renal Failure,
+Grayce Morrilly,1,Female,1895 Becker Terrace,685,Single Ventricle,
+Linnet Cecil,20,Female,9522 Lillian Drive,686,Charcot-Marie-Tooth Disease,
+Eleonora Mulberry,45,Female,7221 Knutson Place,687,"Stroke (>6/100,000/yr. x 16 yr.)",
+Wallas Grisewood,85,Male,9 Pearson Lane,688,Hypertension,5
+Darrin Finan,64,,51 Novick Plaza,689,Congenital Hypothyroidism,
+Alexis Laughlin,86,Female,27 Arizona Place,690,Anophthalmia/Microphthalmia,
+Avril Arnoud,4,Female,4166 Gale Circle,691,Spinal Muscular Atrophy (SMA),
+Trumaine Hulson,55,,61794 Main Road,692,Gastroschisis,
+Miguel Sinnett,27,Male,2 American Lane,693,Food Allergy,
+Haskell Michie,41,Male,40673 Sutherland Drive,694,Trisomy 13,
+Milli Georgeou,70,,1854 Fordem Way,695,Rheumatic Heart Disease,5
+Karlotta Pargeter,64,Female,68 Ilene Plaza,696,Hypoplastic Right Ventricle,
+Vivyan Muzzall,71,Female,6422 Oneill Plaza,697,Osteogenesis Imperfecta,
+Pancho Weaving,83,,037 Oak Valley Circle,698,Leukodystrophies,
+Bell Blyden,14,Female,7 Del Mar Avenue,699,Asthma (Pediatric),
+Westbrooke McNab,37,Male,14213 Forest Run Circle,700,d-Transposition of the Great Arteries,4
+Salomon Pieracci,85,Male,000 Algoma Center,701,Duchenne Muscular Dystrophy,
+Jeanna Nelles,72,Female,382 Forster Park,702,Trisomy 13,
+Florella Skewis,10,Female,50998 Quincy Terrace,703,Omphalocele,
+Kirby Tremoille,1,Male,84070 Sheridan Parkway,704,Food Allergy,14
+Janifer Wolland,48,Female,0274 Anzinger Place,705,Childhood Absence Epilepsy,
+Cassey Falk,78,Female,25323 Prairieview Terrace,706,All Tandem Mass-Screened Conditions,15
+Curran Kornel,52,Male,2 Eggendart Crossing,707,Hearing Loss,
+Vasili Bleas,45,Male,4965 Sutteridge Pass,708,Atrial Septal Defect,4
+Bogart Balmer,73,Male,5 Ridge Oak Road,709,Chronic Renal Failure,6
+Lily Christofle,13,Female,94601 Crowley Avenue,710,Single Ventricle,
+Krystle Nardoni,88,Female,913 Heath Circle,711,Trisomy 13,
+Netty Blything,24,Female,8920 Buhler Alley,712,HPV Infection (18% of girls 14-19),
+Orion Blankett,6,,9 Lawn Hill,713,Hypertension,9
+Art Kingshott,24,Male,6 Eagan Street,714,"Neurofibromatosis, Type I",
+Chrissie Belsey,71,Female,5271 Artisan Road,715,"Headache, Migraine",
+Bibby Eloy,2,Female,602 Melody Junction,716,Premature Infant (<27 weeks),
+Jacquenetta Gerretsen,26,Female,3505 Swallow Plaza,717,Hydrocephalus,
+Anastassia Corbett,72,Female,99 Westridge Court,718,Seizure Disorder,9
+Melloney Jaggar,77,Female,79748 Monica Circle,719,Charcot-Marie-Tooth Disease,
+Lockwood Dellar,52,Male,406 Del Mar Junction,720,"Neurofibromatosis, Type I",
+Quinn Neward,11,Male,70 Colorado Plaza,721,Spinal Muscular Atrophy (SMA),
+Hi Cadden,65,Male,8 Colorado Lane,722,Hearing Loss,
+Angie Hanigan,14,Female,1597 Bellgrove Lane,723,Romano-Ward Syndrome,
+Angelia Matzaitis,6,Female,4966 Spaight Street,724,Omphalocele,
+Alexandr Aucoate,59,Male,30 Rigney Parkway,725,Sickle Cell Disease,
+Feodor Braferton,18,Male,1 Hayes Road,726,Food Allergy,2
+Chance Petre,48,Male,97739 Ridge Oak Hill,727,Hypoplastic Right Ventricle,
+Prescott Fidilis,33,Male,81 Sommers Avenue,728,Hydrocephalus,
+Fabio Punchard,67,Male,4 Canary Place,729,Amino Acid Disorders - total,
+Aube Maddox,7,Male,2709 Saint Paul Circle,730,Fetal Alcohol Spectrum Disorders,
+Jerome Allmark,56,Male,100 Pennsylvania Court,731,Seizure Disorder,
+Forrester Ucceli,45,Male,7 Harper Street,732,XXY (Klinefelter) Syndrome,
+Franz Leethem,62,Male,07658 Harper Drive,733,Hearing Loss,5
+Iolanthe Wardale,15,Female,6 Golden Leaf Junction,734,22q11.2 deletion syndrome,
+Jared Janus,29,Male,30653 Novick Lane,735,Spinal Muscular Atrophy (SMA),
+Dalenna Vigars,70,Female,6105 Meadow Valley Center,736,Intellectual Disability,
+Alie Marjoribanks,29,Female,1187 Trailsway Lane,737,Aortic Valve Stenosis,
+Salomon Paradise,29,,4 Messerschmidt Terrace,738,Rectal & Large Intestinal Atresia/Stenosis,
+Ly Libbis,41,,2 Mccormick Point,739,Pulmonary Valve Stenosis,
+Maxy Beeston,66,Male,82634 Leroy Drive,740,Aortic Valve Stenosis,1
+Joy McCorrie,2,,5 Norway Maple Plaza,741,"Cleft Lip, with or without cleft palate",
+Harmon Harwick,63,Male,5 Loomis Park,742,Depression,
+Ilysa Newarte,65,Female,01429 Nancy Way,743,Hypertension,
+Niki Whilde,19,Female,7 Dawn Pass,744,Hypoplastic Left Heart Syndrome,
+Asher Lawford,23,Male,34182 Golf Course Crossing,745,Childhood Absence Epilepsy,
+Adriana Bernade,13,Female,6802 Amoth Center,746,Single Ventricle,
+Dianna Loreit,82,,6482 Carberry Point,747,Growth Hormone Deficiency,
+Garwood Tames,15,Male,65 Vidon Point,748,Celiac Disease (all ages),
+Samaria Jowitt,60,Female,5679 Delaware Crossing,749,Visual Impairment (worse than 20/70),
+Bourke O'Henecan,34,Male,80612 Walton Junction,750,Autism Spectrum Disorder,1
+Georas Supple,65,,2828 Ridge Oak Junction,751,Speech Defects,
+Kip Kett,39,Male,02091 Ridgeway Lane,752,Spinal Cord Injury,12
+Bret Leport,87,Male,57 Thackeray Pass,753,Phenylketonuria,1
+Angelica Espinay,27,Female,0 School Circle,754,"Hearing Loss or Deafness, Congenital",15
+Britta Cubbin,66,Female,26 Texas Drive,755,Attention Deficit Hyperactivity Disorder (1/11.5 of 8-15 year olds),9
+Alisander Gergher,72,Male,35620 Bowman Place,756,Single Ventricle,
+Gabby Di Bernardo,34,,41146 Leroy Lane,757,Tetralogy of Fallot,
+Brew Osgar,66,Male,39 Dixon Lane,758,Growth Hormone Deficiency,12
+Payton Undrell,11,Male,8971 Kingsford Court,759,Speech Defects,
+Berta Bruin,48,Female,643 Corben Plaza,760,Romano-Ward Syndrome,
+Roseanne O'Neill,57,Female,67 Oakridge Point,761,Truncus Arteriosus,
+Stella Fawkes,11,Female,98 Dixon Avenue,762,"¡Ý1 Mental, Emotional, Behavioral Disorder",
+Kristofor Duiguid,39,,912 Ruskin Avenue,763,"Hearing Loss or Deafness, Congenital",
+Tobie Van der Kruijs,85,Male,714 Bultman Point,764,"Hearing Loss, Serious (>40 db, bilat.)",
+Jae Turl,73,Male,70202 Artisan Trail,765,Traumatic Brain Injury w/ persistent disability,
+Clarette Stonman,20,Female,8571 Dapin Alley,766,Club Foot,
+Svend Giacomo,35,Male,4135 Marcy Way,767,"Cleft Lip, with or without cleft palate",
+Tomasine Cowderoy,76,Female,90739 Welch Way,768,Omphalocele,9
+Blithe Hugk,41,Female,7794 Pine View Way,769,Truncus Arteriosus,
+Klara Cavey,61,Female,89 Sloan Pass,770,Patent Ductus Arteriosus,
+Lyndsay Sleightholm,68,Female,925 Carey Alley,771,Seizure Disorder,
+Jocko Redihough,25,,6031 Esker Lane,772,Familial Hypercholesterolemia (heterozygote),
+Doloritas Spearett,38,Female,390 Katie Crossing,773,Asthma (Pediatric),
+Bernelle Chelsom,51,Female,4 Fairview Hill,774,Neural Tube Defects,
+Kip Lendrem,3,Male,4864 Acker Circle,775,"Reduction defects, lower limbs",
+Rita Harral,52,Female,90587 Manitowish Lane,776,Anophthalmia/Microphthalmia,
+Sharron Dyton,23,Female,91695 Arrowood Plaza,777,Lennox-Gastaut syndrome,
+Herc McIleen,33,Male,8924 Vernon Center,778,Hypertension,
+Persis Grandison,89,Female,2926 Mendota Trail,779,Turner Syndrome,
+Karly Coiley,66,Female,23346 Anhalt Terrace,780,"Cleft Lip, with or without cleft palate",
+Ketty Baguley,1,Female,79 Hoard Crossing,781,Celiac Disease (all ages),4
+Sylvia Veighey,21,,70 Nevada Junction,782,Cystic Fibrosis,
+Gaylor Totman,63,Male,479 Stang Circle,783,Premature Infant (<27 weeks),
+Codie Kippen,14,Female,5798 Schiller Road,784,"Headache, Migraine",
+Vivyanne Riccardelli,30,Female,405 North Point,785,Childhood Absence Epilepsy,
+Raychel Matteucci,23,Female,27 School Road,786,Turner Syndrome,8
+Bevin MacMoyer,13,Male,195 Continental Terrace,787,Premature Infant (<27 weeks),
+Reagan Chaize,46,Male,5 Superior Street,788,Hypoplastic Left Heart Syndrome,
+Pierre Hanson,54,Male,1843 Barnett Center,789,Leukodystrophies,
+Trudey Bignal,5,,5162 Union Road,790,Neural Tube Defects,
+Baxter Kop,60,Male,489 Pearson Lane,791,Neural Tube Defects,11
+Codee Tick,65,Female,55 Becker Court,792,"Stroke (>6/100,000/yr. x 16 yr.)",
+Giorgio Dundon,60,Male,269 Raven Hill,793,Amino Acid Disorders - total,
+Alastair Dando,52,Male,25956 Pine View Hill,794,Fragile X Syndrome,
+Stevy Beeken,59,Male,4262 Fordem Junction,795,Pulmonary Valve Stenosis,
+Ricca Belfelt,70,Female,13 Prairieview Alley,796,Attention Deficit Hyperactivity Disorder (1/11.5 of 8-15 year olds),
+Ignacius Hedling,74,Male,20309 Dennis Pass,797,Tetralogy of Fallot,
+Eddy Dowd,67,Male,0 Westend Lane,798,Ventricular Septal Defect,
+Dniren McKennan,26,Female,63601 Fieldstone Center,799,Down Syndrome,
+Meredithe Tettersell,17,Female,016 Mandrake Road,800,Coarctation of the Aorta,
+Adeline Briztman,40,Female,91 Moose Road,801,Duchenne Muscular Dystrophy,
+Consalve Blasi,58,Male,34206 Clove Avenue,802,"Diabetes Mellitus, Type I, in children",
+Marijo Hartwell,42,Female,1 Shoshone Way,803,Rett Syndrome,8
+Inger Brantzen,42,Male,51904 Acker Terrace,804,Chronic Renal Failure,
+Deeyn Stallon,47,Female,6068 Bayside Place,805,"Neurofibromatosis, Type I",
+Iosep Klugman,52,,482 Prairie Rose Point,806,Traumatic Brain Injury (cum. hospitalized),
+Patrizio Sainte Paul,45,Male,7 Main Alley,807,"Congenital Heart Defects, all",6
+Lynnet Rupke,38,Female,61 Old Shore Center,808,"Headache, Migraine",
+Claudette Crosoer,76,Female,24 Homewood Parkway,809,Lennox-Gastaut syndrome,6
+Willabella Tremellier,51,Female,905 Dorton Court,810,Phenylketonuria,
+Bridget Thaxter,1,Female,74142 Artisan Terrace,811,Hypoplastic Right Ventricle,
+Amil Poad,12,Female,0 Tomscot Point,812,"Reduction defects, lower limbs",
+Whit Lote,32,Male,87 Spaight Center,813,Constipation,12
+Petunia Rait,67,Female,084 Shopko Lane,814,Hypertension,2
+Hadley Losty,55,Male,42 Mitchell Road,815,Traumatic Brain Injury (cum. hospitalized),
+Erminie Dello,26,Female,81575 Kipling Park,816,Congenital Hypothyroidism,
+Dottie Peppett,75,Female,6931 Eastlawn Point,817,Infantile Spasms,11
+Curran Goold,88,Male,52 Paget Lane,818,Leukodystrophies,
+Cherise Pacitti,90,Female,7921 Lotheville Parkway,819,Hypoplastic Left Heart Syndrome,
+Ira Chadd,43,Male,3 Merry Center,820,"Hearing Loss, Serious (>40 db, bilat.)",
+Vania Sherbourne,68,Female,65 Ludington Point,821,Coarctation of the Aorta,
+Kippy Monelle,85,Male,9 Old Gate Hill,822,HPV Infection (18% of girls 14-19),3
+Chloe Spragge,70,Female,0648 Hanover Trail,823,Juvenile Arthritis,
+Johnnie Baron,56,Male,68801 Heffernan Point,824,Hearing Loss,14
+Rikki Aisthorpe,48,Female,61930 Banding Lane,825,Juvenile Arthritis,
+Noe McCarter,42,Male,8901 Hayes Point,826,Omphalocele,
+Stefania Crocumbe,30,Female,4970 Bonner Court,827,Esophageal/Tracheoesophageal Atresia,
+Rana Houson,77,Female,24 Porter Hill,828,Autism Spectrum Disorder,
+Ty Morgen,90,Male,74446 Del Sol Parkway,829,"Headache, Migraine",5
+Corey Cartwight,34,Female,197 Kensington Point,830,Duchenne Muscular Dystrophy,
+Wendall Hertwell,36,Male,34702 Corben Court,831,"Neurofibromatosis, Type I",
+Natassia Ready,51,Female,1 Hayes Center,832,In Foster Care (national estimate),
+Cherin Dayce,55,,2537 Sutteridge Terrace,833,Rheumatic Heart Disease,4
+Bunny Mitrikhin,63,Female,76469 Welch Point,834,Lennox-Gastaut syndrome,
+Gradey Cathcart,22,Male,07 Stone Corner Alley,835,Cystic Fibrosis,4
+Sutton Dobing,88,Male,68446 Pleasure Road,836,Pulmonary Valve Stenosis,
+Rina Epinoy,69,Female,23928 Kropf Park,837,Neural Tube Defects,
+Vassily Sarge,24,Male,1 Union Road,838,Premature Infant (<27 weeks),
+Guss Chippendale,5,,7 Canary Junction,839,Diaphragmatic Hernia,
+Phylis Emeny,86,Female,7825 Northridge Street,840,Cerebral Palsy,
+Pansy Pizzey,12,Female,41869 Spenser Junction,841,Diaphragmatic Hernia,6
+Chaim Winskill,27,Male,693 Mitchell Terrace,842,Rectal & Large Intestinal Atresia/Stenosis,13
+Lance Blazy,86,Male,29289 Morningstar Junction,843,"Hearing Loss, Serious (>40 db, bilat.)",
+Uri Skace,86,Male,906 Goodland Drive,844,22q11.2 deletion syndrome,
+Ty Van de Castele,1,Male,0 Clyde Gallagher Drive,845,Hemophilia (A & B),
+Perl Dalliston,10,Female,425 Mitchell Park,846,Anophthalmia/Microphthalmia,
+Floyd Martello,53,Male,3 Scott Lane,847,Leukodystrophies,
+Cordy Barzen,28,Male,1 Meadow Valley Circle,848,Total Anomalous Pulmonary Venous Return,
+Cob Pavic,11,Male,63785 Forest Way,849,Tourette Syndrome,
+Ketti MacLardie,10,Female,602 Elka Drive,850,"Stroke (>6/100,000/yr. x 16 yr.)",
+Even Theunissen,4,Male,57 Spohn Center,851,Hirschsprung Disease,7
+Harrie Balls,6,Female,74889 Schlimgen Crossing,852,Ventricular Septal Defect,
+Madelin Fullard,34,Female,0 Tennyson Street,853,Hemophilia (A & B),5
+Jobey Baudon,45,Female,4926 Loftsgordon Plaza,854,"Stroke (>6/100,000/yr. x 16 yr.)",6
+Dmitri Hynam,88,Male,1 Dahle Parkway,855,In Foster Care (national estimate),
+Donovan Dosdale,51,Male,3264 Truax Park,856,Hypertension,
+Garner Manis,27,Male,052 Manufacturers Crossing,857,Phenylketonuria,
+Rochell Do,38,Female,527 Lighthouse Bay Crossing,858,Neural Tube Defects,
+Gladi Sydenham,26,Female,034 Novick Trail,859,Organic Acidurias - total,
+Hyacinthia Twittey,19,Female,61 Bartillon Drive,860,Fatty Acid Oxidation Disorders - total,9
+Morris Ortell,18,Male,4955 Graceland Junction,861,Constipation,
+Tomasina Grimoldby,59,Female,2080 Monterey Way,862,d-Transposition of the Great Arteries,
+Rebeca Giamuzzo,8,Female,527 Beilfuss Park,863,22q11.2 deletion syndrome,
+Dedra Hubberstey,4,Female,26 Southridge Crossing,864,"Cancer (all types, includes survivors)",
+Henry Crissil,19,Male,3 Katie Circle,865,Sickle Cell Disease,11
+Sofie Westmerland,52,Female,841 Anderson Junction,866,Tetralogy of Fallot,
+Margie Chater,76,Female,93 South Alley,867,"Headache, Chronic Daily",
+Newton Adamsen,11,Male,465 Division Lane,868,Depression,
+Ralph Drinnan,38,Male,64 Mallard Court,869,Aortic Valve Stenosis,
+Sabra Klimontovich,77,Female,0471 Golf Alley,870,Turner Syndrome,
+Onfroi Crothers,13,Male,1379 Milwaukee Circle,871,"Neurofibromatosis, Type I",
+Burnaby Luxmoore,79,Male,2 Forest Run Park,872,Club Foot,
+Lorine Melvin,70,Female,4441 Bunting Road,873,"Stroke (>6/100,000/yr. x 16 yr.)",
+Winston Peirpoint,11,Male,4328 Hanson Place,874,Growth Hormone Deficiency,
+York Prigg,85,,13934 Armistice Avenue,875,Cystic Fibrosis,
+Keslie Radnedge,24,Female,47 Fordem Street,876,Idiopathic Thrombocytopenic Purpura (cum. incidence),
+Aila Heningham,56,Female,60 Jay Center,877,Constipation,
+Duffy Burless,23,Male,60 Green Trail,878,Sickle Cell Disease,
+Gage Sloy,12,Male,07 John Wall Crossing,879,"Hearing Loss or Deafness, Congenital",
+Allx Derrell,47,Female,492 Graedel Lane,880,Cerebral Palsy,
+Doug MacKegg,64,Male,322 Bowman Plaza,881,Tourette Syndrome,
+Eldridge Prawle,55,Male,79440 Aberg Pass,882,"Reduction defects, lower limbs",
+Fred McDuff,57,Female,90 Merchant Trail,883,Cystic Fibrosis,
+Delmer Skunes,83,Male,561 Troy Parkway,884,Phenylketonuria,
+Ermengarde Akess,63,,17835 Bellgrove Avenue,885,Traumatic Brain Injury (cum. hospitalized),
+Domingo Chillingsworth,37,Male,2 Paget Court,886,"Cancer (all types, includes survivors)",
+Niki Rosson,19,Male,54795 Anzinger Hill,887,Hypoplastic Right Ventricle,1
+Maximo Rohfsen,28,Male,61 Continental Pass,888,Down Syndrome,
+Garey Jakubowicz,33,Male,7588 Oak Valley Plaza,889,Aortic Valve Stenosis,
+Stevie De Blase,41,Male,66 Southridge Plaza,890,Tetralogy of Fallot,
+Robbi Maile,24,Female,559 Upham Way,891,"Congenital Heart Defects, all",
+Arturo Carruth,48,Male,6668 Lien Road,892,Childhood Absence Epilepsy,
+Ivan Kohen,43,Male,19496 Tomscot Alley,893,Childhood Absence Epilepsy,
+Tilly Hounsome,51,,21 Meadow Vale Crossing,894,"Headache, Migraine",
+Tanney Loch,73,Male,12137 Sundown Alley,895,Patent Ductus Arteriosus,
+Ruthanne Shafier,51,Female,04984 Dapin Park,896,"Cancer (all types, includes survivors)",
+Dewain Livett,64,Male,0993 David Drive,897,Total Anomalous Pulmonary Venous Return,
+Augustine Braywood,39,Male,674 Lillian Park,898,Atrial Septal Defect,7
+Hillary Yashunin,84,Female,7937 Ludington Court,899,Fetal Alcohol Spectrum Disorders,
+Rebekah Chattell,67,Female,022 Kinsman Avenue,900,"Diabetes Mellitus, Type I, in children",
+Timotheus Coule,39,Male,31 Harper Avenue,901,Lennox-Gastaut syndrome,
+Kati Withringten,14,Female,071 Golf View Street,902,"LGBT (adults, US)",9
+Meggie O'Keaveny,38,Female,36960 Fallview Street,903,Lennox-Gastaut syndrome,7
+Collin Dmisek,36,Male,1312 Canary Street,904,"Cleft palate, without cleft lip",10
+Briney Daniello,75,Female,2 Fairview Terrace,905,"Headache, Chronic Daily",
+Janey Jenkerson,39,Female,5 Loftsgordon Way,906,Tetralogy of Fallot,14
+Sawyer Whitecross,2,Male,2804 Weeping Birch Trail,907,Hypoplastic Right Ventricle,8
+Jennifer Rolles,32,Female,71951 Dunning Road,908,Down Syndrome,
+Gabey Purrier,21,Female,071 Leroy Road,909,Romano-Ward Syndrome,
+Iggy Salmoni,89,Male,77 Algoma Crossing,910,Turner Syndrome,
+Marne Colliar,51,Female,54 Spohn Pass,911,Charcot-Marie-Tooth Disease,
+Mackenzie Porcas,23,Male,06 Red Cloud Crossing,912,Aortic Valve Stenosis,
+Durant Luthwood,53,Male,9 Schurz Way,913,Truncus Arteriosus,
+Myrna Bratley,10,Female,7103 School Pass,914,"Hearing Loss or Deafness, Congenital",2
+Holmes Hinrichs,10,Male,9469 Old Gate Alley,915,Osteogenesis Imperfecta,
+Theodora Warder,3,Female,24633 Dayton Alley,916,22q11.2 deletion syndrome,
+Essie Ledstone,62,Female,8191 Kedzie Circle,917,Substance Use Disorders,7
+Tim Bruhke,74,Male,571 Carey Lane,918,Sickle Cell Anemia,
+Fields Canadas,60,Male,494 Waxwing Point,919,Romano-Ward Syndrome,
+Bambie Bellison,52,Female,9510 Anhalt Hill,920,Pulmonary Valve Stenosis,
+Yolane Mungan,50,Female,888 Aberg Way,921,Spinal Muscular Atrophy (SMA),
+Mina Plowman,81,Female,6 Pond Street,922,Speech Defects,
+Ashbey Southerell,9,Male,3 Hanson Hill,923,Growth Hormone Deficiency,
+Oren Checo,87,Male,8 Dayton Lane,924,"Cleft palate, without cleft lip",
+Roxine Bonnick,74,Female,6634 Fieldstone Crossing,925,Deafness,
+Faunie Becom,61,Female,149 Farwell Court,926,Trisomy 13,
+Vidovik Songest,13,Male,45 Westridge Court,927,Juvenile Arthritis,
+Ealasaid McGarry,29,Female,54 Basil Street,928,"Reduction defects, lower limbs",
+Aveline Tuiller,54,Female,89 Crowley Trail,929,Phenylketonuria,
+Neal Blackstock,34,Male,771 Katie Crossing,930,All Tandem Mass-Screened Conditions,
+Giffy Barrabeale,45,Male,56 Village Street,931,Idiopathic Thrombocytopenic Purpura (cum. incidence),
+Flore Tresvina,33,Female,0 Stuart Junction,932,Fatty Acid Oxidation Disorders - total,
+Timmy Borgne,65,,10578 Nova Trail,933,All Tandem Mass-Screened Conditions,15
+Lexis MacKnight,58,,8 Charing Cross Avenue,934,"Hearing Loss, Serious (>40 db, bilat.)",
+Yancey Emanuel,74,Male,424 Nelson Street,935,"Reduction defects, lower limbs",
+Moreen Pancost,76,Female,203 Rockefeller Lane,936,"Hearing Loss or Deafness, Congenital",
+Stanislaw Fewkes,80,Male,3 Hudson Center,937,"Cleft palate, without cleft lip",
+Ginnie Yard,42,Female,3 Pepper Wood Terrace,938,"Cleft palate, without cleft lip",
+Ram Verrills,10,Male,438 Nelson Trail,939,d-Transposition of the Great Arteries,
+Nollie Jaulme,48,Male,857 Vera Pass,940,Seizure Disorder,3
+Ricki Lavallin,90,Male,95 Farragut Center,941,Total Anomalous Pulmonary Venous Return,
+Kirsti Cozzi,15,Female,4 Annamark Place,942,Familial Hypercholesterolemia (heterozygote),6
+Vinni Snelling,82,Female,12022 Delladonna Avenue,943,"Hearing Loss, Serious (>40 db, bilat.)",
+Cher Hestrop,55,Female,10 Jenifer Junction,944,Intellectual Disability,
+Lothario Bernocchi,28,Male,0871 Spenser Road,945,Duchenne Muscular Dystrophy,
+Kaylee Prestige,54,Female,5 Hanover Lane,946,Fatty Acid Oxidation Disorders - total,
+Fanya Kinde,8,Female,5145 Harper Pass,947,Attention Deficit Hyperactivity Disorder (1/11.5 of 8-15 year olds),
+Pat Havesides,8,Male,0 Sage Parkway,948,Fatty Acid Oxidation Disorders - total,
+Gwendolen Hayne,8,Female,547 Maywood Crossing,949,Single Ventricle,13
+Harold Gehrtz,82,Male,3 Dryden Parkway,950,Depression,
+Hildagard Hugk,49,Female,13 Bashford Crossing,951,Visual Impairment (worse than 20/70),
+Xever Huc,64,Male,304 Barnett Hill,952,Traumatic Brain Injury (cum. hospitalized),
+Irene Jewers,26,Female,20 Northridge Crossing,953,HPV Infection (18% of girls 14-19),
+Lindy Vincent,34,Female,020 Dexter Terrace,954,Osteogenesis Imperfecta,
+Zsazsa Lethieulier,62,Female,71 Shopko Court,955,Hemophilia (A & B),
+Colet Manby,46,Male,82790 Buell Street,956,Food Allergy,1
+Hewe Thurlbeck,44,Male,37402 Luster Hill,957,Total Anomalous Pulmonary Venous Return,
+Angeline Ishak,25,Female,86 Schiller Lane,958,"Cleft palate, without cleft lip",3
+Cleve Grigoli,11,Male,21867 Morningstar Pass,959,"Transgender (adults, US)",
+Camala Styan,77,Female,36426 Jenifer Place,960,XXY (Klinefelter) Syndrome,
+Gaylord Ubach,65,,291 Novick Road,961,Fatty Acid Oxidation Disorders - total,
+Sebastiano Handy,16,Male,67692 Mccormick Pass,962,"Cancer (all types, includes survivors)",
+Caron Guinness,71,,8 Charing Cross Terrace,963,HPV Infection (18% of girls 14-19),
+Marga Perrottet,66,Female,93 Atwood Point,964,Diaphragmatic Hernia,
+Dani Goodchild,62,Male,856 Melby Junction,965,"Reduction Defects, upper limbs",
+Bunni Ritzman,9,Female,8 Blaine Street,966,"Stroke (>6/100,000/yr. x 16 yr.)",
+Malorie Engelbrecht,54,Female,831 Havey Crossing,967,"Headache, Migraine",
+Dalis Pleuman,17,Male,708 Old Shore Drive,968,Hirschsprung Disease,
+Gerik Drever,44,Male,97882 Texas Court,969,Trisomy 13,
+Omero Berendsen,66,Male,4791 Dunning Parkway,970,Pulmonary Valve Stenosis,8
+Stillmann Mickleborough,21,Male,5 Almo Circle,971,Coarctation of the Aorta,
+Hercule Kenningley,6,Male,3 Bowman Pass,972,Sickle Cell Disease,
+Rayshell Debow,51,Female,821 Barby Drive,973,Inflammatory Bowel Disease,
+Simona Selcraig,60,Female,00434 Algoma Road,974,Rheumatic Heart Disease,
+Allard Sawood,59,Male,5 Maywood Point,975,Patent Ductus Arteriosus,
+Dylan Ickovits,62,Male,52 Forest Dale Circle,976,Hypoplastic Left Heart Syndrome,
+Pammy Brownrigg,7,Female,75654 Crescent Oaks Road,977,Growth Hormone Deficiency,
+Leta Cornwell,28,Female,5782 Johnson Trail,978,Leukodystrophies,
+Maurizia Boles,70,Female,9 Hudson Crossing,979,"Cancer (all types, includes survivors)",
+Wilone Cokayne,60,Female,9955 Loftsgordon Parkway,980,Lennox-Gastaut syndrome,
+Gustaf Vicary,67,Male,0 Arkansas Pass,981,Traumatic Brain Injury w/ persistent disability,
+Dorie Zammitt,78,Male,78304 Manley Court,982,Idiopathic Thrombocytopenic Purpura (cum. incidence),
+Freddie Lundbech,62,Male,784 Petterle Road,983,Rett Syndrome,
+Berke Nortunen,74,Male,1315 Merrick Crossing,984,Turner Syndrome,
+Trix Oxterby,34,Female,07319 Farragut Terrace,985,Growth Hormone Deficiency,
+L;urette Ritchley,43,Female,73 Dapin Plaza,986,Sickle Cell Disease,
+Goober Dunlop,74,Male,8395 Warner Pass,987,Depression,
+Kat Waldocke,53,Female,809 Randy Place,988,XXY (Klinefelter) Syndrome,
+Enrico Peltz,58,Male,64932 Bay Road,989,Seizure Disorder,
+Bond Wimbury,1,Male,931 Green Alley,990,Deafness,
+Arnuad Follan,86,Male,626 Birchwood Circle,991,"Congenital Heart Defects, all",
+Redd Lowrance,31,Male,6120 Ohio Park,992,Sickle Cell Disease,
+Brnaba Mainston,35,Male,3 Kenwood Avenue,993,Rett Syndrome,
+Suzy Lincoln,76,Female,68 Esch Road,994,Intellectual Disability,
+Blisse Bozward,81,Female,71300 Menomonie Court,995,"Reduction defects, lower limbs",
+Morissa Gettings,76,Female,8 Graedel Terrace,996,Substance Use Disorders,
+Alyse Dukelow,87,Female,21 Green Ridge Point,997,All Tandem Mass-Screened Conditions,
+Spenser Pund,4,Male,350 Huxley Trail,998,Hearing Loss,11
+Carrie Hammon,63,Female,810 Acker Way,999,"Headache, Migraine",
+Gabey Corradengo,68,Female,98 Cardinal Alley,1000,Hirschsprung Disease,
