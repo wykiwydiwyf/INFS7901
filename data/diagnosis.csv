@@ -1,1001 +1,1001 @@
-if-surge,disease,treatment
-FALSE,Water-related Diseases,Nicotine
-TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Loxapine
-TRUE,Epilepsy,Rhizopus oryzae
-FALSE,Arthritis,Mexican Tea
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Glycerin
-TRUE,Salmonella,"Arsenicum album, Cadmium sulphuricum, Ipecacuanha, Nux vomica, Phosphoricum acidum, Phosphorus, Strontium carbonicum, Tabacum, Uranium nitricum."
-TRUE,Sexually Transmitted Diseases (STDs),Sertraline Hydrochloride
-TRUE,Salmonella,"Titanium Dioxide, Octinoxate"
-FALSE,Sexually Transmitted Diseases (STDs),linagliptin
-FALSE,Giardiasis,Guaifenesin
-FALSE,Ebola (Ebola Virus Disease),Phenytoin Sodium
-FALSE,Parasites 每 Scabies,Omeprazole
-FALSE,Chronic Fatigue Syndrome,Flucytosine
-TRUE,Flu (Influenza),Acetaminophen
-TRUE,Middle East Respiratory Syndrome (MERS),Octinoxate and Titanium Dioxide
-FALSE,Chlamydia,"Dexbrompheniramine Maleate, Dextromethorphan, Phenylephrine"
-FALSE,Cancer,"Aesculus carnea, flos, Aesculus hippocastanum, flos, Agrimonia eupatoria, flos, Antimonium crudum, Avena sativa, Chamomilla, Colocynthis, Crocus sativus, Ferrum metallicum, Impatiens glandulifera, flos, Kali carbonicum, Natrum muriaticum, Populus tremula, flos, Staphysagria, Thyroidinum"
-TRUE,Birth Defects,"Bacitracin zinc, Neomycin sulfate, and Polymyxin B sulfate"
-FALSE,Giardiasis,Prochlorperazine Maleate
-FALSE,Fetal Alcohol Spectrum Disorders,Iron Supplement
-FALSE,Diabetes,"EUCALYPTOL, MENTHOL, METHYL SALICYLATE, THYMOL"
-TRUE,Birth Defects,Bisacodyl
-TRUE,Fetal Alcohol Spectrum Disorders,Hydrocodone Bitartrate and Acetaminophen
-TRUE,Ebola (Ebola Virus Disease),Sodium Sulfacetamide
-FALSE,Ebola (Ebola Virus Disease),TITANIUM DIOXIDE
-TRUE,Trichomonas Infection (Trichomoniasis),Topiramate
-TRUE,Avian Influenza,NIACIN
-FALSE,Epilepsy,"Elaps corallinus, Agnus, Angelica sinensis radix, Arsenicum alb., Bryonia, Cantharis, Caulophyllum, Cimicifuga, Cinchona, Crotalus horridus, Damiana, Glonoinum, Helonias dioica, Ignatia, Kali carb., Lachesis, Naja, Nux vom., Phosphorus, Pulsatilla, Salix nigra, Sanguinaria, Sepia, Echinacea, Valeriana"
-FALSE,Arthritis,Zinc Oxide
-FALSE,Heart Disease,Prenatal Supplement with DHA
-TRUE,Tuberculosis (TB),Ramipril
-FALSE,Chlamydia,APIS MELLIFERA
-TRUE,Genital Herpes (Herpes Simplex Virus),Menthol
-FALSE,Birth Defects,Verapamil Hydrochloride
-FALSE,Chronic Obstructive Pulmonary Disease (COPD),"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE, OXYBENZONE"
-FALSE,Giardiasis,
-FALSE,Epilepsy,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE"
-TRUE,Hepatitis,morphine sulfate
-FALSE,Epilepsy,Aluminum Zirconium Trichlorohydrex Gly
-TRUE,Gonorrhea,Loperamide Hydrochloride
-TRUE,Cancer,FERRUM PHOSPHORICUM
-FALSE,Gonorrhea,alcohol
-TRUE,Microcephaly,NAJA NAJA VENOM
-FALSE,Giardiasis,"Calc fluor, Calc phos, Chamomilla, Chamomilla, Passiflora"
-FALSE,Salmonella,"acetaminophen, dextromethorphan Hbr, Phenylephrine HCl"
-TRUE,Birth Defects,isosorbide mononitrate
-TRUE,Epilepsy,Quetiapine Fumarate
-TRUE,Chronic Obstructive Pulmonary Disease (COPD),Aspirin
-TRUE,Microcephaly,
-FALSE,Arthritis,diphenhydramine citrate and ibuprofen
-TRUE,Kidney Disease (Chronic Kidney Disease),Triclosan 0.46%
-FALSE,Middle East Respiratory Syndrome (MERS),NITROFURANTOIN
-FALSE,Human Papillomavirus (HPV),PULSATILLA VULGARIS and SULFUR and CORTISONE ACETATE
-TRUE,Heart Disease,ORPHENADRINE CITRATE
-FALSE,Kidney Disease (Chronic Kidney Disease),Polyethylene Glycol 3350
-TRUE,Gonorrhea,metolazone
-TRUE,Sexually Transmitted Diseases (STDs),Trichophyton Mentagrophytes
-TRUE,Microcephaly,Ranitidine
-FALSE,ADHD,
-TRUE,Giardiasis,Trazodone Hydrochloride
-TRUE,Water-related Diseases,"SULFACETAMIDE SODIUM, SULFUR"
-FALSE,Genital Herpes (Herpes Simplex Virus),ACREMONIUM STRICTUM
-FALSE,Autism Spectrum Disorder (ASD),Tranexamic Acid
-FALSE,Arthritis,Methocarbamol
-TRUE,Arthritis,Shadscale
-FALSE,Epilepsy,Oxygen
-FALSE,Diabetes,BENZALKONIUM CHLORIDE
-TRUE,Chronic Obstructive Pulmonary Disease (COPD),FLUORIDE TREATMENT
-TRUE,Meningitis,disulfiram
-TRUE,Epilepsy,"EUPATORIUM PERFOLIATUM FLOWERING TOP, BRYONIA ALBA ROOT, GELSEMIUM SEMPERVIRENS ROOT, EUPHRASIA STRICTA, POTASSIUM IODIDE, and CAIRINA MOSCHATA HEART/LIVER AUTOLYSATE"
-FALSE,Ebola (Ebola Virus Disease),Sodium Bicarbonate
-TRUE,Zika Virus,PYRITHIONE ZINC
-FALSE,Stroke,Lisinopril and Hydrochlorothiazide
-FALSE,Asthma,"hydrocodone bitartrate, chlorpheniramine maleate, pseudoephedrine hydrochloride"
-TRUE,Parasites 每 Scabies,Pyrithione Zinc
-FALSE,Ebola (Ebola Virus Disease),GABAPENTIN
-FALSE,Meningitis,Risperidone
-TRUE,Overweight and Obesity,vecuronium bromide
-FALSE,Birth Defects,Pulmo Ferrum
-FALSE,Avian Influenza,Rizatriptan Benzoate
-TRUE,Salmonella,Saccharomyces cerevisiae
-FALSE,Diabetes,Lisinopril
-TRUE,Arthritis,"Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone"
-FALSE,Kidney Disease (Chronic Kidney Disease),
-FALSE,Flu (Influenza),Oxymetazoline Hydrochloride
-FALSE,Overweight and Obesity,"Althaea Officinalis, Lobelia Inflata, Rheum, Verbascum Thapsus, Belladonna, Cuprum Aceticum, Drosera, Ipecacuanha"
-TRUE,Chronic Fatigue Syndrome,Diphenhydramine HCl
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),
-TRUE,Middle East Respiratory Syndrome (MERS),"Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl"
-TRUE,Asthma,White Grape
-FALSE,Chlamydia,Phenol
-FALSE,Flu (Influenza),MATRICARIA RECUTITA MELISSA OFFICINALIS ACONITUM NAPELLUS ROOT LACHESIS MUTA VENOM
-TRUE,Tuberculosis (TB),moxifloxacin hydrochloride
-FALSE,Parasites 每 Scabies,Ranitidine
-TRUE,Fetal Alcohol Spectrum Disorders,Pentoxifylline
-TRUE,Gonorrhea,Potassium Bicarbonate
-TRUE,Tuberculosis (TB),Arnica Montana 30C
-FALSE,Chronic Obstructive Pulmonary Disease (COPD),hydrocortisone
-TRUE,Trichomonas Infection (Trichomoniasis),"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
-FALSE,Meningitis,"Menthol, Methyl salicylate"
-TRUE,Meningitis,"ACETAMINOPHEN, PAMABROM"
-TRUE,Salmonella,Fluconazole
-FALSE,Overweight and Obesity,ketoconazole
-FALSE,Asthma,Phoma glomerata
-FALSE,Birth Defects,sinecatechins
-FALSE,Traumatic Brain Injury (TBI),Triclosan
-FALSE,Genital Herpes (Herpes Simplex Virus),AMLODIPINE BESYLATE
-TRUE,Tuberculosis (TB),"CACTUS GRANDIFLORUS, CONVALLARIA MAJALIS, CRATAEGUS LAEVIGATA, CAMPHORA, KALMIA LATIFOLIA, SPIGELIA ANTHELMIA, LACHESIS MUTUS, ARNICA MONTANA,TABACUM, GLONOINUM"
-FALSE,Diabetes,"OCTINOXATE, HOMOSALATE, OXYBENZONE, AVOBENZONE"
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Rhus Tox. e fol. 4
-FALSE,Fetal Alcohol Spectrum Disorders,"Sarsaparilla, Uva-ursi, Arsenicum album, Cantharis, Pareira brava, Pulsatilla, Sepia, Terebinthina, Populus tremuloides"
-FALSE,Overweight and Obesity,Minoxidil
-FALSE,Heart Disease,Carbon Dioxide
-TRUE,Hepatitis,OXYGEN
-FALSE,Flu (Influenza),"Bufo rana, Apis mel., Asterias rubens, Belladonna, Bryonia, Calc. carb., Chamomilla, Chimaphila umbellata, Cinchona, Conium, Croton, Echinacea, Graphites, Helonias dioica, Lachesis, Merc. viv., Phellandrium aquaticum Phosphorus, Phytolacca, Pulsatilla, Sanguinaria, Silicea, Hamamelis, Ruta, Taraxacum"
-FALSE,HIV/AIDS,Neurospora intermedia
-FALSE,Sexually Transmitted Diseases (STDs),oxycodone hydrochloride
-FALSE,Traumatic Brain Injury (TBI),PHENAZOPYRIDINE HYDROCHLORIDE
-TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Benzalkonium Chloride
-TRUE,Arthritis,Glyburide
-TRUE,Parasites 每 Scabies,Niacinamide
-TRUE,Human Papillomavirus (HPV),Lambs Quarters
-TRUE,Trichomonas Infection (Trichomoniasis),Fluoxetine hydrochloride
-TRUE,Trichomonas Infection (Trichomoniasis),Candesartan cilexetil
-FALSE,Giardiasis,Fosinopril Sodium
-TRUE,Giardiasis,Nitroglycerin
-FALSE,Chlamydia,"Arsenicum album, Calcarea carbonica, Ignatia amara Kali carbonicum, Lachesis mutus, Natrum muriaticum,"
-FALSE,Overweight and Obesity,"Bacitracin, Neomycin, Polymyxin B"
-FALSE,Hepatitis,Betula nigra
-FALSE,Sexually Transmitted Diseases (STDs),Dexamethasone
-FALSE,Gonorrhea,MENTHOL
-FALSE,Kidney Disease (Chronic Kidney Disease),
-FALSE,Epilepsy,Triclosan
-FALSE,Cancer,hydroxyzine hydrochloride
-FALSE,Meningitis,octinoxate and oxybenzone
-FALSE,Traumatic Brain Injury (TBI),"Acetaminophen, Chlorpheniramine maleate, Phenylephrine HCl"
-TRUE,Tuberculosis (TB),COAGULATION FACTOR IX HUMAN
-FALSE,Kidney Disease (Chronic Kidney Disease),Famotidine
-TRUE,Cancer,Thioridazine Hydrochloride
-FALSE,Cancer,Hydrocodone Bitartrate and Acetaminophen
-FALSE,Salmonella,Diltiazem Hydrochloride
-FALSE,Autism Spectrum Disorder (ASD),Lovastatin
-TRUE,Giardiasis,Furosemide
-TRUE,Giardiasis,Hydrochlorothiazide
-TRUE,Human Papillomavirus (HPV),Norgestimate and ethinyl estradiol
-TRUE,Zika Virus,technetium tc 99m sestamibi
-TRUE,Trichomonas Infection (Trichomoniasis),camphor
-FALSE,Middle East Respiratory Syndrome (MERS),"Niacinamide, Adenosine"
-FALSE,Kidney Disease (Chronic Kidney Disease),"ZINC OXIDE, TITANIUM DIOXIDE"
-FALSE,HIV/AIDS,Lisinopril
-FALSE,Chlamydia,Captopril
-TRUE,Chlamydia,minocycline hydrochloride
-TRUE,Ebola (Ebola Virus Disease),desmopressin acetate
-TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Arnica Aurum Equisetum
-TRUE,Stroke,hydrocodone bitartrate and acetaminophen
-TRUE,Zika Virus,Ethambutol hydrochloride
-FALSE,Epilepsy,Doxazosin Mesylate
-FALSE,Birth Defects,adenosine
-TRUE,Meningitis,Spiny Pigweed
-TRUE,Arthritis,haematonectria haematococca
-TRUE,Avian Influenza,Lovastatin
-FALSE,Hepatitis,ingenol mebutate
-TRUE,Salmonella,MEPERIDINE HYDROCHLORIDE
-FALSE,Trichomonas Infection (Trichomoniasis),DIMETHICONE
-TRUE,Chlamydia,TOPIRAMATE
-TRUE,Birth Defects,Valacyclovir Hydrochloride
-FALSE,Tuberculosis (TB),norethindrone acetate and ethinyl estradiol
-TRUE,Stroke,OCTINOXATE and TITANIUM DIOXIDE
-TRUE,Water-related Diseases,Aspirin
-TRUE,Asthma,Labetalol hydrochloride
-FALSE,Avian Influenza,Fenofibrate
-FALSE,Traumatic Brain Injury (TBI),Desonide
-FALSE,Water-related Diseases,
-FALSE,Trichomonas Infection (Trichomoniasis),Meclizine HCl
-TRUE,Salmonella,robinia pseudoacacia pollen
-TRUE,Asthma,Etodolac
-TRUE,Gonorrhea,Quetiapine fumarate
-TRUE,Autism Spectrum Disorder (ASD),Fluoxetine
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Sulfamethoxazole and Trimethoprim
-FALSE,Microcephaly,Methocarbamol
-TRUE,Cancer,TERBUTALINE SULFATE
-FALSE,Heart Disease,Omeprazole
-TRUE,Hepatitis,"Brome, Smooth Bromus inermis"
-TRUE,Arthritis,Lithium Carbonate
-FALSE,Parasites 每 Scabies,Albumin (Human)
-FALSE,Meningitis,benzethonium chloride
-FALSE,Ebola (Ebola Virus Disease),Naproxen
-FALSE,Meningitis,Phentermine Hydrochloride
-FALSE,Epilepsy,
-FALSE,Chlamydia,Phenylephrine Hydrochloride
-TRUE,Trichomonas Infection (Trichomoniasis),PULSATILLA VULGARIS and SULFUR
-TRUE,Diabetes,Equisetum Arvense Top
-TRUE,HIV/AIDS,Camphor (Synthetic) and Menthol
-TRUE,Sexually Transmitted Diseases (STDs),EPICOCCUM NIGRUM
-TRUE,Diabetes,
-FALSE,Fetal Alcohol Spectrum Disorders,Desert Sage
-FALSE,Chronic Fatigue Syndrome,"EUCALYPTOL, MENTHOL, METHYL SALICYLATE, THYMOL"
-TRUE,Zika Virus,BUPIVACAINE HYDROCHLORIDE
-TRUE,Arthritis,"Influenza A Virus, Influenza B Virus, Histaminum hydrochloricum, Aconitum nap., Aralia quinquefolia, Arsenicum alb., Baptisia, Bryonia, Cinchona, Eupatorium perf., Gelsemium, Ipecac., Kali carb., Nux vom., Phosphorus, Rhus toxicodendron, Echinacea"
-FALSE,Zika Virus,Hydrocodone Bitartrate and Acetaminophen
-FALSE,Hepatitis,TECHNETIUM TC-99M SODIUM PERTECHNETATE
-FALSE,Parasites 每 Scabies,Menthol
-TRUE,Asthma,candida albicans
-FALSE,ADHD,Trichothecium roseum
-FALSE,Middle East Respiratory Syndrome (MERS),not applicable
-TRUE,Heart Disease,
-TRUE,Epilepsy,Medroxyprogesterone Acetate
-FALSE,Middle East Respiratory Syndrome (MERS),Methadone Hydrochloride
-TRUE,ADHD,Tamoxifen Citrate
-FALSE,Heart Disease,"sodium chloride, sodium lactate, potassium chloride and calcium chloride"
-FALSE,Ebola (Ebola Virus Disease),Norethindrone and Ethinyl Estradiol
-FALSE,Overweight and Obesity,Acacia
-TRUE,Asthma,"Cetirizine HCl, Pseudoephedrine HCl"
-TRUE,Giardiasis,
-TRUE,Chronic Obstructive Pulmonary Disease (COPD),Etodolac
-FALSE,Middle East Respiratory Syndrome (MERS),Alcohol
-TRUE,Epilepsy,"Avobenzone, Octisalate and Octocrylene"
-FALSE,Tuberculosis (TB),Zinc Oxide
-FALSE,Zika Virus,Ibuprofen
-TRUE,Chronic Obstructive Pulmonary Disease (COPD),POLOXAMER 188
-TRUE,Autism Spectrum Disorder (ASD),
-FALSE,Gonorrhea,Calcium Acetate
-FALSE,Avian Influenza,enoxaparin sodium
-FALSE,Human Papillomavirus (HPV),"Camphor, Menthol, Eucalyptus Globulus Leaf Oil"
-TRUE,Epilepsy,Ibuprofen and Pseudoephedrine Hydrochloride
-TRUE,Genital Herpes (Herpes Simplex Virus),SULFUR
-TRUE,Chronic Fatigue Syndrome,"Octinoxate, Oxybenzone, Octocrylene, Avobenzone"
-TRUE,Zika Virus,"Guaifenesin, Phenylephrine Hydrochloride"
-TRUE,Birth Defects,warfarin sodium
-TRUE,Epilepsy,
-FALSE,Human Papillomavirus (HPV),Borago Nicotiana
-FALSE,Giardiasis,Human Insulin
-TRUE,Autism Spectrum Disorder (ASD),Naproxen Sodium
-TRUE,Kidney Disease (Chronic Kidney Disease),torsemide
-TRUE,Avian Influenza,ribavirin
-TRUE,Traumatic Brain Injury (TBI),mercaptopurine
-FALSE,Tuberculosis (TB),levetiracetam
-FALSE,Zika Virus,
-FALSE,Trichomonas Infection (Trichomoniasis),Wingscale
-TRUE,Stroke,doxepin hydrochloride
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),"Camphor, Menthol, Menthyl Salicylate"
-TRUE,Overweight and Obesity,DOCUSATE SODIUM-SENNOSIDES
-TRUE,Hepatitis,Zinc Oxide
-FALSE,Chlamydia,"Sulphur, Asclepias tuberosa, Bryonia, Dulcamara,"
-FALSE,Chronic Fatigue Syndrome,TITANIUM DIOXIDE
-TRUE,Water-related Diseases,Pyrithione Zinc
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),metoprolol tartrate
-FALSE,Salmonella,Chloroxylenol
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Titanium dioxide
-FALSE,Overweight and Obesity,TOLNAFTATE
-FALSE,ADHD,PRAVASTATIN SODIUM
-TRUE,Chlamydia,ACTIVATED CHARCOAL - ARNICA MONTANA - ATROPA BELLADONNA - CANAKINUMAB - HYDROCOTYLE ASIATICA EXTRACT - AESCULUS HIPPOCASTANUM FLOWER - MELISSA OFFICINALIS - PAEONIA OFFICINALIS ROOT - PODOPHYLLUM PELT
-TRUE,Microcephaly,Oxycodone and Acetaminophen
-FALSE,Overweight and Obesity,beta vulgaris pollen
-FALSE,Diabetes,Bethanechol Chloride
-FALSE,Heart Disease,Acetaminophen
-TRUE,Parasites 每 Scabies,aprepitant
-FALSE,Middle East Respiratory Syndrome (MERS),"cocoa butter, phenylephrine hcl"
-TRUE,Traumatic Brain Injury (TBI),"Eucalyptol , Menthol, Methyl Salicylate ,Thymol"
-FALSE,Gonorrhea,Famotidine
-TRUE,Cancer,"Chlophedianol Hydrochloride, Dexbrompheniramine Maleate, Pseudoephedrine Hydrochloride"
-FALSE,Cancer,"synthetic conjugated estrogens, B"
-FALSE,Salmonella,Levothyroxine sodium
-FALSE,Flu (Influenza),Common Sagebrush
-TRUE,Chlamydia,Prednisone
-FALSE,Overweight and Obesity,Promethazine Hydrochloride
-FALSE,Water-related Diseases,nicotine polacrilex
-FALSE,Chlamydia,Liquidamber styraciflua
-TRUE,Flu (Influenza),Sodium Fluoride
-FALSE,Fetal Alcohol Spectrum Disorders,"Avobenzone, Octinoxate, Octisalate, and Oxybenzone"
-TRUE,Stroke,warfarin sodium
-TRUE,Asthma,
-TRUE,Cancer,"Borneol, Menthol"
-FALSE,Gonorrhea,IRBESARTAN
-TRUE,Fetal Alcohol Spectrum Disorders,"octinoxate, oxybenzone and petrolatum"
-TRUE,Parasites 每 Scabies,losartan potassium and hydrochlorothiazide
-TRUE,Stroke,Prednisone
-TRUE,Heart Disease,Oxycodone and Acetaminophen
-TRUE,HIV/AIDS,Isradipine
-FALSE,Overweight and Obesity,
-FALSE,Traumatic Brain Injury (TBI),Clam
-FALSE,Middle East Respiratory Syndrome (MERS),Isoniazid
-TRUE,Flu (Influenza),Dicyclomine Hydrochloride
-TRUE,Epilepsy,"Octinoxate, Octisalate, Avobenzone, Octocrylene"
-TRUE,Meningitis,Indapamide
-FALSE,Trichomonas Infection (Trichomoniasis),Robitussin
-TRUE,Kidney Disease (Chronic Kidney Disease),"aluminum hydroxide, magnesium hydroxide, dimethicone"
-TRUE,Kidney Disease (Chronic Kidney Disease),stavudine
-TRUE,Parasites 每 Scabies,Lisinopril and hydrochlorothiazide
-FALSE,Stroke,Box Elder Ash Leaf Maple
-FALSE,Giardiasis,Dextromethorphan Hydrobromide
-TRUE,Salmonella,Lentil
-TRUE,Human Papillomavirus (HPV),Clindamycin Palmitate Hydrochloride
-TRUE,Chlamydia,olmesartan medoxomil and hydrochlorothiazide
-TRUE,Birth Defects,
-FALSE,Chronic Obstructive Pulmonary Disease (COPD),"Butalbital, Aspirin, and Caffeine"
-TRUE,Water-related Diseases,VANCOMYCIN HYDROCHLORIDE
-TRUE,Salmonella,acacia
-TRUE,Chronic Obstructive Pulmonary Disease (COPD),
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),sennosides
-TRUE,Avian Influenza,Aspirin
-TRUE,Salmonella,Betamethasone Dipropionate
-FALSE,Fetal Alcohol Spectrum Disorders,Alendronate Sodium
-TRUE,Chronic Obstructive Pulmonary Disease (COPD),Amiodarone Hydrochloride
-FALSE,Ebola (Ebola Virus Disease),Fluconazole
-TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Captopril
-FALSE,Kidney Disease (Chronic Kidney Disease),Nortriptyline Hydrochloride
-TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),
-TRUE,Water-related Diseases,
-FALSE,Human Papillomavirus (HPV),
-FALSE,Epilepsy,Red Cedar
-TRUE,Epilepsy,OCTINOXATE OXYBENZONE
-TRUE,Flu (Influenza),Simethicone
-TRUE,Asthma,Benzalkonium Chloride
-TRUE,Tuberculosis (TB),Warfarin Sodium
-FALSE,Diabetes,Cefuroxime Axetil
-FALSE,HIV/AIDS,Metoprolol Succinate
-TRUE,Salmonella,Fentanyl
-TRUE,Stroke,ARNICA MONTANA FLOWER
-TRUE,Hepatitis,orphenadrine citrate
-FALSE,Kidney Disease (Chronic Kidney Disease),MORPHINE SULFATE
-FALSE,Avian Influenza,
-TRUE,Meningitis,Corn Smut
-TRUE,Kidney Disease (Chronic Kidney Disease),Peginterferon alfa-2b
-TRUE,Zika Virus,Ibuprofen
-FALSE,Overweight and Obesity,
-TRUE,Birth Defects,CEANOTHUS AMERICANUS LEAF
-TRUE,Human Papillomavirus (HPV),
-TRUE,Trichomonas Infection (Trichomoniasis),Shark cartilage
-TRUE,HIV/AIDS,Pussy Willow
-TRUE,Gonorrhea,Trazodone Hydrochloride
-FALSE,Ebola (Ebola Virus Disease),Apraclonidine
-TRUE,Avian Influenza,
-TRUE,Tuberculosis (TB),ROPIVACAINE HYDROCHLORIDE
-FALSE,Asthma,"Octinoxate, octisalate, octocrylene, titanium dioxide"
-FALSE,Flu (Influenza),Neurospora intermedia
-TRUE,Middle East Respiratory Syndrome (MERS),everolimus
-TRUE,Sexually Transmitted Diseases (STDs),"Bismuthum metallicum, Antimon.crud., Arg. nit., Arsenicum alb., Baptisia, Bryonia, Chamomilla, Cinchona, Iris versicolor, Kali bic., Lachesis, Lycopodium, Mag. carb., Nux vom., Phosphorus, Podoph. pelt., Pulsatilla, Raphanus, Rhus toxicodendron, Tabacum, Verbascum, Zingiber, Echinacea, Juglans regia"
-TRUE,Ebola (Ebola Virus Disease),lansoprazole
-TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),finasteride
-TRUE,Avian Influenza,Amlodipine besylate and benazepril hydrochloride
-FALSE,ADHD,Isosorbide Dinitrate
-FALSE,Ebola (Ebola Virus Disease),"Octinoxate, Titanium Dioxide, and Zinc Oxide"
-TRUE,Chlamydia,Natural Medicine
-TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),ALUMINUM CHLOROHYDRATE
-FALSE,Ebola (Ebola Virus Disease),"Calcium carbonate, sodium bicarbonate"
-TRUE,Water-related Diseases,"Octinoxate, Octisalate, and Zinc"
-TRUE,Avian Influenza,lomustine
-FALSE,HIV/AIDS,Olanzapine
-FALSE,Human Papillomavirus (HPV),Ciprofloxacin
-TRUE,Salmonella,dalteparin sodium
-TRUE,HIV/AIDS,NITROUS OXIDE
-FALSE,Gonorrhea,Tramadol Hydrochloride
-FALSE,Heart Disease,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
-TRUE,Parasites 每 Scabies,Bismuth Subsalicylate
-TRUE,Overweight and Obesity,Menthol
-TRUE,Chronic Obstructive Pulmonary Disease (COPD),eplerenone
-FALSE,Sexually Transmitted Diseases (STDs),metronidazole
-TRUE,Genital Herpes (Herpes Simplex Virus),Acetaminophen
-TRUE,Autism Spectrum Disorder (ASD),SODIUM FLUORIDE
-FALSE,ADHD,Ibuprofen
-FALSE,Heart Disease,Alcohol
-TRUE,Fetal Alcohol Spectrum Disorders,PHOMA HERBARUM
-TRUE,Trichomonas Infection (Trichomoniasis),Hydrocodone bitartrate and acetaminophen
-FALSE,Meningitis,clonidine hydrochloride
-FALSE,Ebola (Ebola Virus Disease),Sisal
-TRUE,Stroke,DIPHENHYDRAMINE HCL
-TRUE,Human Papillomavirus (HPV),Loratadine
-TRUE,Ebola (Ebola Virus Disease),ESZOPICLONE
-FALSE,Heart Disease,Niacinamide Azelaic AC TURMER FA B6 Zinc Ox Copper
-TRUE,Avian Influenza,Acetaminophen and Diphenhydramine Citrate
-TRUE,Salmonella,"Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl"
-FALSE,Arthritis,Gemfibrozil
-FALSE,Autism Spectrum Disorder (ASD),Benzalkonium Chloride
-TRUE,Ebola (Ebola Virus Disease),octreotide acetate
-TRUE,Chronic Fatigue Syndrome,Diltiazem Hydrochloride
-FALSE,Birth Defects,Glipizide
-TRUE,Diabetes,MINOXIDIL
-TRUE,Zika Virus,TRIAMCINOLONE ACETONIDE
-FALSE,Fetal Alcohol Spectrum Disorders,eszopiclone
-FALSE,Genital Herpes (Herpes Simplex Virus),Benzocaine
-TRUE,Heart Disease,Etodolac
-FALSE,Birth Defects,ALCOHOL
-FALSE,Parasites 每 Scabies,titanium dioxide
-FALSE,Diabetes,"THYROID, PORCINE"
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Insulin lispro
-FALSE,Stroke,OXYGEN
-FALSE,Arthritis,Oxymetazoline HCl
-FALSE,Zika Virus,Modafinil
-FALSE,Chronic Fatigue Syndrome,Benzoyl peroxide
-TRUE,Meningitis,"Titanium Dioxide, Zinc Oxide"
-TRUE,Stroke,PredniSONE
-TRUE,Stroke,Chlorinum
-FALSE,Kidney Disease (Chronic Kidney Disease),"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
-TRUE,Middle East Respiratory Syndrome (MERS),finasteride
-FALSE,Avian Influenza,Triclosan
-TRUE,Genital Herpes (Herpes Simplex Virus),"Camphora 3X, Arnica montana, radix 3X, Belladonna 3X, Calendula officinalis 3X, Dulcamara 3X, Echinacea 3X, Hamamelis virginiana 3X, Hypericum perforatum 3X, Millefolium 3X, Nux vomica 4X, Rhus toxicodendron 3X"
-TRUE,Flu (Influenza),
-FALSE,Epilepsy,Doxycycline Hyclate
-TRUE,Salmonella,aspirin
-TRUE,Flu (Influenza),Labetalol hydrochloride
-TRUE,Fetal Alcohol Spectrum Disorders,Labetalol Hydrochloride
-TRUE,Chronic Obstructive Pulmonary Disease (COPD),Benzalkonium Chloride
-FALSE,Birth Defects,Liquid spray handsanitizer
-TRUE,Giardiasis,Doxylamine succinate
-FALSE,Parasites 每 Scabies,"homosalate, octisalate, avobenzone, and octocrylene"
-TRUE,Trichomonas Infection (Trichomoniasis),Triclosan
-FALSE,Chronic Fatigue Syndrome,Ibuprofen
-TRUE,Traumatic Brain Injury (TBI),Clindamycin hydrochloride
-TRUE,Gonorrhea,"Norethindrone Acetate and Ethinyl Estradiol, and Ferrous Fumarate"
-FALSE,Trichomonas Infection (Trichomoniasis),Meropenem
-FALSE,Arthritis,AVOBENZONE HOMOSALATE OCTISALATE OCTOCRYLENE OXYBENZONE
-TRUE,Human Papillomavirus (HPV),nitroglycerin
-TRUE,Genital Herpes (Herpes Simplex Virus),Mirtazapine
-TRUE,Heart Disease,Gabapentin
-FALSE,Meningitis,Zaleplon
-FALSE,Ebola (Ebola Virus Disease),cefuroxime axetil
-FALSE,Hepatitis,Titanium Dioxide
-FALSE,Fetal Alcohol Spectrum Disorders,Pyrithione Zinc
-TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),"Agaricus 30c, Belladonna 30c, Hyoscyamus 30c, Kali Brom 30c, Natrum Mur 30c, Nux Vomica 30c"
-FALSE,Hepatitis,"AMMONIA, LIDOCAINE HYDROCHLORIDE, TRIAMCINOLONE ACETONIDE, POVIDONE-IODINE"
-TRUE,Ebola (Ebola Virus Disease),Tetracycline Hydrochloride
-TRUE,Kidney Disease (Chronic Kidney Disease),LEVOTHYROXINE SODIUM
-TRUE,Water-related Diseases,CALCIUM CARBONATE
-FALSE,Stroke,testosterone cypionate
-TRUE,Genital Herpes (Herpes Simplex Virus),Alternaria alternata
-FALSE,Asthma,Fluphenazine Hydrochloride
-FALSE,HIV/AIDS,SALICYLIC ACID
-FALSE,Middle East Respiratory Syndrome (MERS),HYDRALAZINE HYDROCHLORIDE
-FALSE,Water-related Diseases,"Acetaminophen, Dextromethorphan Hydrobromide, and Doxylamine Succinate"
-TRUE,Heart Disease,Fluconazole
-TRUE,Asthma,"Calcium carbonate, Magnesium hydroxide"
-TRUE,Middle East Respiratory Syndrome (MERS),House Dust
-TRUE,Salmonella,Oxygen
-TRUE,Chronic Obstructive Pulmonary Disease (COPD),Rough (Redroot) Pigweed
-TRUE,Kidney Disease (Chronic Kidney Disease),metoclopramide hydrochloride
-FALSE,ADHD,Benazepril Hydrochloride
-FALSE,Ebola (Ebola Virus Disease),ZINC OXIDE
-FALSE,Zika Virus,CYCLAMEN PURPURASCENS TUBER
-FALSE,Kidney Disease (Chronic Kidney Disease),febuxostat
-FALSE,Parasites 每 Scabies,Tilletia caries (tritici)
-FALSE,Zika Virus,risperidone
-TRUE,Chronic Obstructive Pulmonary Disease (COPD),Aluminum Zirconium Trichlorohydrex Gly
-FALSE,HIV/AIDS,
-TRUE,Arthritis,levonorgestrel and ethinyl estradiol
-TRUE,Salmonella,Titanium Dioxide and Zinc Oxide
-FALSE,Epilepsy,"Echinacea, Lobelia inflata, Antimonium tartaricum, Aralia racemosa, Drosera, Ipecacuanha, Kali Carbonicum, Phosphorus, Spongia tosta"
-TRUE,Avian Influenza,Bisacodyl
-TRUE,Gonorrhea,venlafaxine hydrochloride
-FALSE,Arthritis,BACILLUS ANTHRACIS
-FALSE,Genital Herpes (Herpes Simplex Virus),"Acetaminophen, Chlorpheniramine maleate, Phenylephrine HCl"
-TRUE,Traumatic Brain Injury (TBI),APOMORPHINE HYDROCHLORIDE
-TRUE,Kidney Disease (Chronic Kidney Disease),Warfarin
-FALSE,Meningitis,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE"
-FALSE,Parasites 每 Scabies,Diphenhydramine Hydrochloride and Zinc Acetate
-FALSE,Zika Virus,Famotidine
-TRUE,Zika Virus,diltiazem hydrochloride
-TRUE,Parasites 每 Scabies,Metformin Hydrochloride
-FALSE,Epilepsy,Alcohol
-FALSE,Tuberculosis (TB),Fluoxetine
-TRUE,ADHD,"Acetaminophen, Aspirin, Caffeine"
-TRUE,Water-related Diseases,Saline Laxative
-TRUE,Birth Defects,losartan potassium
-FALSE,Fetal Alcohol Spectrum Disorders,Sodium Iodide I 131
-FALSE,ADHD,
-TRUE,Fetal Alcohol Spectrum Disorders,Ramipril
-TRUE,Autism Spectrum Disorder (ASD),Carbamazepine
-FALSE,Arthritis,CEFEPIME HYDROCHLORIDE
-TRUE,Epilepsy,Metformin Hydrochloride
-TRUE,Meningitis,LIDOCAINE HYDROCHLORIDE ANHYDROUS
-FALSE,Zika Virus,Levothyroxine sodium
-FALSE,Flu (Influenza),Sodium Bicarbonate
-FALSE,Chlamydia,
-FALSE,Parasites 每 Scabies,"Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan HBr, Phenylephrine HCl"
-TRUE,HIV/AIDS,FLUDARABINE PHOSPHATE
-TRUE,Salmonella,Simethicone
-FALSE,Genital Herpes (Herpes Simplex Virus),"Titanium Dioxide, Octinoxate"
-FALSE,Traumatic Brain Injury (TBI),Olanzapine
-FALSE,Flu (Influenza),Topiramate
-FALSE,Ebola (Ebola Virus Disease),meclizine hydrochloride
-FALSE,Ebola (Ebola Virus Disease),
-TRUE,Asthma,Aluminum Zirconium Tetrachlorohydrex GLY
-TRUE,Meningitis,Gabapentin
-FALSE,Salmonella,Alprazolam
-TRUE,Heart Disease,Titanium dioxide
-FALSE,Microcephaly,Cocklebur
-TRUE,Heart Disease,"Angelica Archangelica, Cimicifuga Racemosa, Fucus Vesiculosus, Hypothalamus (suis), Magnesia Gluconate, Oophorinum (suis) Pyridoxinum Hydrochloricum, Bovista, Cuprum metallicum, Sepia, Zincum Metallicum, Lachesis Mutus"
-TRUE,Chronic Fatigue Syndrome,BUPRENORPHINE HYDROCHLORIDE
-FALSE,Diabetes,LISINOPRIL AND HYDROCHLOROTHIAZIDE
-TRUE,Middle East Respiratory Syndrome (MERS),"Homosalate, Octinoxate, Oxybenzone, Avobenzone"
-FALSE,Microcephaly,CEFOTAXIME
-TRUE,Chlamydia,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
-TRUE,Birth Defects,SALICYLIC ACID
-FALSE,Salmonella,ZIKS ARTHRITIS PAIN RELIEF
-TRUE,Chlamydia,oxygen
-FALSE,Heart Disease,Cottonseed
-TRUE,Middle East Respiratory Syndrome (MERS),Ibuprofen
-FALSE,Tuberculosis (TB),"Avobenzone, Octisalate, and Octocrylene"
-FALSE,Asthma,"Allantoin 1.0%, Lidocaine 1.0%"
-TRUE,Trichomonas Infection (Trichomoniasis),Mirtazapine
-FALSE,Hepatitis,Trypan Blue
-FALSE,HIV/AIDS,CHLOROXYLENOL
-TRUE,Avian Influenza,cashew
-FALSE,Chronic Obstructive Pulmonary Disease (COPD),Salicylic Acid
-FALSE,Cancer,SELENIUM SULFIDE
-FALSE,Fetal Alcohol Spectrum Disorders,"Avobenzone, Homosalate, Octisalate, Octocrylene and Oxybenzone"
-FALSE,Chronic Obstructive Pulmonary Disease (COPD),Carbidopa and Levodopa
-TRUE,Birth Defects,"DROSERA ROTUNDIFOLIA, DROSERA INTERMEDIA, DROSERA ANGLICA, ERIODICTYON CALIFORNICUM FLOWERING TOP, GRINDELIA HIRSUTULA FLOWERING TOP, POTASSIUM IODIDE, SPONGIA OFFICINALIS SKELETON, ROASTED, LOBARIA PULMONARIA, TEUCRIUM SCORODONIA FLOWERING TOP, and VERBASCUM DENSIFLORUM FLOWERING TOP"
-TRUE,Heart Disease,Terazosin
-TRUE,Chronic Obstructive Pulmonary Disease (COPD),Clindamycin Hydrochloride
-TRUE,Chronic Fatigue Syndrome,Giant Ragweed
-TRUE,Flu (Influenza),Amlodipine besylate and Atorvastatin calcium
-FALSE,Trichomonas Infection (Trichomoniasis),Testosterone
-TRUE,Kidney Disease (Chronic Kidney Disease),White Alder
-FALSE,Asthma,Aluminum Zirconium Tetrachlorohydrex Gly
-FALSE,Giardiasis,HYOSCYAMUS NIGER
-TRUE,Parasites 每 Scabies,POLYETHYLENE GLYCOL 400
-FALSE,Middle East Respiratory Syndrome (MERS),NAPROXEN
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Hydrochlorothiazide
-TRUE,Diabetes,Ethyl alcohol
-TRUE,Tuberculosis (TB),Greasewood
-FALSE,Ebola (Ebola Virus Disease),Treatment Set TS344420
-FALSE,Chronic Fatigue Syndrome,Anti-itch cream
-TRUE,Middle East Respiratory Syndrome (MERS),BENZPHETAMINE HYDROCHLORIDE
-FALSE,HIV/AIDS,Ciprofloxacin
-TRUE,Ebola (Ebola Virus Disease),"Homosalate, Octinoxate, Octisalate, and Oxybenzone"
-TRUE,Kidney Disease (Chronic Kidney Disease),parachlorometaxylenol
-TRUE,Fetal Alcohol Spectrum Disorders,"OCTINOXATE, OXYBENZONE, PADIMATE O"
-FALSE,Chronic Obstructive Pulmonary Disease (COPD),STRYCHNOS NUX-VOMICA SEED
-FALSE,Ebola (Ebola Virus Disease),"Octinoxate, Octisalate, Oxybenzone"
-TRUE,Avian Influenza,Sweet Corn
-TRUE,Kidney Disease (Chronic Kidney Disease),activated charcoal
-TRUE,Flu (Influenza),IRBESARTAN
-TRUE,Gonorrhea,Penicillin G Sodium
-TRUE,Epilepsy,LIDOCAINE HYDROCHLORIDE
-TRUE,Sexually Transmitted Diseases (STDs),Warfarin Sodium
-FALSE,Stroke,"Apis Mellifica, Argentum Nitricum, Berberis Vulgaris, Cantharis, Equisetum Arvense, Kali Bichromicum, Lycopodium Clavatum"
-FALSE,Giardiasis,Methimazole
-TRUE,Trichomonas Infection (Trichomoniasis),benazepril hydrochloride and hydrochlorothiazide
-TRUE,ADHD,"Condurango, Stomach, Nux vomica, Aurum metallicum, Antimonium crudum, Hyoscyamus niger, Sulphur,"
-TRUE,Chronic Fatigue Syndrome,"AVOBENZONE, OCTISALATE, OCTOCRYLENE"
-TRUE,Middle East Respiratory Syndrome (MERS),cyclophosphamide
-FALSE,Flu (Influenza),Pyrithione zinc
-FALSE,Tuberculosis (TB),Camphor Menthol Methyl Salicylate
-TRUE,Diabetes,Meperidine HCl
-FALSE,Chronic Fatigue Syndrome,nitroglycerin
-FALSE,Cancer,GEMCITABINE HYDROCHLORIDE
-FALSE,Birth Defects,Oxycodone hydrochloride and Acetaminophen
-TRUE,Flu (Influenza),Tragacanth Gum
-TRUE,Trichomonas Infection (Trichomoniasis),Triamterene and Hydrochlorothiazide
-TRUE,Epilepsy,"Homosalate, Oxybenzone, Octisalate, Avobenzone, Octocrylene"
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),ISOPROPYL ALCOHOL
-FALSE,Salmonella,Duloxetine
-TRUE,Epilepsy,Miconazole nitrate
-TRUE,Chronic Obstructive Pulmonary Disease (COPD),Oxygen
-TRUE,Microcephaly,Phenazopyridine Hydrochloride
-FALSE,Autism Spectrum Disorder (ASD),Octinoxate and Oxybenzone
-FALSE,Traumatic Brain Injury (TBI),hydrocortisone
-FALSE,Chlamydia,ACETAMINOPHEN AND DIPHENHYDRAMINE HYDROCHLORIDE
-FALSE,Giardiasis,Sunscreen Towel
-FALSE,Chronic Obstructive Pulmonary Disease (COPD),"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone"
-TRUE,Microcephaly,Doxepin Hydrochloride
-FALSE,Birth Defects,BUPIVACAINE HYDROCHLORIDE
-FALSE,Genital Herpes (Herpes Simplex Virus),Rhizopus oryzae
-TRUE,Gonorrhea,rivastigmine
-TRUE,Salmonella,AMPICILLIN and SULBACTAM
-TRUE,Ebola (Ebola Virus Disease),Oxcarbazepine
-TRUE,Hepatitis,Aluminum Zirconium Tetrachlorohydrex GLY
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Quetiapine fumarate
-FALSE,Arthritis,piperacillin sodium and tazobactam sodium
-FALSE,Stroke,Diazepam
-FALSE,Fetal Alcohol Spectrum Disorders,RUMEX CRISPUS ROOT
-FALSE,Trichomonas Infection (Trichomoniasis),Naproxen
-FALSE,Chronic Obstructive Pulmonary Disease (COPD),Cetylpyridinium chloride
-TRUE,Parasites 每 Scabies,Phenol
-TRUE,Chlamydia,Guaifenesin
-FALSE,Ebola (Ebola Virus Disease),modafinil
-TRUE,Ebola (Ebola Virus Disease),Aluminum Zirconium Tetrachlorohydrex GLY
-TRUE,Middle East Respiratory Syndrome (MERS),Prednisone
-FALSE,Ebola (Ebola Virus Disease),Atomoxetine Hydrochloride
-FALSE,Genital Herpes (Herpes Simplex Virus),Acetaminophen
-FALSE,Heart Disease,Benzocaine
-FALSE,Salmonella,Nabumentone
-TRUE,Kidney Disease (Chronic Kidney Disease),Ibuprofen
-TRUE,Asthma,Quercetin
-TRUE,Trichomonas Infection (Trichomoniasis),
-TRUE,Epilepsy,Alprazolam
-TRUE,Meningitis,"Titanium Dioxide, Zinc Oxide"
-FALSE,Epilepsy,hydrocortisone butyrate
-TRUE,Sexually Transmitted Diseases (STDs),MIDAZOLAM HYDROCHLORIDE
-TRUE,Water-related Diseases,"Chlorpheniramine maleate, Phenylephrine HCl"
-TRUE,Cancer,Ibuprofen
-TRUE,Asthma,CEFTRIAXONE
-TRUE,Asthma,Bacitracin Zinc Neomycin Polymyxin B Sulfate
-TRUE,Gonorrhea,barium sulfate
-FALSE,Diabetes,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride"
-FALSE,Flu (Influenza),TOBRAMYCIN SULFATE
-FALSE,Flu (Influenza),Sennosides
-FALSE,Chronic Fatigue Syndrome,
-FALSE,Tuberculosis (TB),Fosphenytoin Sodium
-FALSE,Overweight and Obesity,HYDROCODONE BITARTRATE AND ACETAMINOPHEN
-TRUE,Overweight and Obesity,Menthol and Camphor
-FALSE,Middle East Respiratory Syndrome (MERS),Ibuprofen
-FALSE,Genital Herpes (Herpes Simplex Virus),BENZOYL PEROXIDE
-FALSE,Middle East Respiratory Syndrome (MERS),cilostazol
-TRUE,Microcephaly,WITCH HAZEL
-TRUE,Human Papillomavirus (HPV),Chlorpheniramine Maleate
-TRUE,Ebola (Ebola Virus Disease),Titanium Dioxide and Zinc Oxide
-FALSE,Giardiasis,"TITANIUM DIOXIDE, OCTINOXATE"
-TRUE,Autism Spectrum Disorder (ASD),"bacitracin zinc, polymyxin B sulfate"
-FALSE,Microcephaly,HYDROCHLOROTHIAZIDE
-FALSE,Stroke,Diltiazem Hydrochloride
-FALSE,Kidney Disease (Chronic Kidney Disease),Warfarin Sodium
-TRUE,Flu (Influenza),AZTREONAM
-FALSE,Water-related Diseases,Benzoyl Peroxide
-TRUE,Heart Disease,Temozolomide
-TRUE,Hepatitis,TOPOTECAN HYDROCHLORIDE
-TRUE,Human Papillomavirus (HPV),"Cetirizine HCl, Pseudoephedrine HCl"
-FALSE,Giardiasis,Liquid Corn and Callus Remover
-TRUE,Birth Defects,Acetaminophen
-FALSE,Heart Disease,Guaifenesin
-TRUE,Kidney Disease (Chronic Kidney Disease),"Arsenicum album, Avena sativa, Bryonia, Carbo animalis, Carduus marianus, Chelidonium majus, Hepar suis, Kali iodatum, Lapis albus, Nux vomica, Radium bromatum, Taraxacum officinale, Thuja occidentalis,"
-FALSE,Birth Defects,"Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride"
-TRUE,Traumatic Brain Injury (TBI),Penicillin V Potassium
-TRUE,Water-related Diseases,"Dextromethorphan Hydrobromide, GUAIFENESIN"
-TRUE,Salmonella,meclizine hydrochloride
-FALSE,Birth Defects,magnesium hydroxide
-FALSE,Chronic Fatigue Syndrome,"vitamin a palmitate, ascorbic acid, cholecalciferol, alpha.-tocopherol succinate, d- thiamine hydrochloride, riboflavin 5-phosphate sodium, niacinamide, pyridoxine hydrochloride, ferrous sulfate and sodium fluoride"
-TRUE,Zika Virus,OXYGEN
-FALSE,Meningitis,Bismuth subsalicylate
-FALSE,Tuberculosis (TB),OCTINOXATE
-TRUE,Flu (Influenza),Propranolol Hydrochloride
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),CYCLOBENZAPRINE HYDROCHLORIDE
-FALSE,Sexually Transmitted Diseases (STDs),Promethazine Hydrochloride
-FALSE,Trichomonas Infection (Trichomoniasis),"avobenzone, homosalate, octisalate, octocrylene"
-FALSE,Human Papillomavirus (HPV),"Titanium Dioxide, Octinoxate"
-TRUE,HIV/AIDS,HYDROCODONE BITARTRATE AND ACETAMINOPHEN
-FALSE,Asthma,Lorazepam
-TRUE,Autism Spectrum Disorder (ASD),SODIUM FLUORIDE
-TRUE,Hepatitis,sitagliptin and metformin hydrochloride
-TRUE,Epilepsy,"octinoxate, oxybenzone and petrolatum"
-FALSE,Cancer,Lisinopril
-TRUE,Chlamydia,
-TRUE,Meningitis,"dibasic sodium phosphate, monobasic sodium phosphate"
-TRUE,Asthma,Acetylcholine Chloride
-FALSE,Middle East Respiratory Syndrome (MERS),House Dust
-TRUE,Middle East Respiratory Syndrome (MERS),Ceftriaxone Sodium
-TRUE,Gonorrhea,TIN
-FALSE,Birth Defects,Glyburide
-FALSE,Chronic Fatigue Syndrome,
-FALSE,Giardiasis,Rosuvastatin calcium
-FALSE,Traumatic Brain Injury (TBI),Sodium Fluoride
-TRUE,Microcephaly,Nitrofurantoin Macrocrystals
-TRUE,Hepatitis,meloxicam
-TRUE,Asthma,
-FALSE,Overweight and Obesity,Zinc Oxide
-TRUE,Diabetes,Skin Irritation Cuts
-TRUE,Stroke,CLADOSPORIUM CLADOSPORIOIDES
-TRUE,Chlamydia,
-FALSE,Arthritis,SALICYLIC ACID
-TRUE,HIV/AIDS,Salicylic Acid
-TRUE,Zika Virus,
-FALSE,Zika Virus,Octinoxate
-FALSE,Birth Defects,quinapril hydrochloride and hydrochlorothiazide
-TRUE,Autism Spectrum Disorder (ASD),Fosinopril Sodium
-FALSE,Cancer,EPHEDRINE SULFATE
-TRUE,Hepatitis,Bacitracin Zinc and Polymyxin B Sulfate
-FALSE,Ebola (Ebola Virus Disease),Triclosan
-FALSE,Cancer,PHENAZOPYRIDINE HYDROCHLORIDE
-FALSE,Chronic Fatigue Syndrome,"AVOBENZONE, HOMOSALATE, OCTOCRYLENE"
-FALSE,Flu (Influenza),Witch Hazel
-TRUE,Diabetes,Metformin Hydrochloride
-TRUE,Stroke,Triclosan
-TRUE,Ebola (Ebola Virus Disease),Griseofulvin
-TRUE,Human Papillomavirus (HPV),benzonatate
-TRUE,HIV/AIDS,LEVOMENOL
-TRUE,Chlamydia,TRICLOSAN
-TRUE,Asthma,progesterone
-TRUE,Overweight and Obesity,Acetaminophen
-TRUE,Diabetes,Phenylephrine Hydrochloride
-FALSE,Human Papillomavirus (HPV),"Acetaminophen, Guaifenesin and Phenylephrine HCl"
-FALSE,Chlamydia,
-FALSE,Sexually Transmitted Diseases (STDs),Gentamicin Sulfate
-FALSE,Avian Influenza,Canadian Blue Grass
-FALSE,HIV/AIDS,CEFEPIME
-TRUE,Giardiasis,Tolnaftate
-TRUE,Gonorrhea,"Aconitum napellus, Allium capa, Apis mellifica, Belladonna, Calcarea carbonica, Capsicum annuum, Causticum, Chamomilla, Dulcamara, Ferrum phosphoricum, Hepar sulphuris calcareum, Kali muriaticum, Mercurius dulcis, Mercurius solubilis, Plantago major, and Silicea"
-FALSE,Diabetes,fenofibrate
-FALSE,Kidney Disease (Chronic Kidney Disease),Pinto Bean
-TRUE,Meningitis,"OCTINOXATE, TITANIUM DIOXIDE"
-FALSE,Human Papillomavirus (HPV),Metoprolol Tartrate
-FALSE,HIV/AIDS,Pimento
-TRUE,Chronic Obstructive Pulmonary Disease (COPD),
-FALSE,Autism Spectrum Disorder (ASD),"OCTINOXATE, OCTISALATE"
-TRUE,Meningitis,verapamil hydrochloride
-FALSE,Kidney Disease (Chronic Kidney Disease),
-TRUE,Chlamydia,Midazolam HCl
-TRUE,Sexually Transmitted Diseases (STDs),SULFACETAMIDE SODIUM
-TRUE,Parasites 每 Scabies,SPIGELIA ANTHELMIA and CALCIUM SULFIDE and TOXICODENDRON PUBESCENS LEAF and DELPHINIUM STAPHISAGRIA SEED and APIS MELLIFERA and SODIUM CHLORIDE and MERCURIC SULFIDE
-FALSE,Parasites 每 Scabies,BROMPHENIRAMINE MALEATE and PSEUDOEPHEDRINE HYDROCHLORIDE
-TRUE,Autism Spectrum Disorder (ASD),"ECHINACEA,BAPTISIA,APIS MELLIFICA ,FERRUM PHOSPHORICUM ,"
-TRUE,Arthritis,"OCTINOXATE, OXYBENZONE"
-FALSE,Parasites 每 Scabies,ramelteon
-FALSE,HIV/AIDS,ZINC OXIDE and OCTINOXATE
-TRUE,Fetal Alcohol Spectrum Disorders,Tizanidine
-FALSE,Zika Virus,Methimazole
-FALSE,Diabetes,Talc
-TRUE,Ebola (Ebola Virus Disease),GENTIAN VIOLET
-FALSE,Fetal Alcohol Spectrum Disorders,ciprofloxacin
-TRUE,Middle East Respiratory Syndrome (MERS),TOPIRAMATE
-TRUE,Ebola (Ebola Virus Disease),"OCTINOXATE, HOMOSALATE, OXYBENZONE, AVOBENZONE"
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Aspirin
-FALSE,Stroke,
-FALSE,ADHD,Propranolol Hydrochloride
-FALSE,Birth Defects,sildenafil citrate
-FALSE,Salmonella,DOCUSATE SODIUM
-FALSE,Kidney Disease (Chronic Kidney Disease),Ibuprofen
-FALSE,Cancer,
-FALSE,Chlamydia,
-FALSE,Diabetes,"Zinc Oxide, Titanium Dioxide"
-TRUE,Kidney Disease (Chronic Kidney Disease),Titanium Dioxide and Zinc Oxide
-TRUE,Gonorrhea,alcohol
-FALSE,Asthma,sodium phosphate
-TRUE,Diabetes,"avobenzone, homosalate, octisalate, octocrylene"
-FALSE,Cancer,Gambil Oak
-TRUE,Chlamydia,Temozolomide
-FALSE,Gonorrhea,
-TRUE,Salmonella,Divalproex Sodium
-TRUE,Cancer,Metoclopramide Hydrochloride
-TRUE,Parasites 每 Scabies,
-TRUE,HIV/AIDS,
-TRUE,Water-related Diseases,Oxygen
-FALSE,Human Papillomavirus (HPV),Eastern Cottonwood
-FALSE,Tuberculosis (TB),fexofenadine hydrochloride
-TRUE,Asthma,Isopropyl Alcohol
-FALSE,Heart Disease,ZINC OXIDE
-FALSE,Kidney Disease (Chronic Kidney Disease),DNA
-TRUE,Human Papillomavirus (HPV),sitagliptin and metformin hydrochloride
-FALSE,Middle East Respiratory Syndrome (MERS),dexmethylphenidate hydrochloride
-TRUE,Kidney Disease (Chronic Kidney Disease),Oxygen
-FALSE,Parasites 每 Scabies,Sodium Fluoride
-FALSE,Microcephaly,"OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE, BETAINE, TALC"
-FALSE,Stroke,Escitalopram Oxalate
-TRUE,Kidney Disease (Chronic Kidney Disease),Cefazolin
-FALSE,Giardiasis,Jute
-TRUE,Traumatic Brain Injury (TBI),Ranitidine
-FALSE,Tuberculosis (TB),Carboxymethylcellulose sodium
-FALSE,Genital Herpes (Herpes Simplex Virus),Carvedilol
-FALSE,Parasites 每 Scabies,lorazepam
-FALSE,Ebola (Ebola Virus Disease),Calcium Chloride
-FALSE,Gonorrhea,Memantine Hydrochloride
-FALSE,Chronic Fatigue Syndrome,Bumetanide
-TRUE,Flu (Influenza),risperidone
-FALSE,Overweight and Obesity,"famotidine, calcium carbonate and magnesium hydroxide"
-TRUE,Trichomonas Infection (Trichomoniasis),Ibuprofen
-TRUE,Kidney Disease (Chronic Kidney Disease),donepezil hydrochloride
-TRUE,Fetal Alcohol Spectrum Disorders,Ibuprofen
-FALSE,Arthritis,"Camphor, Menthol"
-TRUE,Chlamydia,DIOSCOREA VILLOSA ROOT GINGER
-FALSE,Arthritis,BEE VENOM
-TRUE,Trichomonas Infection (Trichomoniasis),azathioprine
-TRUE,Ebola (Ebola Virus Disease),External Analgesic Plaster for Removal of Corns and Calluses
-TRUE,Meningitis,tramadol hydrochloride and acetaminophen
-FALSE,Sexually Transmitted Diseases (STDs),"Baptisia Tintoria Root, Echinacea Angustifolia, Eupatoriom Perfoliatum Flowering Top, Lomatium Dissectum Root, Pueraria Montana Var. Lobata Root, Trifolium Pratense Flower, Pnytolacca Americana Root, Onion, Arsenic Triiodode, Barium Carbonate, Bromide, Oyster Shell Calcium Carbonate Crude, Potassium Chloride, Mercurius Solubilis, Silicon Dioxide"
-FALSE,Stroke,"Octinoxate, Oxybenzone, TItanium Dioxide"
-FALSE,Avian Influenza,Sennosides
-FALSE,HIV/AIDS,
-FALSE,Ebola (Ebola Virus Disease),ONDANSETRON HYDROCHLORIDE
-FALSE,Ebola (Ebola Virus Disease),
-FALSE,Epilepsy,Midazolam hydrochloride
-FALSE,Flu (Influenza),"Chelidonium Majus, Hepar Suis, Cholesterinum, Lycopodium Clavatum, Tarentula Hispana, Arsenicum Album, Belladonna"
-FALSE,Tuberculosis (TB),Mexiletine Hydrochloride
-FALSE,Human Papillomavirus (HPV),doxepin hydrochloride
-TRUE,Gonorrhea,Clindamycin Phosphate
-FALSE,Fetal Alcohol Spectrum Disorders,BAPTISIA TINCTORIA
-TRUE,Avian Influenza,diltiazem hydrochloride
-TRUE,Kidney Disease (Chronic Kidney Disease),Methylphenidate hydrochloride
-FALSE,Asthma,ALCOHOL
-FALSE,Water-related Diseases,Onopordon Comp.
-TRUE,Heart Disease,ALCOHOL
-FALSE,Human Papillomavirus (HPV),"Titanium Dioxide, Zinc Oxide"
-TRUE,Water-related Diseases,
-FALSE,Avian Influenza,onabotulinumtoxinA
-TRUE,Arthritis,CEFPODOXIME PROXETIL
-TRUE,Middle East Respiratory Syndrome (MERS),TRICLOSAN
-FALSE,Overweight and Obesity,Lisinopril
-TRUE,Microcephaly,Titanium Dioxide
-FALSE,Fetal Alcohol Spectrum Disorders,Levofloxacin
-FALSE,Genital Herpes (Herpes Simplex Virus),lacosamide
-TRUE,Heart Disease,dexrazoxane
-TRUE,Parasites 每 Scabies,Aluminum Zirconium Tricholorohydrex GLY
-FALSE,Flu (Influenza),Menthol
-FALSE,Fetal Alcohol Spectrum Disorders,Octinoxate and Titanium Dioxide
-FALSE,Microcephaly,ANTIPYRINE AND BENZOCAINE
-TRUE,Giardiasis,ALCOHOL
-FALSE,Kidney Disease (Chronic Kidney Disease),ramipril
-FALSE,Sexually Transmitted Diseases (STDs),Octinoxate and Titanium dioxide
-FALSE,Overweight and Obesity,Potassium Chloride
-FALSE,Gonorrhea,
-FALSE,Avian Influenza,Bumetanide
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),
-TRUE,Ebola (Ebola Virus Disease),"OCTSALATE, AVOBENZONE"
-TRUE,Tuberculosis (TB),Triclocarban
-FALSE,Gonorrhea,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl"
-FALSE,Avian Influenza,clarithromycin
-FALSE,Zika Virus,"Aesculus hippocastanum, flos, Agrimonia eupatoria, flos, Apocynum cannabinum, Arsenicum album, Asarum europaeum, Avena sativa, Capsicum annuum, Carboneum sulphuratum, Gelsemium sempervirens, Helianthus annuus, Juglans regia, flos, Lonicera caprifolium, flos, Naja tripudians, Paullinia sorbilis"
-FALSE,Tuberculosis (TB),"Octinoxate, Zinc Oxide"
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Oxygen
-FALSE,Overweight and Obesity,Carp
-TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Camphor
-FALSE,Gonorrhea,Carbamide Peroxide
-TRUE,Human Papillomavirus (HPV),"Aesculus hippocastanum, Collinsonia canadensis"
-FALSE,Human Papillomavirus (HPV),ETHYL ALCOHOL
-TRUE,Cancer,"Titanium Dioxide, Octinoxate/EthylhexylMehtoxycinnamate"
-FALSE,ADHD,
-FALSE,Kidney Disease (Chronic Kidney Disease),aspergillus niger var. niger
-FALSE,Arthritis,darbepoetin alfa
-TRUE,Trichomonas Infection (Trichomoniasis),ANGUSTURA VERA
-TRUE,Hepatitis,Ibuprofen
-FALSE,Overweight and Obesity,Alprazolam
-FALSE,Middle East Respiratory Syndrome (MERS),Desoximetasone
-FALSE,Epilepsy,"Aconitum napellus, Angelica archangelica, Argentum nitricum, Arnica montana, Calendula officinalis, Cimicifuga racemosa, Cistus canadensis, Clematis vitalba, flos, Hypericum perforatum, Impatiens glandulifera, flos, Nitricum acidum, Ornithogalum umbellatum, Prunus cerasifera, flos, Pulsatilla"
-TRUE,Genital Herpes (Herpes Simplex Virus),Dexmedetomidine Hydrochloride
-TRUE,ADHD,"Scleranthus,"
-FALSE,ADHD,Nisoldipine
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Benzalkonium Chloride
-FALSE,Asthma,Water
-TRUE,Middle East Respiratory Syndrome (MERS),TITANIUM DIOXIDE
-FALSE,Chronic Obstructive Pulmonary Disease (COPD),DONEPEZIL HYDROCHLORIDE
-FALSE,Genital Herpes (Herpes Simplex Virus),Cyclosporine
-TRUE,Epilepsy,piperacillin sodium and tazobactam sodium
-FALSE,Kidney Disease (Chronic Kidney Disease),Nicotine Polacrilex
-TRUE,Fetal Alcohol Spectrum Disorders,Burweed Marsh Elder
-FALSE,Gonorrhea,ALCOHOL
-TRUE,Birth Defects,Anticoagulant Citrate Phosphate Dextrose Adenine
-FALSE,Diabetes,nitroglycerin
-FALSE,Genital Herpes (Herpes Simplex Virus),"Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate"
-FALSE,Asthma,Pseudoephedrine Hydrochloride
-FALSE,Meningitis,
-FALSE,Flu (Influenza),Acetaminophen
-TRUE,Asthma,olmesartan medoxomil
-FALSE,Overweight and Obesity,Bupropion Hydrochloride
-FALSE,Arthritis,vigabatrin
-FALSE,Tuberculosis (TB),Cetirizine Hydrochloride
-FALSE,Diabetes,Promethazine Hydrochloride
-TRUE,Kidney Disease (Chronic Kidney Disease),Zinc Gluconate
-TRUE,Cancer,Disulfiram
-TRUE,HIV/AIDS,
-TRUE,Hepatitis,Natural Medicine
-FALSE,ADHD,Enalapril Maleate and Hydrochlorothiazide
-FALSE,Kidney Disease (Chronic Kidney Disease),ABROTANUM
-FALSE,Overweight and Obesity,Ciprofloxacin Hydrochloride
-TRUE,Flu (Influenza),"Calc. fluor., Calc. phos., Calc.sulph., Ferrum phosphoricum, Kali mur., Kali phos., Kali sulph., Mag. phos., Nat. mur., Nat. phos., Nat.sulphuricum, Silicea"
-FALSE,Heart Disease,rizatriptan benzoate
-FALSE,Chronic Fatigue Syndrome,Testosterone
-FALSE,Hepatitis,"Adrenal, ATP, Bac nosode, Belladonna"
-FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Triclosan
-FALSE,Water-related Diseases,"Avobenzone, Octisalate, Octocrylene, and Oxybenzone"
-TRUE,ADHD,Guaifenesin
-TRUE,ADHD,Doxycycline Hyclate
-FALSE,Chlamydia,Nitisinone
-TRUE,Sexually Transmitted Diseases (STDs),ramelteon
-TRUE,Epilepsy,Clonazepam
-TRUE,Hepatitis,Indium In -111 Pentetreotide
-FALSE,ADHD,Aspirin
-TRUE,Genital Herpes (Herpes Simplex Virus),pyrithione zinc
-FALSE,Overweight and Obesity,Oxygen
-TRUE,Diabetes,"Chelidonium majus, Echinacea, Gentiana lutea, Arsenicum album, Carbo vegetabilis, Lycopodium clavatum, Nux vomica, Phosphorus, Pulsatilla"
-TRUE,Arthritis,ALLANTOIN
-FALSE,Ebola (Ebola Virus Disease),TECHNETIUM TC-99M SODIUM PERTECHNETATE
-FALSE,Zika Virus,"Cimex lectularius, Formica rufa, Pulex irritans, Vespa crabro, Apis Mellifica, Hypericum Perforatum, Ledum Palustre"
-FALSE,Microcephaly,OCTINOXATE and TITANIUM DIOXIDE
-FALSE,Genital Herpes (Herpes Simplex Virus),BUPIVACAINE HYDROCHLORIDE
-TRUE,Meningitis,Treatment Set TS351200
-TRUE,Chlamydia,ketamine hydrochloride
-FALSE,Flu (Influenza),Lamotrigine
-TRUE,Genital Herpes (Herpes Simplex Virus),simvastatin
-TRUE,Chronic Obstructive Pulmonary Disease (COPD),HYDROQUINONE
-TRUE,Chronic Fatigue Syndrome,Magnesium Citrate
-FALSE,Overweight and Obesity,Metronidazole
-TRUE,HIV/AIDS,Clindamycin Hydrochloride
-FALSE,Epilepsy,Petrolatum
-FALSE,Zika Virus,Sodium Monofluorophosphate
-FALSE,Microcephaly,Metronidazole
-FALSE,Heart Disease,NIFEDIPINE
-TRUE,Parasites 每 Scabies,Fluconazole
-TRUE,Sexually Transmitted Diseases (STDs),Pseudoephedrine HCl
-FALSE,Tuberculosis (TB),Ketorolac Tromethamine
-TRUE,Giardiasis,
-TRUE,Traumatic Brain Injury (TBI),Atenolol
-FALSE,Gonorrhea,Ibuprofen
-TRUE,Kidney Disease (Chronic Kidney Disease),
-FALSE,Asthma,FLUOXETINE
-FALSE,Genital Herpes (Herpes Simplex Virus),Tetanus Immune Globulin (Human)
-TRUE,Birth Defects,Sulfacetamide Sodium
-TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Aluminum Zirconium Pentachlorohydrex Gly
-TRUE,Microcephaly,Enoxaparin sodium
-TRUE,Gonorrhea,Ibuprofen
-FALSE,Human Papillomavirus (HPV),memantine hydrochloride
-FALSE,Chlamydia,Fentanyl
-TRUE,Parasites 每 Scabies,"Acetaminophen, Guaifenesin, Phenylephrine Hydrochloride, and Diphenhydramine Hydrochloride"
-FALSE,Meningitis,OCTINOXATE
-FALSE,Cancer,CETYLPYRIDINIUM CHLORIDE and HYDROGEN PEROXIDE
-FALSE,Giardiasis,"Arnica montana, Hypericum perforatum, Symphytum officinale, Gnaphalium polycephalum, Colocynthis, Formica rufa, Rhus toxicodendron,"
-FALSE,Fetal Alcohol Spectrum Disorders,Triclosan
-FALSE,Gonorrhea,Oxycodone Hydrochloride
-FALSE,Epilepsy,propranolol hydrochloride
-FALSE,Stroke,Allergenic Extracts Alum Precipitated
-FALSE,Diabetes,
-TRUE,Asthma,Maraviroc
-TRUE,Salmonella,"Dextromethorphan HBr, Doxylamine succinate"
-TRUE,Zika Virus,ALCOHOL
-TRUE,HIV/AIDS,LAMOTRIGINE
-FALSE,Birth Defects,Sertraline Hydrochloride
-FALSE,Overweight and Obesity,atovaquone and proguanil hydrochloride
-FALSE,Middle East Respiratory Syndrome (MERS),
-TRUE,Birth Defects,
-FALSE,Ebola (Ebola Virus Disease),Salmonella
-FALSE,Flu (Influenza),Amlodipine Besylate and Benazepril Hydrochloride
-FALSE,Kidney Disease (Chronic Kidney Disease),Gabapentin
-TRUE,Arthritis,Titanium Dioxide and Zinc Oxide
-TRUE,Gonorrhea,Husky 514
-TRUE,Overweight and Obesity,PANAX GINSENG WHOLE
-TRUE,Parasites 每 Scabies,Magnesium hydroxide
-TRUE,Chronic Fatigue Syndrome,Desoximetasone
-TRUE,Chronic Fatigue Syndrome,Tetracycline Hydrochloride
-FALSE,Trichomonas Infection (Trichomoniasis),Levetiracetam
-FALSE,Ebola (Ebola Virus Disease),Ciprofloxacin
-TRUE,Human Papillomavirus (HPV),fexofenadine hydrochloride
-FALSE,Flu (Influenza),"Belladonna, Bryonia, Gelsemium sempervirens, Glonionum, Melilotus officinalis, Natrum muriaticum, Nitricum acidum, Nux vomica, Silicea Spigelia anthelmia"
-FALSE,Arthritis,Diphenhydramine HCl
-TRUE,Asthma,Guaifenesin
-TRUE,Autism Spectrum Disorder (ASD),ZOLPIDEM TARTRATE
-TRUE,Flu (Influenza),Gentian Violet 1%
-FALSE,Microcephaly,Diphenhydramine HCl
-TRUE,Flu (Influenza),"Acetaminophen, Diphenhydramine HCl"
-TRUE,Chlamydia,"Octinoxate, Oxybenzone, and Titanium Dioxide"
-TRUE,ADHD,ETHYL ALCOHOL
-TRUE,Heart Disease,
-FALSE,Hepatitis,Mineral Oil
-TRUE,Arthritis,Warfarin Sodium
-TRUE,Overweight and Obesity,Pantoprazole Sodium
-TRUE,HIV/AIDS,Benzalkonium Chloride
-TRUE,Avian Influenza,Octinoxate and Titanium dioxide
-TRUE,Epilepsy,"Aluminum hydroxide, Magnesium carbonate"
-TRUE,Chronic Obstructive Pulmonary Disease (COPD),"ANTIMONY POTASSIUM TARTRATE, BRYONIA ALBA ROOT, PROTORTONIA CACTI, DROSERA ROTUNDIFOLIA, IPECAC, PULSATILLA VULGARIS, RUMEX CRISPUS ROOT, PONGIA OFFICINALIS SKELETON, ROASTED, LOBARIA PULMONARIA"
-FALSE,Gonorrhea,Doxazosin
-TRUE,Autism Spectrum Disorder (ASD),
-FALSE,Ebola (Ebola Virus Disease),Mineral Oil and Petrolatum
-FALSE,Birth Defects,Oxacillin
-TRUE,Water-related Diseases,Pear
-TRUE,Middle East Respiratory Syndrome (MERS),Oxymetazoline HCl
-FALSE,Autism Spectrum Disorder (ASD),Tizanidine
-TRUE,Meningitis,
-FALSE,Tuberculosis (TB),Triclosan
-TRUE,Kidney Disease (Chronic Kidney Disease),Atenolol
-TRUE,Hepatitis,paliperidone palmitate
-TRUE,Water-related Diseases,Amoxicillin and Clavulanate Potassium
-TRUE,Human Papillomavirus (HPV),"Maple, Hard Acer saccharum"
-TRUE,Hepatitis,"Asclepias Vincetoxicum, Echinacea, Hypothalamus (suis), Hepar Suis, Methlycobalamin, Renal (suis), Gambogia"
-FALSE,Water-related Diseases,Treatment Set TS332499
-TRUE,Chronic Fatigue Syndrome,Oxycodone and Acetaminophen
-TRUE,Epilepsy,Pseudoephedrine HCl
-TRUE,Chronic Obstructive Pulmonary Disease (COPD),SODIUM MONOFLUOROPHOSPHATE
-TRUE,Sexually Transmitted Diseases (STDs),Piperacillin and Tazobactam
-FALSE,ADHD,alprazolam
-FALSE,Microcephaly,ALUMINUM SESQUICHLOROHYDRATE
-FALSE,Hepatitis,Oxymetazoline HCl
-TRUE,Chlamydia,BUMETANIDE
-TRUE,Trichomonas Infection (Trichomoniasis),methscopolamine bromide
-TRUE,Stroke,topiramate
-FALSE,Traumatic Brain Injury (TBI),AMLODIPINE BESYLATE
-TRUE,Cancer,Salicylic Acid
-TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Zinc Gluconate
-TRUE,Tuberculosis (TB),"Cacao, Gelsemium, Graphites, Acacia gum, lactose, magnesium stearate, corn starch, sucrose"
-TRUE,Microcephaly,"Carbo vegetabilis, Cinchona officinalis, Colocynthis, Cuprum metallicum, Magnesia phosphorica, Ranunculus bulbosus,"
-TRUE,Birth Defects,Salicylic Acid
-FALSE,Cancer,"Acetaminophen, Diphenhydramine HCl"
-TRUE,Kidney Disease (Chronic Kidney Disease),Amlodipine Besylate
-FALSE,Hepatitis,Duloxetine
-TRUE,Hepatitis,Naproxen Sodium
-TRUE,Diabetes,
-FALSE,HIV/AIDS,"Arnica Montana, Rhus Toxicodendron, Phytolacca Decandra, Pulsatilla, Ruta Graveolens"
-FALSE,Fetal Alcohol Spectrum Disorders,HYDROCODONE BITARTRATE and ACETAMINOPHEN
-TRUE,Salmonella,TITANIUM DIOXIDE
-TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),ACETAMINOPHEN
-FALSE,Middle East Respiratory Syndrome (MERS),Mandragora e rad. 3
-TRUE,Stroke,PYRITHIONE ZINC
-FALSE,Chlamydia,Triamterene and Hydrochlorothiazide
-FALSE,Tuberculosis (TB),"Acetaminophen, Doxylamine succinate and Phenylephrine Hydrochloride"
-FALSE,Human Papillomavirus (HPV),amlodipine besylate and benazepril hydrochloride
-FALSE,Fetal Alcohol Spectrum Disorders,Dopamine Hydrochloride
-FALSE,Microcephaly,Treatment Set TS349290
-FALSE,Avian Influenza,Doxycycline Hyclate
-TRUE,Chronic Fatigue Syndrome,Ranitidine
-FALSE,Microcephaly,carya ovata pollen
-FALSE,Diabetes,ziprasidone hydrochloride
-FALSE,Chronic Fatigue Syndrome,Sertraline Hydrochloride
-TRUE,Zika Virus,pregabalin
-FALSE,Diabetes,VALACYCLOVIR HYDROCHLORIDE
+if-surge,disease,treatment,date
+FALSE,Water-related Diseases,Nicotine,03/08/1999
+TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Loxapine,04/25/1959
+TRUE,Epilepsy,Rhizopus oryzae,07/02/1971
+FALSE,Arthritis,Mexican Tea,07/15/1972
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Glycerin,07/24/1985
+TRUE,Salmonella,"Arsenicum album, Cadmium sulphuricum, Ipecacuanha, Nux vomica, Phosphoricum acidum, Phosphorus, Strontium carbonicum, Tabacum, Uranium nitricum.",03/24/1982
+TRUE,Sexually Transmitted Diseases (STDs),Sertraline Hydrochloride,02/18/1991
+TRUE,Salmonella,"Titanium Dioxide, Octinoxate",09/01/1951
+FALSE,Sexually Transmitted Diseases (STDs),linagliptin,02/10/1980
+FALSE,Giardiasis,Guaifenesin,05/14/1985
+FALSE,Ebola (Ebola Virus Disease),Phenytoin Sodium,06/09/1959
+FALSE,Parasites 每 Scabies,Omeprazole,11/22/1983
+FALSE,Chronic Fatigue Syndrome,Flucytosine,06/10/2006
+TRUE,Flu (Influenza),Acetaminophen,12/08/1996
+TRUE,Middle East Respiratory Syndrome (MERS),Octinoxate and Titanium Dioxide,06/04/1982
+FALSE,Chlamydia,"Dexbrompheniramine Maleate, Dextromethorphan, Phenylephrine",04/13/1975
+FALSE,Cancer,"Aesculus carnea, flos, Aesculus hippocastanum, flos, Agrimonia eupatoria, flos, Antimonium crudum, Avena sativa, Chamomilla, Colocynthis, Crocus sativus, Ferrum metallicum, Impatiens glandulifera, flos, Kali carbonicum, Natrum muriaticum, Populus tremula, flos, Staphysagria, Thyroidinum",08/03/1957
+TRUE,Birth Defects,"Bacitracin zinc, Neomycin sulfate, and Polymyxin B sulfate",09/25/1950
+FALSE,Giardiasis,Prochlorperazine Maleate,09/12/1966
+FALSE,Fetal Alcohol Spectrum Disorders,Iron Supplement,09/28/1979
+FALSE,Diabetes,"EUCALYPTOL, MENTHOL, METHYL SALICYLATE, THYMOL",05/23/1980
+TRUE,Birth Defects,Bisacodyl,12/05/1990
+TRUE,Fetal Alcohol Spectrum Disorders,Hydrocodone Bitartrate and Acetaminophen,03/01/1959
+TRUE,Ebola (Ebola Virus Disease),Sodium Sulfacetamide,04/08/1973
+FALSE,Ebola (Ebola Virus Disease),TITANIUM DIOXIDE,02/22/1977
+TRUE,Trichomonas Infection (Trichomoniasis),Topiramate,10/11/1997
+TRUE,Avian Influenza,NIACIN,07/07/1951
+FALSE,Epilepsy,"Elaps corallinus, Agnus, Angelica sinensis radix, Arsenicum alb., Bryonia, Cantharis, Caulophyllum, Cimicifuga, Cinchona, Crotalus horridus, Damiana, Glonoinum, Helonias dioica, Ignatia, Kali carb., Lachesis, Naja, Nux vom., Phosphorus, Pulsatilla, Salix nigra, Sanguinaria, Sepia, Echinacea, Valeriana",02/26/1962
+FALSE,Arthritis,Zinc Oxide,01/23/1966
+FALSE,Heart Disease,Prenatal Supplement with DHA,08/28/2005
+TRUE,Tuberculosis (TB),Ramipril,05/04/2002
+FALSE,Chlamydia,APIS MELLIFERA,07/05/2000
+TRUE,Genital Herpes (Herpes Simplex Virus),Menthol,04/19/2003
+FALSE,Birth Defects,Verapamil Hydrochloride,03/31/2000
+FALSE,Chronic Obstructive Pulmonary Disease (COPD),"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE, OXYBENZONE",04/13/1973
+FALSE,Giardiasis,,01/26/1959
+FALSE,Epilepsy,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE",07/15/1984
+TRUE,Hepatitis,morphine sulfate,10/08/1975
+FALSE,Epilepsy,Aluminum Zirconium Trichlorohydrex Gly,02/09/1972
+TRUE,Gonorrhea,Loperamide Hydrochloride,02/25/1958
+TRUE,Cancer,FERRUM PHOSPHORICUM,03/13/1964
+FALSE,Gonorrhea,alcohol,05/30/1965
+TRUE,Microcephaly,NAJA NAJA VENOM,02/23/1993
+FALSE,Giardiasis,"Calc fluor, Calc phos, Chamomilla, Chamomilla, Passiflora",05/16/2004
+FALSE,Salmonella,"acetaminophen, dextromethorphan Hbr, Phenylephrine HCl",01/31/1999
+TRUE,Birth Defects,isosorbide mononitrate,03/24/1992
+TRUE,Epilepsy,Quetiapine Fumarate,02/07/1979
+TRUE,Chronic Obstructive Pulmonary Disease (COPD),Aspirin,07/28/1989
+TRUE,Microcephaly,,04/12/1983
+FALSE,Arthritis,diphenhydramine citrate and ibuprofen,10/26/1967
+TRUE,Kidney Disease (Chronic Kidney Disease),Triclosan 0.46%,08/27/2000
+FALSE,Middle East Respiratory Syndrome (MERS),NITROFURANTOIN,12/31/2003
+FALSE,Human Papillomavirus (HPV),PULSATILLA VULGARIS and SULFUR and CORTISONE ACETATE,08/19/1985
+TRUE,Heart Disease,ORPHENADRINE CITRATE,11/19/2004
+FALSE,Kidney Disease (Chronic Kidney Disease),Polyethylene Glycol 3350,09/15/1952
+TRUE,Gonorrhea,metolazone,01/22/1977
+TRUE,Sexually Transmitted Diseases (STDs),Trichophyton Mentagrophytes,01/26/1995
+TRUE,Microcephaly,Ranitidine,08/15/1970
+FALSE,ADHD,,01/07/1975
+TRUE,Giardiasis,Trazodone Hydrochloride,11/14/1970
+TRUE,Water-related Diseases,"SULFACETAMIDE SODIUM, SULFUR",11/10/1957
+FALSE,Genital Herpes (Herpes Simplex Virus),ACREMONIUM STRICTUM,08/22/1952
+FALSE,Autism Spectrum Disorder (ASD),Tranexamic Acid,07/10/1976
+FALSE,Arthritis,Methocarbamol,12/17/1987
+TRUE,Arthritis,Shadscale,04/05/1981
+FALSE,Epilepsy,Oxygen,03/29/1950
+FALSE,Diabetes,BENZALKONIUM CHLORIDE,09/04/1983
+TRUE,Chronic Obstructive Pulmonary Disease (COPD),FLUORIDE TREATMENT,04/07/1971
+TRUE,Meningitis,disulfiram,11/08/1968
+TRUE,Epilepsy,"EUPATORIUM PERFOLIATUM FLOWERING TOP, BRYONIA ALBA ROOT, GELSEMIUM SEMPERVIRENS ROOT, EUPHRASIA STRICTA, POTASSIUM IODIDE, and CAIRINA MOSCHATA HEART/LIVER AUTOLYSATE",05/26/1950
+FALSE,Ebola (Ebola Virus Disease),Sodium Bicarbonate,09/27/1980
+TRUE,Zika Virus,PYRITHIONE ZINC,04/18/2003
+FALSE,Stroke,Lisinopril and Hydrochlorothiazide,03/12/1983
+FALSE,Asthma,"hydrocodone bitartrate, chlorpheniramine maleate, pseudoephedrine hydrochloride",07/08/1998
+TRUE,Parasites 每 Scabies,Pyrithione Zinc,06/02/1950
+FALSE,Ebola (Ebola Virus Disease),GABAPENTIN,05/16/1979
+FALSE,Meningitis,Risperidone,06/28/1968
+TRUE,Overweight and Obesity,vecuronium bromide,06/01/2003
+FALSE,Birth Defects,Pulmo Ferrum,05/16/1990
+FALSE,Avian Influenza,Rizatriptan Benzoate,08/06/1967
+TRUE,Salmonella,Saccharomyces cerevisiae,03/19/1960
+FALSE,Diabetes,Lisinopril,03/24/2000
+TRUE,Arthritis,"Avobenzone, Homosalate, Octisalate, Octocrylene, Oxybenzone",04/16/1994
+FALSE,Kidney Disease (Chronic Kidney Disease),,07/12/1972
+FALSE,Flu (Influenza),Oxymetazoline Hydrochloride,09/12/1997
+FALSE,Overweight and Obesity,"Althaea Officinalis, Lobelia Inflata, Rheum, Verbascum Thapsus, Belladonna, Cuprum Aceticum, Drosera, Ipecacuanha",07/13/1955
+TRUE,Chronic Fatigue Syndrome,Diphenhydramine HCl,09/05/1963
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),,10/07/2007
+TRUE,Middle East Respiratory Syndrome (MERS),"Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl",03/12/1997
+TRUE,Asthma,White Grape,12/24/1986
+FALSE,Chlamydia,Phenol,09/03/1953
+FALSE,Flu (Influenza),MATRICARIA RECUTITA MELISSA OFFICINALIS ACONITUM NAPELLUS ROOT LACHESIS MUTA VENOM,03/28/1992
+TRUE,Tuberculosis (TB),moxifloxacin hydrochloride,07/16/1961
+FALSE,Parasites 每 Scabies,Ranitidine,10/08/1975
+TRUE,Fetal Alcohol Spectrum Disorders,Pentoxifylline,07/08/2005
+TRUE,Gonorrhea,Potassium Bicarbonate,02/08/1969
+TRUE,Tuberculosis (TB),Arnica Montana 30C,03/15/1981
+FALSE,Chronic Obstructive Pulmonary Disease (COPD),hydrocortisone,08/26/1953
+TRUE,Trichomonas Infection (Trichomoniasis),"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",04/08/1987
+FALSE,Meningitis,"Menthol, Methyl salicylate",02/23/1988
+TRUE,Meningitis,"ACETAMINOPHEN, PAMABROM",05/17/1960
+TRUE,Salmonella,Fluconazole,07/30/1972
+FALSE,Overweight and Obesity,ketoconazole,11/08/1986
+FALSE,Asthma,Phoma glomerata,09/29/2003
+FALSE,Birth Defects,sinecatechins,01/04/1960
+FALSE,Traumatic Brain Injury (TBI),Triclosan,06/22/1966
+FALSE,Genital Herpes (Herpes Simplex Virus),AMLODIPINE BESYLATE,01/25/1986
+TRUE,Tuberculosis (TB),"CACTUS GRANDIFLORUS, CONVALLARIA MAJALIS, CRATAEGUS LAEVIGATA, CAMPHORA, KALMIA LATIFOLIA, SPIGELIA ANTHELMIA, LACHESIS MUTUS, ARNICA MONTANA,TABACUM, GLONOINUM",07/06/2009
+FALSE,Diabetes,"OCTINOXATE, HOMOSALATE, OXYBENZONE, AVOBENZONE",04/28/1968
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Rhus Tox. e fol. 4,09/16/1987
+FALSE,Fetal Alcohol Spectrum Disorders,"Sarsaparilla, Uva-ursi, Arsenicum album, Cantharis, Pareira brava, Pulsatilla, Sepia, Terebinthina, Populus tremuloides",03/28/2006
+FALSE,Overweight and Obesity,Minoxidil,10/12/1984
+FALSE,Heart Disease,Carbon Dioxide,04/08/1992
+TRUE,Hepatitis,OXYGEN,08/19/1971
+FALSE,Flu (Influenza),"Bufo rana, Apis mel., Asterias rubens, Belladonna, Bryonia, Calc. carb., Chamomilla, Chimaphila umbellata, Cinchona, Conium, Croton, Echinacea, Graphites, Helonias dioica, Lachesis, Merc. viv., Phellandrium aquaticum Phosphorus, Phytolacca, Pulsatilla, Sanguinaria, Silicea, Hamamelis, Ruta, Taraxacum",08/06/1970
+FALSE,HIV/AIDS,Neurospora intermedia,01/21/1982
+FALSE,Sexually Transmitted Diseases (STDs),oxycodone hydrochloride,12/14/1991
+FALSE,Traumatic Brain Injury (TBI),PHENAZOPYRIDINE HYDROCHLORIDE,02/16/1991
+TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Benzalkonium Chloride,03/24/1988
+TRUE,Arthritis,Glyburide,04/16/1969
+TRUE,Parasites 每 Scabies,Niacinamide,05/23/2001
+TRUE,Human Papillomavirus (HPV),Lambs Quarters,12/29/1974
+TRUE,Trichomonas Infection (Trichomoniasis),Fluoxetine hydrochloride,12/02/1998
+TRUE,Trichomonas Infection (Trichomoniasis),Candesartan cilexetil,08/10/1974
+FALSE,Giardiasis,Fosinopril Sodium,09/28/1957
+TRUE,Giardiasis,Nitroglycerin,08/25/2005
+FALSE,Chlamydia,"Arsenicum album, Calcarea carbonica, Ignatia amara Kali carbonicum, Lachesis mutus, Natrum muriaticum,",02/07/2008
+FALSE,Overweight and Obesity,"Bacitracin, Neomycin, Polymyxin B",07/28/2005
+FALSE,Hepatitis,Betula nigra,08/19/2008
+FALSE,Sexually Transmitted Diseases (STDs),Dexamethasone,12/03/1979
+FALSE,Gonorrhea,MENTHOL,06/28/1961
+FALSE,Kidney Disease (Chronic Kidney Disease),,09/12/1986
+FALSE,Epilepsy,Triclosan,07/22/1955
+FALSE,Cancer,hydroxyzine hydrochloride,03/17/1961
+FALSE,Meningitis,octinoxate and oxybenzone,11/11/1992
+FALSE,Traumatic Brain Injury (TBI),"Acetaminophen, Chlorpheniramine maleate, Phenylephrine HCl",10/16/1978
+TRUE,Tuberculosis (TB),COAGULATION FACTOR IX HUMAN,09/10/2005
+FALSE,Kidney Disease (Chronic Kidney Disease),Famotidine,08/11/1954
+TRUE,Cancer,Thioridazine Hydrochloride,03/06/2005
+FALSE,Cancer,Hydrocodone Bitartrate and Acetaminophen,11/30/1953
+FALSE,Salmonella,Diltiazem Hydrochloride,06/19/1969
+FALSE,Autism Spectrum Disorder (ASD),Lovastatin,08/10/1974
+TRUE,Giardiasis,Furosemide,07/24/1975
+TRUE,Giardiasis,Hydrochlorothiazide,10/19/1952
+TRUE,Human Papillomavirus (HPV),Norgestimate and ethinyl estradiol,06/05/1953
+TRUE,Zika Virus,technetium tc 99m sestamibi,06/24/1982
+TRUE,Trichomonas Infection (Trichomoniasis),camphor,08/05/1985
+FALSE,Middle East Respiratory Syndrome (MERS),"Niacinamide, Adenosine",07/08/1951
+FALSE,Kidney Disease (Chronic Kidney Disease),"ZINC OXIDE, TITANIUM DIOXIDE",05/17/2009
+FALSE,HIV/AIDS,Lisinopril,07/19/1990
+FALSE,Chlamydia,Captopril,11/11/2000
+TRUE,Chlamydia,minocycline hydrochloride,07/30/2003
+TRUE,Ebola (Ebola Virus Disease),desmopressin acetate,12/08/1968
+TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Arnica Aurum Equisetum,09/11/1999
+TRUE,Stroke,hydrocodone bitartrate and acetaminophen,02/27/1998
+TRUE,Zika Virus,Ethambutol hydrochloride,02/22/1994
+FALSE,Epilepsy,Doxazosin Mesylate,03/12/1981
+FALSE,Birth Defects,adenosine,01/14/1972
+TRUE,Meningitis,Spiny Pigweed,10/04/1986
+TRUE,Arthritis,haematonectria haematococca,03/05/1972
+TRUE,Avian Influenza,Lovastatin,05/15/1957
+FALSE,Hepatitis,ingenol mebutate,06/09/1990
+TRUE,Salmonella,MEPERIDINE HYDROCHLORIDE,10/12/1951
+FALSE,Trichomonas Infection (Trichomoniasis),DIMETHICONE,03/27/1993
+TRUE,Chlamydia,TOPIRAMATE,07/21/1963
+TRUE,Birth Defects,Valacyclovir Hydrochloride,03/10/1961
+FALSE,Tuberculosis (TB),norethindrone acetate and ethinyl estradiol,07/27/1981
+TRUE,Stroke,OCTINOXATE and TITANIUM DIOXIDE,09/10/1964
+TRUE,Water-related Diseases,Aspirin,01/31/1982
+TRUE,Asthma,Labetalol hydrochloride,02/26/2002
+FALSE,Avian Influenza,Fenofibrate,03/03/2003
+FALSE,Traumatic Brain Injury (TBI),Desonide,04/21/2008
+FALSE,Water-related Diseases,,02/12/1996
+FALSE,Trichomonas Infection (Trichomoniasis),Meclizine HCl,10/12/1970
+TRUE,Salmonella,robinia pseudoacacia pollen,02/27/1997
+TRUE,Asthma,Etodolac,07/14/1977
+TRUE,Gonorrhea,Quetiapine fumarate,01/12/1990
+TRUE,Autism Spectrum Disorder (ASD),Fluoxetine,04/09/1964
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Sulfamethoxazole and Trimethoprim,04/12/1969
+FALSE,Microcephaly,Methocarbamol,03/25/1992
+TRUE,Cancer,TERBUTALINE SULFATE,11/28/1989
+FALSE,Heart Disease,Omeprazole,01/30/1960
+TRUE,Hepatitis,"Brome, Smooth Bromus inermis",01/06/2001
+TRUE,Arthritis,Lithium Carbonate,11/27/1967
+FALSE,Parasites 每 Scabies,Albumin (Human),08/23/1955
+FALSE,Meningitis,benzethonium chloride,04/08/1955
+FALSE,Ebola (Ebola Virus Disease),Naproxen,09/10/1964
+FALSE,Meningitis,Phentermine Hydrochloride,07/21/1987
+FALSE,Epilepsy,,04/15/1986
+FALSE,Chlamydia,Phenylephrine Hydrochloride,01/02/1981
+TRUE,Trichomonas Infection (Trichomoniasis),PULSATILLA VULGARIS and SULFUR,07/09/1954
+TRUE,Diabetes,Equisetum Arvense Top,02/08/1960
+TRUE,HIV/AIDS,Camphor (Synthetic) and Menthol,04/12/1982
+TRUE,Sexually Transmitted Diseases (STDs),EPICOCCUM NIGRUM,08/06/1979
+TRUE,Diabetes,,10/21/1990
+FALSE,Fetal Alcohol Spectrum Disorders,Desert Sage,02/18/1990
+FALSE,Chronic Fatigue Syndrome,"EUCALYPTOL, MENTHOL, METHYL SALICYLATE, THYMOL",10/10/1974
+TRUE,Zika Virus,BUPIVACAINE HYDROCHLORIDE,09/10/2008
+TRUE,Arthritis,"Influenza A Virus, Influenza B Virus, Histaminum hydrochloricum, Aconitum nap., Aralia quinquefolia, Arsenicum alb., Baptisia, Bryonia, Cinchona, Eupatorium perf., Gelsemium, Ipecac., Kali carb., Nux vom., Phosphorus, Rhus toxicodendron, Echinacea",07/06/1964
+FALSE,Zika Virus,Hydrocodone Bitartrate and Acetaminophen,01/31/1969
+FALSE,Hepatitis,TECHNETIUM TC-99M SODIUM PERTECHNETATE,06/29/1964
+FALSE,Parasites 每 Scabies,Menthol,05/17/2009
+TRUE,Asthma,candida albicans,05/31/1963
+FALSE,ADHD,Trichothecium roseum,02/10/1971
+FALSE,Middle East Respiratory Syndrome (MERS),not applicable,07/04/1983
+TRUE,Heart Disease,,03/24/1986
+TRUE,Epilepsy,Medroxyprogesterone Acetate,09/26/1982
+FALSE,Middle East Respiratory Syndrome (MERS),Methadone Hydrochloride,08/03/1959
+TRUE,ADHD,Tamoxifen Citrate,11/11/1965
+FALSE,Heart Disease,"sodium chloride, sodium lactate, potassium chloride and calcium chloride",09/24/1999
+FALSE,Ebola (Ebola Virus Disease),Norethindrone and Ethinyl Estradiol,04/20/1988
+FALSE,Overweight and Obesity,Acacia,02/22/1958
+TRUE,Asthma,"Cetirizine HCl, Pseudoephedrine HCl",05/14/1978
+TRUE,Giardiasis,,06/25/2005
+TRUE,Chronic Obstructive Pulmonary Disease (COPD),Etodolac,07/10/1955
+FALSE,Middle East Respiratory Syndrome (MERS),Alcohol,07/05/1956
+TRUE,Epilepsy,"Avobenzone, Octisalate and Octocrylene",07/22/1976
+FALSE,Tuberculosis (TB),Zinc Oxide,04/28/2004
+FALSE,Zika Virus,Ibuprofen,09/30/1985
+TRUE,Chronic Obstructive Pulmonary Disease (COPD),POLOXAMER 188,11/27/2000
+TRUE,Autism Spectrum Disorder (ASD),,12/13/1953
+FALSE,Gonorrhea,Calcium Acetate,05/21/1997
+FALSE,Avian Influenza,enoxaparin sodium,10/28/1963
+FALSE,Human Papillomavirus (HPV),"Camphor, Menthol, Eucalyptus Globulus Leaf Oil",05/29/2006
+TRUE,Epilepsy,Ibuprofen and Pseudoephedrine Hydrochloride,10/13/1954
+TRUE,Genital Herpes (Herpes Simplex Virus),SULFUR,03/12/1972
+TRUE,Chronic Fatigue Syndrome,"Octinoxate, Oxybenzone, Octocrylene, Avobenzone",05/02/1954
+TRUE,Zika Virus,"Guaifenesin, Phenylephrine Hydrochloride",02/27/1955
+TRUE,Birth Defects,warfarin sodium,08/27/1997
+TRUE,Epilepsy,,06/09/1960
+FALSE,Human Papillomavirus (HPV),Borago Nicotiana,08/19/2007
+FALSE,Giardiasis,Human Insulin,10/27/2008
+TRUE,Autism Spectrum Disorder (ASD),Naproxen Sodium,05/01/2009
+TRUE,Kidney Disease (Chronic Kidney Disease),torsemide,08/29/1983
+TRUE,Avian Influenza,ribavirin,01/11/1972
+TRUE,Traumatic Brain Injury (TBI),mercaptopurine,05/27/1997
+FALSE,Tuberculosis (TB),levetiracetam,03/20/1989
+FALSE,Zika Virus,,05/11/1952
+FALSE,Trichomonas Infection (Trichomoniasis),Wingscale,03/06/1953
+TRUE,Stroke,doxepin hydrochloride,05/06/1958
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),"Camphor, Menthol, Menthyl Salicylate",01/12/1965
+TRUE,Overweight and Obesity,DOCUSATE SODIUM-SENNOSIDES,12/19/2000
+TRUE,Hepatitis,Zinc Oxide,10/30/1955
+FALSE,Chlamydia,"Sulphur, Asclepias tuberosa, Bryonia, Dulcamara,",03/02/1989
+FALSE,Chronic Fatigue Syndrome,TITANIUM DIOXIDE,03/21/1951
+TRUE,Water-related Diseases,Pyrithione Zinc,07/10/1977
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),metoprolol tartrate,05/20/1969
+FALSE,Salmonella,Chloroxylenol,05/06/1990
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Titanium dioxide,01/24/1987
+FALSE,Overweight and Obesity,TOLNAFTATE,10/22/1960
+FALSE,ADHD,PRAVASTATIN SODIUM,09/08/1969
+TRUE,Chlamydia,ACTIVATED CHARCOAL - ARNICA MONTANA - ATROPA BELLADONNA - CANAKINUMAB - HYDROCOTYLE ASIATICA EXTRACT - AESCULUS HIPPOCASTANUM FLOWER - MELISSA OFFICINALIS - PAEONIA OFFICINALIS ROOT - PODOPHYLLUM PELT,02/04/1970
+TRUE,Microcephaly,Oxycodone and Acetaminophen,02/18/1962
+FALSE,Overweight and Obesity,beta vulgaris pollen,01/28/1953
+FALSE,Diabetes,Bethanechol Chloride,10/11/1964
+FALSE,Heart Disease,Acetaminophen,08/12/1993
+TRUE,Parasites 每 Scabies,aprepitant,01/26/1996
+FALSE,Middle East Respiratory Syndrome (MERS),"cocoa butter, phenylephrine hcl",06/28/2001
+TRUE,Traumatic Brain Injury (TBI),"Eucalyptol , Menthol, Methyl Salicylate ,Thymol",09/07/1998
+FALSE,Gonorrhea,Famotidine,04/07/1982
+TRUE,Cancer,"Chlophedianol Hydrochloride, Dexbrompheniramine Maleate, Pseudoephedrine Hydrochloride",06/23/1965
+FALSE,Cancer,"synthetic conjugated estrogens, B",05/25/1956
+FALSE,Salmonella,Levothyroxine sodium,02/27/1991
+FALSE,Flu (Influenza),Common Sagebrush,01/31/2006
+TRUE,Chlamydia,Prednisone,03/19/1954
+FALSE,Overweight and Obesity,Promethazine Hydrochloride,05/08/1968
+FALSE,Water-related Diseases,nicotine polacrilex,12/23/1955
+FALSE,Chlamydia,Liquidamber styraciflua,02/19/1987
+TRUE,Flu (Influenza),Sodium Fluoride,01/03/1991
+FALSE,Fetal Alcohol Spectrum Disorders,"Avobenzone, Octinoxate, Octisalate, and Oxybenzone",01/08/1987
+TRUE,Stroke,warfarin sodium,05/16/1961
+TRUE,Asthma,,06/08/2003
+TRUE,Cancer,"Borneol, Menthol",10/17/1970
+FALSE,Gonorrhea,IRBESARTAN,05/05/1998
+TRUE,Fetal Alcohol Spectrum Disorders,"octinoxate, oxybenzone and petrolatum",05/19/2000
+TRUE,Parasites 每 Scabies,losartan potassium and hydrochlorothiazide,01/26/1983
+TRUE,Stroke,Prednisone,05/03/2007
+TRUE,Heart Disease,Oxycodone and Acetaminophen,12/07/2008
+TRUE,HIV/AIDS,Isradipine,12/09/1984
+FALSE,Overweight and Obesity,,07/21/2009
+FALSE,Traumatic Brain Injury (TBI),Clam,06/27/2003
+FALSE,Middle East Respiratory Syndrome (MERS),Isoniazid,08/04/1980
+TRUE,Flu (Influenza),Dicyclomine Hydrochloride,01/20/1975
+TRUE,Epilepsy,"Octinoxate, Octisalate, Avobenzone, Octocrylene",08/13/1978
+TRUE,Meningitis,Indapamide,11/03/1958
+FALSE,Trichomonas Infection (Trichomoniasis),Robitussin,04/02/1996
+TRUE,Kidney Disease (Chronic Kidney Disease),"aluminum hydroxide, magnesium hydroxide, dimethicone",11/14/1968
+TRUE,Kidney Disease (Chronic Kidney Disease),stavudine,03/31/1962
+TRUE,Parasites 每 Scabies,Lisinopril and hydrochlorothiazide,12/12/1954
+FALSE,Stroke,Box Elder Ash Leaf Maple,01/14/2010
+FALSE,Giardiasis,Dextromethorphan Hydrobromide,05/18/1951
+TRUE,Salmonella,Lentil,08/17/2005
+TRUE,Human Papillomavirus (HPV),Clindamycin Palmitate Hydrochloride,03/01/2006
+TRUE,Chlamydia,olmesartan medoxomil and hydrochlorothiazide,12/07/1973
+TRUE,Birth Defects,,03/17/1979
+FALSE,Chronic Obstructive Pulmonary Disease (COPD),"Butalbital, Aspirin, and Caffeine",08/08/1952
+TRUE,Water-related Diseases,VANCOMYCIN HYDROCHLORIDE,07/25/1954
+TRUE,Salmonella,acacia,04/03/1959
+TRUE,Chronic Obstructive Pulmonary Disease (COPD),,09/19/1986
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),sennosides,08/18/2000
+TRUE,Avian Influenza,Aspirin,02/12/1978
+TRUE,Salmonella,Betamethasone Dipropionate,10/25/2002
+FALSE,Fetal Alcohol Spectrum Disorders,Alendronate Sodium,04/07/1983
+TRUE,Chronic Obstructive Pulmonary Disease (COPD),Amiodarone Hydrochloride,07/14/2004
+FALSE,Ebola (Ebola Virus Disease),Fluconazole,11/11/1988
+TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Captopril,10/06/1960
+FALSE,Kidney Disease (Chronic Kidney Disease),Nortriptyline Hydrochloride,05/11/1991
+TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),,09/11/1997
+TRUE,Water-related Diseases,,03/26/2001
+FALSE,Human Papillomavirus (HPV),,07/18/1991
+FALSE,Epilepsy,Red Cedar,07/29/1991
+TRUE,Epilepsy,OCTINOXATE OXYBENZONE,03/23/1980
+TRUE,Flu (Influenza),Simethicone,06/14/2006
+TRUE,Asthma,Benzalkonium Chloride,11/21/1960
+TRUE,Tuberculosis (TB),Warfarin Sodium,08/27/1987
+FALSE,Diabetes,Cefuroxime Axetil,11/13/1982
+FALSE,HIV/AIDS,Metoprolol Succinate,02/17/1955
+TRUE,Salmonella,Fentanyl,05/31/1997
+TRUE,Stroke,ARNICA MONTANA FLOWER,11/21/2000
+TRUE,Hepatitis,orphenadrine citrate,11/29/1998
+FALSE,Kidney Disease (Chronic Kidney Disease),MORPHINE SULFATE,03/09/2004
+FALSE,Avian Influenza,,08/15/2009
+TRUE,Meningitis,Corn Smut,07/29/1978
+TRUE,Kidney Disease (Chronic Kidney Disease),Peginterferon alfa-2b,11/30/2004
+TRUE,Zika Virus,Ibuprofen,07/01/1982
+FALSE,Overweight and Obesity,,02/24/1964
+TRUE,Birth Defects,CEANOTHUS AMERICANUS LEAF,07/09/1979
+TRUE,Human Papillomavirus (HPV),,07/19/1962
+TRUE,Trichomonas Infection (Trichomoniasis),Shark cartilage,12/26/1954
+TRUE,HIV/AIDS,Pussy Willow,06/15/1980
+TRUE,Gonorrhea,Trazodone Hydrochloride,08/01/1983
+FALSE,Ebola (Ebola Virus Disease),Apraclonidine,02/23/1981
+TRUE,Avian Influenza,,08/11/1968
+TRUE,Tuberculosis (TB),ROPIVACAINE HYDROCHLORIDE,12/31/1960
+FALSE,Asthma,"Octinoxate, octisalate, octocrylene, titanium dioxide",08/14/1958
+FALSE,Flu (Influenza),Neurospora intermedia,08/11/1982
+TRUE,Middle East Respiratory Syndrome (MERS),everolimus,05/02/2007
+TRUE,Sexually Transmitted Diseases (STDs),"Bismuthum metallicum, Antimon.crud., Arg. nit., Arsenicum alb., Baptisia, Bryonia, Chamomilla, Cinchona, Iris versicolor, Kali bic., Lachesis, Lycopodium, Mag. carb., Nux vom., Phosphorus, Podoph. pelt., Pulsatilla, Raphanus, Rhus toxicodendron, Tabacum, Verbascum, Zingiber, Echinacea, Juglans regia",06/30/2002
+TRUE,Ebola (Ebola Virus Disease),lansoprazole,12/22/2006
+TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),finasteride,01/22/1986
+TRUE,Avian Influenza,Amlodipine besylate and benazepril hydrochloride,04/10/1951
+FALSE,ADHD,Isosorbide Dinitrate,07/20/2007
+FALSE,Ebola (Ebola Virus Disease),"Octinoxate, Titanium Dioxide, and Zinc Oxide",08/02/1996
+TRUE,Chlamydia,Natural Medicine,03/18/1981
+TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),ALUMINUM CHLOROHYDRATE,09/06/1951
+FALSE,Ebola (Ebola Virus Disease),"Calcium carbonate, sodium bicarbonate",12/05/1985
+TRUE,Water-related Diseases,"Octinoxate, Octisalate, and Zinc",03/19/1965
+TRUE,Avian Influenza,lomustine,12/05/1959
+FALSE,HIV/AIDS,Olanzapine,06/12/1984
+FALSE,Human Papillomavirus (HPV),Ciprofloxacin,08/22/1994
+TRUE,Salmonella,dalteparin sodium,07/04/1954
+TRUE,HIV/AIDS,NITROUS OXIDE,05/07/1967
+FALSE,Gonorrhea,Tramadol Hydrochloride,12/19/1963
+FALSE,Heart Disease,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",03/24/2009
+TRUE,Parasites 每 Scabies,Bismuth Subsalicylate,01/18/1976
+TRUE,Overweight and Obesity,Menthol,04/17/1956
+TRUE,Chronic Obstructive Pulmonary Disease (COPD),eplerenone,01/02/1955
+FALSE,Sexually Transmitted Diseases (STDs),metronidazole,04/15/1962
+TRUE,Genital Herpes (Herpes Simplex Virus),Acetaminophen,04/17/1986
+TRUE,Autism Spectrum Disorder (ASD),SODIUM FLUORIDE,11/28/1960
+FALSE,ADHD,Ibuprofen,10/18/1964
+FALSE,Heart Disease,Alcohol,02/21/1990
+TRUE,Fetal Alcohol Spectrum Disorders,PHOMA HERBARUM,05/13/1989
+TRUE,Trichomonas Infection (Trichomoniasis),Hydrocodone bitartrate and acetaminophen,05/21/1956
+FALSE,Meningitis,clonidine hydrochloride,07/18/1970
+FALSE,Ebola (Ebola Virus Disease),Sisal,03/05/1988
+TRUE,Stroke,DIPHENHYDRAMINE HCL,07/25/1963
+TRUE,Human Papillomavirus (HPV),Loratadine,01/11/2008
+TRUE,Ebola (Ebola Virus Disease),ESZOPICLONE,07/28/1998
+FALSE,Heart Disease,Niacinamide Azelaic AC TURMER FA B6 Zinc Ox Copper,09/20/1966
+TRUE,Avian Influenza,Acetaminophen and Diphenhydramine Citrate,08/31/1964
+TRUE,Salmonella,"Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl",05/10/2004
+FALSE,Arthritis,Gemfibrozil,12/27/1966
+FALSE,Autism Spectrum Disorder (ASD),Benzalkonium Chloride,03/17/1968
+TRUE,Ebola (Ebola Virus Disease),octreotide acetate,03/05/2001
+TRUE,Chronic Fatigue Syndrome,Diltiazem Hydrochloride,09/25/1964
+FALSE,Birth Defects,Glipizide,04/14/1986
+TRUE,Diabetes,MINOXIDIL,03/08/1957
+TRUE,Zika Virus,TRIAMCINOLONE ACETONIDE,08/26/1982
+FALSE,Fetal Alcohol Spectrum Disorders,eszopiclone,02/08/1991
+FALSE,Genital Herpes (Herpes Simplex Virus),Benzocaine,01/28/1990
+TRUE,Heart Disease,Etodolac,05/11/1987
+FALSE,Birth Defects,ALCOHOL,05/22/1956
+FALSE,Parasites 每 Scabies,titanium dioxide,09/29/2005
+FALSE,Diabetes,"THYROID, PORCINE",02/21/2001
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Insulin lispro,11/13/1954
+FALSE,Stroke,OXYGEN,09/15/1993
+FALSE,Arthritis,Oxymetazoline HCl,09/22/2008
+FALSE,Zika Virus,Modafinil,03/08/1998
+FALSE,Chronic Fatigue Syndrome,Benzoyl peroxide,06/19/1977
+TRUE,Meningitis,"Titanium Dioxide, Zinc Oxide",11/14/1972
+TRUE,Stroke,PredniSONE,10/25/1962
+TRUE,Stroke,Chlorinum,05/17/2005
+FALSE,Kidney Disease (Chronic Kidney Disease),"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",10/17/1950
+TRUE,Middle East Respiratory Syndrome (MERS),finasteride,02/15/1975
+FALSE,Avian Influenza,Triclosan,10/21/1987
+TRUE,Genital Herpes (Herpes Simplex Virus),"Camphora 3X, Arnica montana, radix 3X, Belladonna 3X, Calendula officinalis 3X, Dulcamara 3X, Echinacea 3X, Hamamelis virginiana 3X, Hypericum perforatum 3X, Millefolium 3X, Nux vomica 4X, Rhus toxicodendron 3X",04/28/1965
+TRUE,Flu (Influenza),,04/22/1950
+FALSE,Epilepsy,Doxycycline Hyclate,02/05/2006
+TRUE,Salmonella,aspirin,05/17/1999
+TRUE,Flu (Influenza),Labetalol hydrochloride,06/14/1988
+TRUE,Fetal Alcohol Spectrum Disorders,Labetalol Hydrochloride,07/09/1968
+TRUE,Chronic Obstructive Pulmonary Disease (COPD),Benzalkonium Chloride,01/12/1957
+FALSE,Birth Defects,Liquid spray handsanitizer,02/21/1975
+TRUE,Giardiasis,Doxylamine succinate,07/27/1972
+FALSE,Parasites 每 Scabies,"homosalate, octisalate, avobenzone, and octocrylene",05/13/1950
+TRUE,Trichomonas Infection (Trichomoniasis),Triclosan,10/02/2003
+FALSE,Chronic Fatigue Syndrome,Ibuprofen,06/16/1983
+TRUE,Traumatic Brain Injury (TBI),Clindamycin hydrochloride,06/02/1979
+TRUE,Gonorrhea,"Norethindrone Acetate and Ethinyl Estradiol, and Ferrous Fumarate",11/07/1960
+FALSE,Trichomonas Infection (Trichomoniasis),Meropenem,02/28/1971
+FALSE,Arthritis,AVOBENZONE HOMOSALATE OCTISALATE OCTOCRYLENE OXYBENZONE,10/28/1999
+TRUE,Human Papillomavirus (HPV),nitroglycerin,12/30/1993
+TRUE,Genital Herpes (Herpes Simplex Virus),Mirtazapine,11/18/1985
+TRUE,Heart Disease,Gabapentin,07/08/1953
+FALSE,Meningitis,Zaleplon,04/03/1984
+FALSE,Ebola (Ebola Virus Disease),cefuroxime axetil,10/30/1987
+FALSE,Hepatitis,Titanium Dioxide,07/29/1976
+FALSE,Fetal Alcohol Spectrum Disorders,Pyrithione Zinc,02/15/1976
+TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),"Agaricus 30c, Belladonna 30c, Hyoscyamus 30c, Kali Brom 30c, Natrum Mur 30c, Nux Vomica 30c",08/22/1997
+FALSE,Hepatitis,"AMMONIA, LIDOCAINE HYDROCHLORIDE, TRIAMCINOLONE ACETONIDE, POVIDONE-IODINE",07/04/1955
+TRUE,Ebola (Ebola Virus Disease),Tetracycline Hydrochloride,07/27/1991
+TRUE,Kidney Disease (Chronic Kidney Disease),LEVOTHYROXINE SODIUM,11/11/1990
+TRUE,Water-related Diseases,CALCIUM CARBONATE,07/02/1992
+FALSE,Stroke,testosterone cypionate,06/30/1967
+TRUE,Genital Herpes (Herpes Simplex Virus),Alternaria alternata,05/25/1986
+FALSE,Asthma,Fluphenazine Hydrochloride,08/10/2005
+FALSE,HIV/AIDS,SALICYLIC ACID,01/19/1984
+FALSE,Middle East Respiratory Syndrome (MERS),HYDRALAZINE HYDROCHLORIDE,01/07/1981
+FALSE,Water-related Diseases,"Acetaminophen, Dextromethorphan Hydrobromide, and Doxylamine Succinate",08/03/1987
+TRUE,Heart Disease,Fluconazole,03/22/1977
+TRUE,Asthma,"Calcium carbonate, Magnesium hydroxide",05/24/2005
+TRUE,Middle East Respiratory Syndrome (MERS),House Dust,10/02/1980
+TRUE,Salmonella,Oxygen,08/09/1975
+TRUE,Chronic Obstructive Pulmonary Disease (COPD),Rough (Redroot) Pigweed,03/25/1995
+TRUE,Kidney Disease (Chronic Kidney Disease),metoclopramide hydrochloride,05/01/1993
+FALSE,ADHD,Benazepril Hydrochloride,04/16/1972
+FALSE,Ebola (Ebola Virus Disease),ZINC OXIDE,11/09/1957
+FALSE,Zika Virus,CYCLAMEN PURPURASCENS TUBER,04/05/1986
+FALSE,Kidney Disease (Chronic Kidney Disease),febuxostat,03/18/1986
+FALSE,Parasites 每 Scabies,Tilletia caries (tritici),11/05/1982
+FALSE,Zika Virus,risperidone,05/19/1998
+TRUE,Chronic Obstructive Pulmonary Disease (COPD),Aluminum Zirconium Trichlorohydrex Gly,07/09/1957
+FALSE,HIV/AIDS,,12/07/1956
+TRUE,Arthritis,levonorgestrel and ethinyl estradiol,09/02/1973
+TRUE,Salmonella,Titanium Dioxide and Zinc Oxide,04/03/1951
+FALSE,Epilepsy,"Echinacea, Lobelia inflata, Antimonium tartaricum, Aralia racemosa, Drosera, Ipecacuanha, Kali Carbonicum, Phosphorus, Spongia tosta",11/02/1983
+TRUE,Avian Influenza,Bisacodyl,10/27/2004
+TRUE,Gonorrhea,venlafaxine hydrochloride,06/07/1999
+FALSE,Arthritis,BACILLUS ANTHRACIS,02/06/1970
+FALSE,Genital Herpes (Herpes Simplex Virus),"Acetaminophen, Chlorpheniramine maleate, Phenylephrine HCl",11/26/1999
+TRUE,Traumatic Brain Injury (TBI),APOMORPHINE HYDROCHLORIDE,04/22/2009
+TRUE,Kidney Disease (Chronic Kidney Disease),Warfarin,03/01/1999
+FALSE,Meningitis,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE",10/05/1994
+FALSE,Parasites 每 Scabies,Diphenhydramine Hydrochloride and Zinc Acetate,06/04/1985
+FALSE,Zika Virus,Famotidine,01/04/1969
+TRUE,Zika Virus,diltiazem hydrochloride,01/10/1976
+TRUE,Parasites 每 Scabies,Metformin Hydrochloride,06/18/1981
+FALSE,Epilepsy,Alcohol,06/06/1958
+FALSE,Tuberculosis (TB),Fluoxetine,10/17/2001
+TRUE,ADHD,"Acetaminophen, Aspirin, Caffeine",07/24/2004
+TRUE,Water-related Diseases,Saline Laxative,10/02/1998
+TRUE,Birth Defects,losartan potassium,09/16/1983
+FALSE,Fetal Alcohol Spectrum Disorders,Sodium Iodide I 131,04/03/1956
+FALSE,ADHD,,08/11/1959
+TRUE,Fetal Alcohol Spectrum Disorders,Ramipril,04/25/1959
+TRUE,Autism Spectrum Disorder (ASD),Carbamazepine,05/07/1956
+FALSE,Arthritis,CEFEPIME HYDROCHLORIDE,03/29/1980
+TRUE,Epilepsy,Metformin Hydrochloride,06/04/1985
+TRUE,Meningitis,LIDOCAINE HYDROCHLORIDE ANHYDROUS,06/05/1955
+FALSE,Zika Virus,Levothyroxine sodium,06/17/1983
+FALSE,Flu (Influenza),Sodium Bicarbonate,12/01/1952
+FALSE,Chlamydia,,07/01/1965
+FALSE,Parasites 每 Scabies,"Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan HBr, Phenylephrine HCl",05/30/1983
+TRUE,HIV/AIDS,FLUDARABINE PHOSPHATE,01/01/1981
+TRUE,Salmonella,Simethicone,03/10/1976
+FALSE,Genital Herpes (Herpes Simplex Virus),"Titanium Dioxide, Octinoxate",09/09/1950
+FALSE,Traumatic Brain Injury (TBI),Olanzapine,10/27/1973
+FALSE,Flu (Influenza),Topiramate,03/25/1952
+FALSE,Ebola (Ebola Virus Disease),meclizine hydrochloride,01/18/1969
+FALSE,Ebola (Ebola Virus Disease),,11/03/1954
+TRUE,Asthma,Aluminum Zirconium Tetrachlorohydrex GLY,06/06/1956
+TRUE,Meningitis,Gabapentin,04/13/1966
+FALSE,Salmonella,Alprazolam,11/17/1979
+TRUE,Heart Disease,Titanium dioxide,01/26/1967
+FALSE,Microcephaly,Cocklebur,01/16/1977
+TRUE,Heart Disease,"Angelica Archangelica, Cimicifuga Racemosa, Fucus Vesiculosus, Hypothalamus (suis), Magnesia Gluconate, Oophorinum (suis) Pyridoxinum Hydrochloricum, Bovista, Cuprum metallicum, Sepia, Zincum Metallicum, Lachesis Mutus",07/29/1959
+TRUE,Chronic Fatigue Syndrome,BUPRENORPHINE HYDROCHLORIDE,03/27/1992
+FALSE,Diabetes,LISINOPRIL AND HYDROCHLOROTHIAZIDE,06/03/1986
+TRUE,Middle East Respiratory Syndrome (MERS),"Homosalate, Octinoxate, Oxybenzone, Avobenzone",09/02/1951
+FALSE,Microcephaly,CEFOTAXIME,11/07/2007
+TRUE,Chlamydia,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",01/26/1986
+TRUE,Birth Defects,SALICYLIC ACID,09/16/1993
+FALSE,Salmonella,ZIKS ARTHRITIS PAIN RELIEF,09/26/1996
+TRUE,Chlamydia,oxygen,05/06/1954
+FALSE,Heart Disease,Cottonseed,10/21/1968
+TRUE,Middle East Respiratory Syndrome (MERS),Ibuprofen,04/29/1968
+FALSE,Tuberculosis (TB),"Avobenzone, Octisalate, and Octocrylene",12/02/1995
+FALSE,Asthma,"Allantoin 1.0%, Lidocaine 1.0%",09/08/1992
+TRUE,Trichomonas Infection (Trichomoniasis),Mirtazapine,02/02/1977
+FALSE,Hepatitis,Trypan Blue,10/02/2006
+FALSE,HIV/AIDS,CHLOROXYLENOL,03/28/1990
+TRUE,Avian Influenza,cashew,05/08/2003
+FALSE,Chronic Obstructive Pulmonary Disease (COPD),Salicylic Acid,11/13/1992
+FALSE,Cancer,SELENIUM SULFIDE,11/22/1963
+FALSE,Fetal Alcohol Spectrum Disorders,"Avobenzone, Homosalate, Octisalate, Octocrylene and Oxybenzone",08/08/1954
+FALSE,Chronic Obstructive Pulmonary Disease (COPD),Carbidopa and Levodopa,07/12/1991
+TRUE,Birth Defects,"DROSERA ROTUNDIFOLIA, DROSERA INTERMEDIA, DROSERA ANGLICA, ERIODICTYON CALIFORNICUM FLOWERING TOP, GRINDELIA HIRSUTULA FLOWERING TOP, POTASSIUM IODIDE, SPONGIA OFFICINALIS SKELETON, ROASTED, LOBARIA PULMONARIA, TEUCRIUM SCORODONIA FLOWERING TOP, and VERBASCUM DENSIFLORUM FLOWERING TOP",01/04/2002
+TRUE,Heart Disease,Terazosin,07/01/2008
+TRUE,Chronic Obstructive Pulmonary Disease (COPD),Clindamycin Hydrochloride,11/30/1978
+TRUE,Chronic Fatigue Syndrome,Giant Ragweed,07/06/2005
+TRUE,Flu (Influenza),Amlodipine besylate and Atorvastatin calcium,04/14/1965
+FALSE,Trichomonas Infection (Trichomoniasis),Testosterone,03/16/1962
+TRUE,Kidney Disease (Chronic Kidney Disease),White Alder,11/26/1962
+FALSE,Asthma,Aluminum Zirconium Tetrachlorohydrex Gly,03/28/2002
+FALSE,Giardiasis,HYOSCYAMUS NIGER,12/07/1993
+TRUE,Parasites 每 Scabies,POLYETHYLENE GLYCOL 400,06/08/1996
+FALSE,Middle East Respiratory Syndrome (MERS),NAPROXEN,11/08/1961
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Hydrochlorothiazide,03/12/1967
+TRUE,Diabetes,Ethyl alcohol,11/18/1961
+TRUE,Tuberculosis (TB),Greasewood,11/28/1991
+FALSE,Ebola (Ebola Virus Disease),Treatment Set TS344420,07/16/1975
+FALSE,Chronic Fatigue Syndrome,Anti-itch cream,09/16/1978
+TRUE,Middle East Respiratory Syndrome (MERS),BENZPHETAMINE HYDROCHLORIDE,09/17/1995
+FALSE,HIV/AIDS,Ciprofloxacin,06/24/1969
+TRUE,Ebola (Ebola Virus Disease),"Homosalate, Octinoxate, Octisalate, and Oxybenzone",03/10/1980
+TRUE,Kidney Disease (Chronic Kidney Disease),parachlorometaxylenol,03/14/2003
+TRUE,Fetal Alcohol Spectrum Disorders,"OCTINOXATE, OXYBENZONE, PADIMATE O",11/13/1984
+FALSE,Chronic Obstructive Pulmonary Disease (COPD),STRYCHNOS NUX-VOMICA SEED,03/02/2007
+FALSE,Ebola (Ebola Virus Disease),"Octinoxate, Octisalate, Oxybenzone",12/14/1958
+TRUE,Avian Influenza,Sweet Corn,05/18/2005
+TRUE,Kidney Disease (Chronic Kidney Disease),activated charcoal,08/31/1982
+TRUE,Flu (Influenza),IRBESARTAN,12/18/1989
+TRUE,Gonorrhea,Penicillin G Sodium,02/25/1990
+TRUE,Epilepsy,LIDOCAINE HYDROCHLORIDE,09/08/1980
+TRUE,Sexually Transmitted Diseases (STDs),Warfarin Sodium,08/30/2004
+FALSE,Stroke,"Apis Mellifica, Argentum Nitricum, Berberis Vulgaris, Cantharis, Equisetum Arvense, Kali Bichromicum, Lycopodium Clavatum",08/22/1987
+FALSE,Giardiasis,Methimazole,09/03/1971
+TRUE,Trichomonas Infection (Trichomoniasis),benazepril hydrochloride and hydrochlorothiazide,09/23/1997
+TRUE,ADHD,"Condurango, Stomach, Nux vomica, Aurum metallicum, Antimonium crudum, Hyoscyamus niger, Sulphur,",10/26/1964
+TRUE,Chronic Fatigue Syndrome,"AVOBENZONE, OCTISALATE, OCTOCRYLENE",12/05/1986
+TRUE,Middle East Respiratory Syndrome (MERS),cyclophosphamide,04/25/1963
+FALSE,Flu (Influenza),Pyrithione zinc,01/30/1951
+FALSE,Tuberculosis (TB),Camphor Menthol Methyl Salicylate,01/15/1958
+TRUE,Diabetes,Meperidine HCl,02/25/1973
+FALSE,Chronic Fatigue Syndrome,nitroglycerin,06/21/1987
+FALSE,Cancer,GEMCITABINE HYDROCHLORIDE,03/31/1955
+FALSE,Birth Defects,Oxycodone hydrochloride and Acetaminophen,12/17/1950
+TRUE,Flu (Influenza),Tragacanth Gum,08/13/1962
+TRUE,Trichomonas Infection (Trichomoniasis),Triamterene and Hydrochlorothiazide,09/06/1985
+TRUE,Epilepsy,"Homosalate, Oxybenzone, Octisalate, Avobenzone, Octocrylene",10/03/2006
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),ISOPROPYL ALCOHOL,05/01/1978
+FALSE,Salmonella,Duloxetine,09/08/1950
+TRUE,Epilepsy,Miconazole nitrate,11/15/1972
+TRUE,Chronic Obstructive Pulmonary Disease (COPD),Oxygen,03/07/1968
+TRUE,Microcephaly,Phenazopyridine Hydrochloride,12/14/1990
+FALSE,Autism Spectrum Disorder (ASD),Octinoxate and Oxybenzone,08/06/1990
+FALSE,Traumatic Brain Injury (TBI),hydrocortisone,12/26/1962
+FALSE,Chlamydia,ACETAMINOPHEN AND DIPHENHYDRAMINE HYDROCHLORIDE,02/28/1983
+FALSE,Giardiasis,Sunscreen Towel,01/10/1957
+FALSE,Chronic Obstructive Pulmonary Disease (COPD),"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",03/30/2005
+TRUE,Microcephaly,Doxepin Hydrochloride,11/25/1952
+FALSE,Birth Defects,BUPIVACAINE HYDROCHLORIDE,08/14/1980
+FALSE,Genital Herpes (Herpes Simplex Virus),Rhizopus oryzae,03/10/1995
+TRUE,Gonorrhea,rivastigmine,07/13/2004
+TRUE,Salmonella,AMPICILLIN and SULBACTAM,12/28/1994
+TRUE,Ebola (Ebola Virus Disease),Oxcarbazepine,12/04/1997
+TRUE,Hepatitis,Aluminum Zirconium Tetrachlorohydrex GLY,09/20/1970
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Quetiapine fumarate,11/16/1997
+FALSE,Arthritis,piperacillin sodium and tazobactam sodium,12/17/1977
+FALSE,Stroke,Diazepam,02/02/1954
+FALSE,Fetal Alcohol Spectrum Disorders,RUMEX CRISPUS ROOT,11/04/1959
+FALSE,Trichomonas Infection (Trichomoniasis),Naproxen,07/24/1978
+FALSE,Chronic Obstructive Pulmonary Disease (COPD),Cetylpyridinium chloride,04/28/1985
+TRUE,Parasites 每 Scabies,Phenol,01/27/1990
+TRUE,Chlamydia,Guaifenesin,11/20/1953
+FALSE,Ebola (Ebola Virus Disease),modafinil,12/04/1964
+TRUE,Ebola (Ebola Virus Disease),Aluminum Zirconium Tetrachlorohydrex GLY,09/22/2007
+TRUE,Middle East Respiratory Syndrome (MERS),Prednisone,02/07/1967
+FALSE,Ebola (Ebola Virus Disease),Atomoxetine Hydrochloride,08/29/1995
+FALSE,Genital Herpes (Herpes Simplex Virus),Acetaminophen,08/28/1963
+FALSE,Heart Disease,Benzocaine,10/14/1980
+FALSE,Salmonella,Nabumentone,09/03/1988
+TRUE,Kidney Disease (Chronic Kidney Disease),Ibuprofen,09/03/1976
+TRUE,Asthma,Quercetin,04/16/1960
+TRUE,Trichomonas Infection (Trichomoniasis),,03/17/1985
+TRUE,Epilepsy,Alprazolam,08/15/1956
+TRUE,Meningitis,"Titanium Dioxide, Zinc Oxide",09/15/2007
+FALSE,Epilepsy,hydrocortisone butyrate,05/16/1978
+TRUE,Sexually Transmitted Diseases (STDs),MIDAZOLAM HYDROCHLORIDE,01/02/2001
+TRUE,Water-related Diseases,"Chlorpheniramine maleate, Phenylephrine HCl",12/31/2002
+TRUE,Cancer,Ibuprofen,05/25/1998
+TRUE,Asthma,CEFTRIAXONE,10/17/1999
+TRUE,Asthma,Bacitracin Zinc Neomycin Polymyxin B Sulfate,07/27/1951
+TRUE,Gonorrhea,barium sulfate,01/04/1996
+FALSE,Diabetes,"Acetaminophen, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",04/19/1992
+FALSE,Flu (Influenza),TOBRAMYCIN SULFATE,11/18/1954
+FALSE,Flu (Influenza),Sennosides,09/20/2001
+FALSE,Chronic Fatigue Syndrome,,05/08/1978
+FALSE,Tuberculosis (TB),Fosphenytoin Sodium,02/15/1997
+FALSE,Overweight and Obesity,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,10/10/1986
+TRUE,Overweight and Obesity,Menthol and Camphor,03/06/1977
+FALSE,Middle East Respiratory Syndrome (MERS),Ibuprofen,01/19/1980
+FALSE,Genital Herpes (Herpes Simplex Virus),BENZOYL PEROXIDE,09/21/2007
+FALSE,Middle East Respiratory Syndrome (MERS),cilostazol,10/14/1979
+TRUE,Microcephaly,WITCH HAZEL,10/11/1986
+TRUE,Human Papillomavirus (HPV),Chlorpheniramine Maleate,03/30/1954
+TRUE,Ebola (Ebola Virus Disease),Titanium Dioxide and Zinc Oxide,09/21/1992
+FALSE,Giardiasis,"TITANIUM DIOXIDE, OCTINOXATE",11/24/1965
+TRUE,Autism Spectrum Disorder (ASD),"bacitracin zinc, polymyxin B sulfate",03/31/1964
+FALSE,Microcephaly,HYDROCHLOROTHIAZIDE,07/20/1973
+FALSE,Stroke,Diltiazem Hydrochloride,05/12/1962
+FALSE,Kidney Disease (Chronic Kidney Disease),Warfarin Sodium,06/10/2007
+TRUE,Flu (Influenza),AZTREONAM,07/10/1984
+FALSE,Water-related Diseases,Benzoyl Peroxide,03/20/1983
+TRUE,Heart Disease,Temozolomide,12/14/1965
+TRUE,Hepatitis,TOPOTECAN HYDROCHLORIDE,04/23/1950
+TRUE,Human Papillomavirus (HPV),"Cetirizine HCl, Pseudoephedrine HCl",01/30/1976
+FALSE,Giardiasis,Liquid Corn and Callus Remover,09/05/1978
+TRUE,Birth Defects,Acetaminophen,07/10/2009
+FALSE,Heart Disease,Guaifenesin,01/23/1964
+TRUE,Kidney Disease (Chronic Kidney Disease),"Arsenicum album, Avena sativa, Bryonia, Carbo animalis, Carduus marianus, Chelidonium majus, Hepar suis, Kali iodatum, Lapis albus, Nux vomica, Radium bromatum, Taraxacum officinale, Thuja occidentalis,",08/09/1959
+FALSE,Birth Defects,"Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride",12/14/1982
+TRUE,Traumatic Brain Injury (TBI),Penicillin V Potassium,11/23/1950
+TRUE,Water-related Diseases,"Dextromethorphan Hydrobromide, GUAIFENESIN",10/26/1994
+TRUE,Salmonella,meclizine hydrochloride,02/13/1990
+FALSE,Birth Defects,magnesium hydroxide,08/30/1991
+FALSE,Chronic Fatigue Syndrome,"vitamin a palmitate, ascorbic acid, cholecalciferol, alpha.-tocopherol succinate, d- thiamine hydrochloride, riboflavin 5-phosphate sodium, niacinamide, pyridoxine hydrochloride, ferrous sulfate and sodium fluoride",03/04/1990
+TRUE,Zika Virus,OXYGEN,02/09/1961
+FALSE,Meningitis,Bismuth subsalicylate,12/19/1952
+FALSE,Tuberculosis (TB),OCTINOXATE,12/07/1971
+TRUE,Flu (Influenza),Propranolol Hydrochloride,04/09/1979
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),CYCLOBENZAPRINE HYDROCHLORIDE,12/08/1998
+FALSE,Sexually Transmitted Diseases (STDs),Promethazine Hydrochloride,03/17/1953
+FALSE,Trichomonas Infection (Trichomoniasis),"avobenzone, homosalate, octisalate, octocrylene",09/24/1992
+FALSE,Human Papillomavirus (HPV),"Titanium Dioxide, Octinoxate",09/21/2009
+TRUE,HIV/AIDS,HYDROCODONE BITARTRATE AND ACETAMINOPHEN,10/08/1993
+FALSE,Asthma,Lorazepam,06/19/1997
+TRUE,Autism Spectrum Disorder (ASD),SODIUM FLUORIDE,04/11/1950
+TRUE,Hepatitis,sitagliptin and metformin hydrochloride,02/26/1955
+TRUE,Epilepsy,"octinoxate, oxybenzone and petrolatum",06/09/1952
+FALSE,Cancer,Lisinopril,08/07/1976
+TRUE,Chlamydia,,09/10/2007
+TRUE,Meningitis,"dibasic sodium phosphate, monobasic sodium phosphate",09/01/1990
+TRUE,Asthma,Acetylcholine Chloride,12/29/1990
+FALSE,Middle East Respiratory Syndrome (MERS),House Dust,08/30/1981
+TRUE,Middle East Respiratory Syndrome (MERS),Ceftriaxone Sodium,07/11/1966
+TRUE,Gonorrhea,TIN,04/12/2000
+FALSE,Birth Defects,Glyburide,06/01/1957
+FALSE,Chronic Fatigue Syndrome,,04/23/1954
+FALSE,Giardiasis,Rosuvastatin calcium,10/14/1988
+FALSE,Traumatic Brain Injury (TBI),Sodium Fluoride,03/13/1999
+TRUE,Microcephaly,Nitrofurantoin Macrocrystals,05/16/1957
+TRUE,Hepatitis,meloxicam,08/21/1964
+TRUE,Asthma,,03/03/2005
+FALSE,Overweight and Obesity,Zinc Oxide,08/19/1978
+TRUE,Diabetes,Skin Irritation Cuts,07/29/1952
+TRUE,Stroke,CLADOSPORIUM CLADOSPORIOIDES,09/01/1986
+TRUE,Chlamydia,,10/17/1963
+FALSE,Arthritis,SALICYLIC ACID,05/21/1968
+TRUE,HIV/AIDS,Salicylic Acid,03/18/1962
+TRUE,Zika Virus,,02/18/2009
+FALSE,Zika Virus,Octinoxate,02/22/1961
+FALSE,Birth Defects,quinapril hydrochloride and hydrochlorothiazide,01/08/1967
+TRUE,Autism Spectrum Disorder (ASD),Fosinopril Sodium,10/09/1998
+FALSE,Cancer,EPHEDRINE SULFATE,11/17/2008
+TRUE,Hepatitis,Bacitracin Zinc and Polymyxin B Sulfate,04/23/1995
+FALSE,Ebola (Ebola Virus Disease),Triclosan,04/21/1973
+FALSE,Cancer,PHENAZOPYRIDINE HYDROCHLORIDE,11/25/2008
+FALSE,Chronic Fatigue Syndrome,"AVOBENZONE, HOMOSALATE, OCTOCRYLENE",07/22/1988
+FALSE,Flu (Influenza),Witch Hazel,11/30/2009
+TRUE,Diabetes,Metformin Hydrochloride,12/08/1980
+TRUE,Stroke,Triclosan,11/07/1978
+TRUE,Ebola (Ebola Virus Disease),Griseofulvin,11/11/1968
+TRUE,Human Papillomavirus (HPV),benzonatate,04/07/1975
+TRUE,HIV/AIDS,LEVOMENOL,01/18/2003
+TRUE,Chlamydia,TRICLOSAN,04/18/2002
+TRUE,Asthma,progesterone,03/21/1987
+TRUE,Overweight and Obesity,Acetaminophen,09/09/1952
+TRUE,Diabetes,Phenylephrine Hydrochloride,12/04/1971
+FALSE,Human Papillomavirus (HPV),"Acetaminophen, Guaifenesin and Phenylephrine HCl",08/24/1982
+FALSE,Chlamydia,,12/29/1994
+FALSE,Sexually Transmitted Diseases (STDs),Gentamicin Sulfate,01/16/1974
+FALSE,Avian Influenza,Canadian Blue Grass,07/17/1967
+FALSE,HIV/AIDS,CEFEPIME,03/09/1978
+TRUE,Giardiasis,Tolnaftate,10/07/1960
+TRUE,Gonorrhea,"Aconitum napellus, Allium capa, Apis mellifica, Belladonna, Calcarea carbonica, Capsicum annuum, Causticum, Chamomilla, Dulcamara, Ferrum phosphoricum, Hepar sulphuris calcareum, Kali muriaticum, Mercurius dulcis, Mercurius solubilis, Plantago major, and Silicea",01/09/1971
+FALSE,Diabetes,fenofibrate,09/13/1955
+FALSE,Kidney Disease (Chronic Kidney Disease),Pinto Bean,11/04/1962
+TRUE,Meningitis,"OCTINOXATE, TITANIUM DIOXIDE",06/29/1972
+FALSE,Human Papillomavirus (HPV),Metoprolol Tartrate,09/28/1984
+FALSE,HIV/AIDS,Pimento,10/10/1954
+TRUE,Chronic Obstructive Pulmonary Disease (COPD),,11/01/1963
+FALSE,Autism Spectrum Disorder (ASD),"OCTINOXATE, OCTISALATE",05/28/1956
+TRUE,Meningitis,verapamil hydrochloride,10/18/2009
+FALSE,Kidney Disease (Chronic Kidney Disease),,06/13/1990
+TRUE,Chlamydia,Midazolam HCl,11/27/2005
+TRUE,Sexually Transmitted Diseases (STDs),SULFACETAMIDE SODIUM,09/11/1993
+TRUE,Parasites 每 Scabies,SPIGELIA ANTHELMIA and CALCIUM SULFIDE and TOXICODENDRON PUBESCENS LEAF and DELPHINIUM STAPHISAGRIA SEED and APIS MELLIFERA and SODIUM CHLORIDE and MERCURIC SULFIDE,10/23/1997
+FALSE,Parasites 每 Scabies,BROMPHENIRAMINE MALEATE and PSEUDOEPHEDRINE HYDROCHLORIDE,02/04/1994
+TRUE,Autism Spectrum Disorder (ASD),"ECHINACEA,BAPTISIA,APIS MELLIFICA ,FERRUM PHOSPHORICUM ,",12/05/1988
+TRUE,Arthritis,"OCTINOXATE, OXYBENZONE",12/31/1999
+FALSE,Parasites 每 Scabies,ramelteon,07/16/2008
+FALSE,HIV/AIDS,ZINC OXIDE and OCTINOXATE,03/16/1984
+TRUE,Fetal Alcohol Spectrum Disorders,Tizanidine,04/11/1966
+FALSE,Zika Virus,Methimazole,11/30/1972
+FALSE,Diabetes,Talc,01/01/1997
+TRUE,Ebola (Ebola Virus Disease),GENTIAN VIOLET,05/15/1984
+FALSE,Fetal Alcohol Spectrum Disorders,ciprofloxacin,05/30/2006
+TRUE,Middle East Respiratory Syndrome (MERS),TOPIRAMATE,01/01/1958
+TRUE,Ebola (Ebola Virus Disease),"OCTINOXATE, HOMOSALATE, OXYBENZONE, AVOBENZONE",09/30/2002
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Aspirin,05/09/1991
+FALSE,Stroke,,01/03/1961
+FALSE,ADHD,Propranolol Hydrochloride,04/24/2008
+FALSE,Birth Defects,sildenafil citrate,08/22/1990
+FALSE,Salmonella,DOCUSATE SODIUM,08/14/1993
+FALSE,Kidney Disease (Chronic Kidney Disease),Ibuprofen,12/19/2006
+FALSE,Cancer,,08/02/1973
+FALSE,Chlamydia,,10/13/1961
+FALSE,Diabetes,"Zinc Oxide, Titanium Dioxide",05/05/1960
+TRUE,Kidney Disease (Chronic Kidney Disease),Titanium Dioxide and Zinc Oxide,11/08/1966
+TRUE,Gonorrhea,alcohol,05/30/2000
+FALSE,Asthma,sodium phosphate,05/01/2006
+TRUE,Diabetes,"avobenzone, homosalate, octisalate, octocrylene",02/10/2008
+FALSE,Cancer,Gambil Oak,12/13/1959
+TRUE,Chlamydia,Temozolomide,05/18/1987
+FALSE,Gonorrhea,,05/02/1993
+TRUE,Salmonella,Divalproex Sodium,08/19/1994
+TRUE,Cancer,Metoclopramide Hydrochloride,09/10/1973
+TRUE,Parasites 每 Scabies,,11/15/1979
+TRUE,HIV/AIDS,,07/09/1994
+TRUE,Water-related Diseases,Oxygen,10/21/2000
+FALSE,Human Papillomavirus (HPV),Eastern Cottonwood,04/26/1970
+FALSE,Tuberculosis (TB),fexofenadine hydrochloride,10/22/1979
+TRUE,Asthma,Isopropyl Alcohol,05/11/2001
+FALSE,Heart Disease,ZINC OXIDE,05/14/1989
+FALSE,Kidney Disease (Chronic Kidney Disease),DNA,07/09/1976
+TRUE,Human Papillomavirus (HPV),sitagliptin and metformin hydrochloride,02/14/1958
+FALSE,Middle East Respiratory Syndrome (MERS),dexmethylphenidate hydrochloride,03/27/1963
+TRUE,Kidney Disease (Chronic Kidney Disease),Oxygen,08/21/1999
+FALSE,Parasites 每 Scabies,Sodium Fluoride,02/22/2000
+FALSE,Microcephaly,"OCTINOXATE, TITANIUM DIOXIDE, ZINC OXIDE, BETAINE, TALC",02/03/2002
+FALSE,Stroke,Escitalopram Oxalate,09/24/1992
+TRUE,Kidney Disease (Chronic Kidney Disease),Cefazolin,11/12/1967
+FALSE,Giardiasis,Jute,10/29/1978
+TRUE,Traumatic Brain Injury (TBI),Ranitidine,12/08/1981
+FALSE,Tuberculosis (TB),Carboxymethylcellulose sodium,03/28/1989
+FALSE,Genital Herpes (Herpes Simplex Virus),Carvedilol,03/23/1988
+FALSE,Parasites 每 Scabies,lorazepam,11/11/2007
+FALSE,Ebola (Ebola Virus Disease),Calcium Chloride,09/09/1988
+FALSE,Gonorrhea,Memantine Hydrochloride,05/25/1952
+FALSE,Chronic Fatigue Syndrome,Bumetanide,05/10/2007
+TRUE,Flu (Influenza),risperidone,02/06/1972
+FALSE,Overweight and Obesity,"famotidine, calcium carbonate and magnesium hydroxide",07/15/1997
+TRUE,Trichomonas Infection (Trichomoniasis),Ibuprofen,03/25/1991
+TRUE,Kidney Disease (Chronic Kidney Disease),donepezil hydrochloride,05/01/1971
+TRUE,Fetal Alcohol Spectrum Disorders,Ibuprofen,02/25/1994
+FALSE,Arthritis,"Camphor, Menthol",12/18/1967
+TRUE,Chlamydia,DIOSCOREA VILLOSA ROOT GINGER,02/17/1984
+FALSE,Arthritis,BEE VENOM,08/01/1987
+TRUE,Trichomonas Infection (Trichomoniasis),azathioprine,01/02/1989
+TRUE,Ebola (Ebola Virus Disease),External Analgesic Plaster for Removal of Corns and Calluses,06/14/2001
+TRUE,Meningitis,tramadol hydrochloride and acetaminophen,03/08/1953
+FALSE,Sexually Transmitted Diseases (STDs),"Baptisia Tintoria Root, Echinacea Angustifolia, Eupatoriom Perfoliatum Flowering Top, Lomatium Dissectum Root, Pueraria Montana Var. Lobata Root, Trifolium Pratense Flower, Pnytolacca Americana Root, Onion, Arsenic Triiodode, Barium Carbonate, Bromide, Oyster Shell Calcium Carbonate Crude, Potassium Chloride, Mercurius Solubilis, Silicon Dioxide",05/21/1981
+FALSE,Stroke,"Octinoxate, Oxybenzone, TItanium Dioxide",05/30/1979
+FALSE,Avian Influenza,Sennosides,11/21/1981
+FALSE,HIV/AIDS,,04/27/1956
+FALSE,Ebola (Ebola Virus Disease),ONDANSETRON HYDROCHLORIDE,01/29/1960
+FALSE,Ebola (Ebola Virus Disease),,08/21/1980
+FALSE,Epilepsy,Midazolam hydrochloride,09/11/1971
+FALSE,Flu (Influenza),"Chelidonium Majus, Hepar Suis, Cholesterinum, Lycopodium Clavatum, Tarentula Hispana, Arsenicum Album, Belladonna",03/18/1958
+FALSE,Tuberculosis (TB),Mexiletine Hydrochloride,04/10/1966
+FALSE,Human Papillomavirus (HPV),doxepin hydrochloride,04/16/1951
+TRUE,Gonorrhea,Clindamycin Phosphate,01/14/1998
+FALSE,Fetal Alcohol Spectrum Disorders,BAPTISIA TINCTORIA,01/25/1972
+TRUE,Avian Influenza,diltiazem hydrochloride,09/23/1954
+TRUE,Kidney Disease (Chronic Kidney Disease),Methylphenidate hydrochloride,07/04/2006
+FALSE,Asthma,ALCOHOL,09/01/1996
+FALSE,Water-related Diseases,Onopordon Comp.,10/26/2006
+TRUE,Heart Disease,ALCOHOL,07/13/1955
+FALSE,Human Papillomavirus (HPV),"Titanium Dioxide, Zinc Oxide",02/14/2004
+TRUE,Water-related Diseases,,06/12/1959
+FALSE,Avian Influenza,onabotulinumtoxinA,07/08/1952
+TRUE,Arthritis,CEFPODOXIME PROXETIL,03/29/1982
+TRUE,Middle East Respiratory Syndrome (MERS),TRICLOSAN,03/16/1971
+FALSE,Overweight and Obesity,Lisinopril,03/25/1956
+TRUE,Microcephaly,Titanium Dioxide,06/30/2005
+FALSE,Fetal Alcohol Spectrum Disorders,Levofloxacin,04/26/1961
+FALSE,Genital Herpes (Herpes Simplex Virus),lacosamide,04/26/1997
+TRUE,Heart Disease,dexrazoxane,11/12/1966
+TRUE,Parasites 每 Scabies,Aluminum Zirconium Tricholorohydrex GLY,02/19/1997
+FALSE,Flu (Influenza),Menthol,10/03/1962
+FALSE,Fetal Alcohol Spectrum Disorders,Octinoxate and Titanium Dioxide,08/27/1996
+FALSE,Microcephaly,ANTIPYRINE AND BENZOCAINE,01/08/2006
+TRUE,Giardiasis,ALCOHOL,01/01/1965
+FALSE,Kidney Disease (Chronic Kidney Disease),ramipril,05/08/1953
+FALSE,Sexually Transmitted Diseases (STDs),Octinoxate and Titanium dioxide,05/15/1956
+FALSE,Overweight and Obesity,Potassium Chloride,05/23/1996
+FALSE,Gonorrhea,,02/24/1963
+FALSE,Avian Influenza,Bumetanide,03/22/1981
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),,06/06/1983
+TRUE,Ebola (Ebola Virus Disease),"OCTSALATE, AVOBENZONE",12/27/1965
+TRUE,Tuberculosis (TB),Triclocarban,09/17/1959
+FALSE,Gonorrhea,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl",10/29/1978
+FALSE,Avian Influenza,clarithromycin,07/14/1962
+FALSE,Zika Virus,"Aesculus hippocastanum, flos, Agrimonia eupatoria, flos, Apocynum cannabinum, Arsenicum album, Asarum europaeum, Avena sativa, Capsicum annuum, Carboneum sulphuratum, Gelsemium sempervirens, Helianthus annuus, Juglans regia, flos, Lonicera caprifolium, flos, Naja tripudians, Paullinia sorbilis",05/17/1984
+FALSE,Tuberculosis (TB),"Octinoxate, Zinc Oxide",04/12/1986
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Oxygen,03/05/2000
+FALSE,Overweight and Obesity,Carp,11/08/1963
+TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Camphor,01/27/1957
+FALSE,Gonorrhea,Carbamide Peroxide,01/15/1965
+TRUE,Human Papillomavirus (HPV),"Aesculus hippocastanum, Collinsonia canadensis",04/30/1957
+FALSE,Human Papillomavirus (HPV),ETHYL ALCOHOL,10/04/1981
+TRUE,Cancer,"Titanium Dioxide, Octinoxate/EthylhexylMehtoxycinnamate",04/15/1986
+FALSE,ADHD,,04/21/1999
+FALSE,Kidney Disease (Chronic Kidney Disease),aspergillus niger var. niger,10/19/1962
+FALSE,Arthritis,darbepoetin alfa,09/21/1965
+TRUE,Trichomonas Infection (Trichomoniasis),ANGUSTURA VERA,03/16/1999
+TRUE,Hepatitis,Ibuprofen,05/22/2001
+FALSE,Overweight and Obesity,Alprazolam,05/07/2004
+FALSE,Middle East Respiratory Syndrome (MERS),Desoximetasone,12/11/1966
+FALSE,Epilepsy,"Aconitum napellus, Angelica archangelica, Argentum nitricum, Arnica montana, Calendula officinalis, Cimicifuga racemosa, Cistus canadensis, Clematis vitalba, flos, Hypericum perforatum, Impatiens glandulifera, flos, Nitricum acidum, Ornithogalum umbellatum, Prunus cerasifera, flos, Pulsatilla",08/31/1953
+TRUE,Genital Herpes (Herpes Simplex Virus),Dexmedetomidine Hydrochloride,03/26/1955
+TRUE,ADHD,"Scleranthus,",01/10/1969
+FALSE,ADHD,Nisoldipine,02/27/1993
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Benzalkonium Chloride,01/14/1973
+FALSE,Asthma,Water,09/02/2005
+TRUE,Middle East Respiratory Syndrome (MERS),TITANIUM DIOXIDE,12/20/1973
+FALSE,Chronic Obstructive Pulmonary Disease (COPD),DONEPEZIL HYDROCHLORIDE,03/31/2002
+FALSE,Genital Herpes (Herpes Simplex Virus),Cyclosporine,09/13/2007
+TRUE,Epilepsy,piperacillin sodium and tazobactam sodium,03/10/1988
+FALSE,Kidney Disease (Chronic Kidney Disease),Nicotine Polacrilex,08/22/1979
+TRUE,Fetal Alcohol Spectrum Disorders,Burweed Marsh Elder,03/10/1979
+FALSE,Gonorrhea,ALCOHOL,06/07/1980
+TRUE,Birth Defects,Anticoagulant Citrate Phosphate Dextrose Adenine,11/10/1978
+FALSE,Diabetes,nitroglycerin,09/19/2002
+FALSE,Genital Herpes (Herpes Simplex Virus),"Butalbital, Acetaminophen, Caffeine, and Codeine Phosphate",03/17/1968
+FALSE,Asthma,Pseudoephedrine Hydrochloride,03/10/1972
+FALSE,Meningitis,,03/11/2001
+FALSE,Flu (Influenza),Acetaminophen,11/22/1995
+TRUE,Asthma,olmesartan medoxomil,09/07/1985
+FALSE,Overweight and Obesity,Bupropion Hydrochloride,04/29/1961
+FALSE,Arthritis,vigabatrin,05/08/1968
+FALSE,Tuberculosis (TB),Cetirizine Hydrochloride,09/10/1981
+FALSE,Diabetes,Promethazine Hydrochloride,12/14/1976
+TRUE,Kidney Disease (Chronic Kidney Disease),Zinc Gluconate,03/19/1990
+TRUE,Cancer,Disulfiram,11/19/2006
+TRUE,HIV/AIDS,,09/17/1968
+TRUE,Hepatitis,Natural Medicine,02/04/1982
+FALSE,ADHD,Enalapril Maleate and Hydrochlorothiazide,09/16/1954
+FALSE,Kidney Disease (Chronic Kidney Disease),ABROTANUM,04/07/1951
+FALSE,Overweight and Obesity,Ciprofloxacin Hydrochloride,05/12/1986
+TRUE,Flu (Influenza),"Calc. fluor., Calc. phos., Calc.sulph., Ferrum phosphoricum, Kali mur., Kali phos., Kali sulph., Mag. phos., Nat. mur., Nat. phos., Nat.sulphuricum, Silicea",06/21/2005
+FALSE,Heart Disease,rizatriptan benzoate,01/10/2007
+FALSE,Chronic Fatigue Syndrome,Testosterone,07/22/1969
+FALSE,Hepatitis,"Adrenal, ATP, Bac nosode, Belladonna",07/29/1969
+FALSE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Triclosan,11/01/1973
+FALSE,Water-related Diseases,"Avobenzone, Octisalate, Octocrylene, and Oxybenzone",09/23/2001
+TRUE,ADHD,Guaifenesin,09/03/1954
+TRUE,ADHD,Doxycycline Hyclate,11/10/1976
+FALSE,Chlamydia,Nitisinone,02/27/1988
+TRUE,Sexually Transmitted Diseases (STDs),ramelteon,09/14/1981
+TRUE,Epilepsy,Clonazepam,08/21/2005
+TRUE,Hepatitis,Indium In -111 Pentetreotide,01/18/1968
+FALSE,ADHD,Aspirin,09/09/1970
+TRUE,Genital Herpes (Herpes Simplex Virus),pyrithione zinc,10/10/1986
+FALSE,Overweight and Obesity,Oxygen,09/18/2004
+TRUE,Diabetes,"Chelidonium majus, Echinacea, Gentiana lutea, Arsenicum album, Carbo vegetabilis, Lycopodium clavatum, Nux vomica, Phosphorus, Pulsatilla",02/25/1988
+TRUE,Arthritis,ALLANTOIN,01/15/2002
+FALSE,Ebola (Ebola Virus Disease),TECHNETIUM TC-99M SODIUM PERTECHNETATE,12/03/1957
+FALSE,Zika Virus,"Cimex lectularius, Formica rufa, Pulex irritans, Vespa crabro, Apis Mellifica, Hypericum Perforatum, Ledum Palustre",02/08/1986
+FALSE,Microcephaly,OCTINOXATE and TITANIUM DIOXIDE,02/22/1964
+FALSE,Genital Herpes (Herpes Simplex Virus),BUPIVACAINE HYDROCHLORIDE,11/28/2005
+TRUE,Meningitis,Treatment Set TS351200,06/14/1955
+TRUE,Chlamydia,ketamine hydrochloride,10/03/1986
+FALSE,Flu (Influenza),Lamotrigine,09/01/2004
+TRUE,Genital Herpes (Herpes Simplex Virus),simvastatin,05/22/1953
+TRUE,Chronic Obstructive Pulmonary Disease (COPD),HYDROQUINONE,04/03/1962
+TRUE,Chronic Fatigue Syndrome,Magnesium Citrate,06/18/2006
+FALSE,Overweight and Obesity,Metronidazole,10/01/2008
+TRUE,HIV/AIDS,Clindamycin Hydrochloride,08/01/1988
+FALSE,Epilepsy,Petrolatum,08/17/2000
+FALSE,Zika Virus,Sodium Monofluorophosphate,06/30/1985
+FALSE,Microcephaly,Metronidazole,02/23/1986
+FALSE,Heart Disease,NIFEDIPINE,09/27/1979
+TRUE,Parasites 每 Scabies,Fluconazole,02/17/1967
+TRUE,Sexually Transmitted Diseases (STDs),Pseudoephedrine HCl,12/08/1978
+FALSE,Tuberculosis (TB),Ketorolac Tromethamine,12/27/1963
+TRUE,Giardiasis,,04/30/1989
+TRUE,Traumatic Brain Injury (TBI),Atenolol,07/21/1990
+FALSE,Gonorrhea,Ibuprofen,11/23/1970
+TRUE,Kidney Disease (Chronic Kidney Disease),,09/17/1990
+FALSE,Asthma,FLUOXETINE,04/01/1983
+FALSE,Genital Herpes (Herpes Simplex Virus),Tetanus Immune Globulin (Human),11/10/1995
+TRUE,Birth Defects,Sulfacetamide Sodium,02/04/1976
+TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Aluminum Zirconium Pentachlorohydrex Gly,08/17/1999
+TRUE,Microcephaly,Enoxaparin sodium,02/28/2003
+TRUE,Gonorrhea,Ibuprofen,10/12/1962
+FALSE,Human Papillomavirus (HPV),memantine hydrochloride,01/11/2001
+FALSE,Chlamydia,Fentanyl,10/10/2006
+TRUE,Parasites 每 Scabies,"Acetaminophen, Guaifenesin, Phenylephrine Hydrochloride, and Diphenhydramine Hydrochloride",12/09/1963
+FALSE,Meningitis,OCTINOXATE,03/22/1986
+FALSE,Cancer,CETYLPYRIDINIUM CHLORIDE and HYDROGEN PEROXIDE,06/22/1978
+FALSE,Giardiasis,"Arnica montana, Hypericum perforatum, Symphytum officinale, Gnaphalium polycephalum, Colocynthis, Formica rufa, Rhus toxicodendron,",07/26/1955
+FALSE,Fetal Alcohol Spectrum Disorders,Triclosan,10/10/1976
+FALSE,Gonorrhea,Oxycodone Hydrochloride,02/06/1955
+FALSE,Epilepsy,propranolol hydrochloride,11/19/1980
+FALSE,Stroke,Allergenic Extracts Alum Precipitated,11/20/1957
+FALSE,Diabetes,,02/19/1973
+TRUE,Asthma,Maraviroc,05/18/2002
+TRUE,Salmonella,"Dextromethorphan HBr, Doxylamine succinate",06/08/1982
+TRUE,Zika Virus,ALCOHOL,03/10/1982
+TRUE,HIV/AIDS,LAMOTRIGINE,01/05/1990
+FALSE,Birth Defects,Sertraline Hydrochloride,01/17/1972
+FALSE,Overweight and Obesity,atovaquone and proguanil hydrochloride,02/06/1975
+FALSE,Middle East Respiratory Syndrome (MERS),,10/13/1966
+TRUE,Birth Defects,,07/26/1977
+FALSE,Ebola (Ebola Virus Disease),Salmonella,09/25/1968
+FALSE,Flu (Influenza),Amlodipine Besylate and Benazepril Hydrochloride,07/02/1997
+FALSE,Kidney Disease (Chronic Kidney Disease),Gabapentin,10/20/1966
+TRUE,Arthritis,Titanium Dioxide and Zinc Oxide,04/14/1959
+TRUE,Gonorrhea,Husky 514,08/13/1991
+TRUE,Overweight and Obesity,PANAX GINSENG WHOLE,08/18/1994
+TRUE,Parasites 每 Scabies,Magnesium hydroxide,12/23/1976
+TRUE,Chronic Fatigue Syndrome,Desoximetasone,09/01/1981
+TRUE,Chronic Fatigue Syndrome,Tetracycline Hydrochloride,10/18/1973
+FALSE,Trichomonas Infection (Trichomoniasis),Levetiracetam,09/20/1980
+FALSE,Ebola (Ebola Virus Disease),Ciprofloxacin,06/09/1982
+TRUE,Human Papillomavirus (HPV),fexofenadine hydrochloride,02/08/1970
+FALSE,Flu (Influenza),"Belladonna, Bryonia, Gelsemium sempervirens, Glonionum, Melilotus officinalis, Natrum muriaticum, Nitricum acidum, Nux vomica, Silicea Spigelia anthelmia",02/19/2004
+FALSE,Arthritis,Diphenhydramine HCl,10/29/1988
+TRUE,Asthma,Guaifenesin,10/04/2000
+TRUE,Autism Spectrum Disorder (ASD),ZOLPIDEM TARTRATE,09/08/2006
+TRUE,Flu (Influenza),Gentian Violet 1%,05/27/1990
+FALSE,Microcephaly,Diphenhydramine HCl,04/11/1958
+TRUE,Flu (Influenza),"Acetaminophen, Diphenhydramine HCl",07/26/1976
+TRUE,Chlamydia,"Octinoxate, Oxybenzone, and Titanium Dioxide",07/19/1987
+TRUE,ADHD,ETHYL ALCOHOL,08/04/1985
+TRUE,Heart Disease,,07/12/1989
+FALSE,Hepatitis,Mineral Oil,03/27/1959
+TRUE,Arthritis,Warfarin Sodium,12/21/1997
+TRUE,Overweight and Obesity,Pantoprazole Sodium,10/10/2004
+TRUE,HIV/AIDS,Benzalkonium Chloride,10/13/1979
+TRUE,Avian Influenza,Octinoxate and Titanium dioxide,08/29/1973
+TRUE,Epilepsy,"Aluminum hydroxide, Magnesium carbonate",08/27/2007
+TRUE,Chronic Obstructive Pulmonary Disease (COPD),"ANTIMONY POTASSIUM TARTRATE, BRYONIA ALBA ROOT, PROTORTONIA CACTI, DROSERA ROTUNDIFOLIA, IPECAC, PULSATILLA VULGARIS, RUMEX CRISPUS ROOT, PONGIA OFFICINALIS SKELETON, ROASTED, LOBARIA PULMONARIA",01/15/1961
+FALSE,Gonorrhea,Doxazosin,08/17/1992
+TRUE,Autism Spectrum Disorder (ASD),,07/20/1956
+FALSE,Ebola (Ebola Virus Disease),Mineral Oil and Petrolatum,12/21/2008
+FALSE,Birth Defects,Oxacillin,02/18/1959
+TRUE,Water-related Diseases,Pear,02/11/1958
+TRUE,Middle East Respiratory Syndrome (MERS),Oxymetazoline HCl,04/22/2008
+FALSE,Autism Spectrum Disorder (ASD),Tizanidine,01/05/1996
+TRUE,Meningitis,,08/21/1951
+FALSE,Tuberculosis (TB),Triclosan,02/16/1963
+TRUE,Kidney Disease (Chronic Kidney Disease),Atenolol,02/24/1963
+TRUE,Hepatitis,paliperidone palmitate,11/05/2008
+TRUE,Water-related Diseases,Amoxicillin and Clavulanate Potassium,10/19/1978
+TRUE,Human Papillomavirus (HPV),"Maple, Hard Acer saccharum",03/25/1978
+TRUE,Hepatitis,"Asclepias Vincetoxicum, Echinacea, Hypothalamus (suis), Hepar Suis, Methlycobalamin, Renal (suis), Gambogia",02/28/1992
+FALSE,Water-related Diseases,Treatment Set TS332499,08/19/1986
+TRUE,Chronic Fatigue Syndrome,Oxycodone and Acetaminophen,10/18/1997
+TRUE,Epilepsy,Pseudoephedrine HCl,08/07/1963
+TRUE,Chronic Obstructive Pulmonary Disease (COPD),SODIUM MONOFLUOROPHOSPHATE,03/26/1984
+TRUE,Sexually Transmitted Diseases (STDs),Piperacillin and Tazobactam,01/28/1956
+FALSE,ADHD,alprazolam,09/27/1976
+FALSE,Microcephaly,ALUMINUM SESQUICHLOROHYDRATE,12/29/1960
+FALSE,Hepatitis,Oxymetazoline HCl,12/29/1969
+TRUE,Chlamydia,BUMETANIDE,10/07/1983
+TRUE,Trichomonas Infection (Trichomoniasis),methscopolamine bromide,12/16/1986
+TRUE,Stroke,topiramate,06/19/1984
+FALSE,Traumatic Brain Injury (TBI),AMLODIPINE BESYLATE,05/07/1983
+TRUE,Cancer,Salicylic Acid,12/13/2006
+TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),Zinc Gluconate,04/08/1972
+TRUE,Tuberculosis (TB),"Cacao, Gelsemium, Graphites, Acacia gum, lactose, magnesium stearate, corn starch, sucrose",08/15/1978
+TRUE,Microcephaly,"Carbo vegetabilis, Cinchona officinalis, Colocynthis, Cuprum metallicum, Magnesia phosphorica, Ranunculus bulbosus,",10/07/1963
+TRUE,Birth Defects,Salicylic Acid,03/31/1998
+FALSE,Cancer,"Acetaminophen, Diphenhydramine HCl",07/15/1977
+TRUE,Kidney Disease (Chronic Kidney Disease),Amlodipine Besylate,11/26/1978
+FALSE,Hepatitis,Duloxetine,11/22/1993
+TRUE,Hepatitis,Naproxen Sodium,08/20/1993
+TRUE,Diabetes,,04/23/1984
+FALSE,HIV/AIDS,"Arnica Montana, Rhus Toxicodendron, Phytolacca Decandra, Pulsatilla, Ruta Graveolens",02/20/1951
+FALSE,Fetal Alcohol Spectrum Disorders,HYDROCODONE BITARTRATE and ACETAMINOPHEN,09/02/1972
+TRUE,Salmonella,TITANIUM DIOXIDE,08/24/2003
+TRUE,Methicillin-resistant?Staphylococcus aureus?(MRSA),ACETAMINOPHEN,03/15/1966
+FALSE,Middle East Respiratory Syndrome (MERS),Mandragora e rad. 3,09/24/1993
+TRUE,Stroke,PYRITHIONE ZINC,02/22/1962
+FALSE,Chlamydia,Triamterene and Hydrochlorothiazide,09/04/1962
+FALSE,Tuberculosis (TB),"Acetaminophen, Doxylamine succinate and Phenylephrine Hydrochloride",03/14/1998
+FALSE,Human Papillomavirus (HPV),amlodipine besylate and benazepril hydrochloride,08/24/1984
+FALSE,Fetal Alcohol Spectrum Disorders,Dopamine Hydrochloride,08/13/1997
+FALSE,Microcephaly,Treatment Set TS349290,12/15/2002
+FALSE,Avian Influenza,Doxycycline Hyclate,07/27/1965
+TRUE,Chronic Fatigue Syndrome,Ranitidine,02/28/1952
+FALSE,Microcephaly,carya ovata pollen,03/20/1993
+FALSE,Diabetes,ziprasidone hydrochloride,05/14/1983
+FALSE,Chronic Fatigue Syndrome,Sertraline Hydrochloride,07/13/1994
+TRUE,Zika Virus,pregabalin,04/07/1960
+FALSE,Diabetes,VALACYCLOVIR HYDROCHLORIDE,03/13/2006
